@@ -40,6 +40,14 @@
 										Top view and side view of BAR-PH protein; Molecular dnamics simulation can caputure atomistic detail of protein-membrane binding interface and reveal significant interting groups of atoms. 
 							</div>
 						</div>
+
+ <legend class="section-heading"> References </legend>
+
+Xiaoyun Pang, <u> <b>Jun Fan</b></u>, Yan Zhang, Kai Zhang, Bingquan Gao, Jun Ma, Jian Li, Yuchen Deng, Qiangjun Zhou, Edward H. Egelman, Victor W. Hsu, Fei Sun: A PH Domain in ACAP1 Possesses Key Features of the BAR Domain in Promoting Membrane Curvature, <a href="">Developmental Cell, 31:73-86 (2014)</a>
+</br>
+
+
+
 					</div>
 				</div>
 			</div>
