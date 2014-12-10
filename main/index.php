@@ -106,24 +106,39 @@ Rapid solidification, solute trapping, solute redistribution along the interface
 				<legend class="section-heading">Teaching</legend>
 			</div>
 			<div class="col-sm-3">
-				<h1>AP3114</h1>
+		    	<h1>AP3114</h1>
 				<h4>Computational Methods for Physicists and Materials Engineers</h4>
-				<a class="btn btn-primary" href="course/ap3114.php" target="_blank">View Detail</a>
+				<a class="btn btn-primary" href="http://www.cityu.edu.hk/ug/201415/course/AP3114.htm" target="_blank">View Details</a>
 			</div>
+
+	       <div class="col-sm-3">
+				<h1>AP3130</h1>
+				<h4>Biomaterials</h4>
+				<a class="btn btn-primary" href="http://www.cityu.edu.hk/ug/201415/course/AP3130.htm" target="_blank">View Details</a>
+			</div>
+				
 			<div class="col-sm-3">
-				<h1>AP3420</h1>
+				<h1>AP3240</h1>
 				<h4>Biophysics (NEW!)</h4>
-				<a class="btn btn-primary" href="course/ap3420.php" target="_blank">Under Construction</a>
+				<a class="btn btn-primary" href="http://www.cityu.edu.hk/ug/201415/course/AP3240.htm" target="_blank">View Details</a>
 			</div>
+
+            <div class="col-sm-3">
+				<h1>AP4172/6172/8172</h1>
+				<h4>Simulation and Modelling in Multidisciplnary Sciences</h4>
+				<a class="btn btn-primary" href="http://www.cityu.edu.hk/ug/201415/course/AP4172.htm" target="_blank">View Details</a>
+			</div>
+
 			<div class="col-sm-3">
 				<h1>AP4173/6173/8173</h1>
 				<h4>Biomedical Materials</h4>
-				<a class="btn btn-primary" href="course/ap4173.php" target="_blank">View Detail</a>
+				<a class="btn btn-primary" href="http://www.cityu.edu.hk/ug/201415/course/AP4173.htm" target="_blank">View Details</a>
 			</div>
+
 			<div class="col-sm-3">
-				<h1>AP4175/6175</h1>
+				<h1>AP4175/6175/8175</h1>
 				<h4>Advanced Technologies in Biomedical Devices </h4>
-				<a class="btn btn-primary" href="course/ap4175.php" target="_blank">View Detail</a>
+				<a class="btn btn-primary" href="http://www.cityu.edu.hk/ug/201415/course/AP4175.htm" target="_blank">View Details</a>
 			</div>
 		</div>
 
