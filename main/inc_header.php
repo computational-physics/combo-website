@@ -35,15 +35,7 @@ define("ROOTPATH", "/main");
                                 <li><a href="<?php echo ROOTPATH ?>/member/ug.php">Undergraduate</a></li>
                             </ul>
                         </li>
-                        <li class="dropdown">
-                            <a href="npacm.php#" data-toggle="dropdown">Teaching<b class="caret"></b></a>
-                            <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-                                <li><a href="<?php echo ROOTPATH ?>/course/ap3114.php" target="_blank">AP3114 <small>-Computational Methods for <br>Physicists and Materials Engineers</small></a></li>
-                                <li><a href="<?php echo ROOTPATH ?>/course/ap3420.php" target="_blank">AP3420 <small>-Biophysics</small></a></li>
-                                <li><a href="<?php echo ROOTPATH ?>/course/ap4173.php" target="_blank">AP4173/6173/8173 <small>-Biomedical Materials</small></a></li>
-                                <li><a href="<?php echo ROOTPATH ?>/course/ap4175.php" target="_blank">AP4175/6175 <small>-Advanced Technologies <br>in Biomedical Devices </small></a></li>
-                            </ul>
-                        </li>
+                        <li><a href="<?php echo ROOTPATH ?>/#teaching">Teaching</a></li>
                         <li><a href="<?php echo ROOTPATH ?>/opening/">Opening</a></li>
                         <li><a href="<?php echo ROOTPATH ?>/publications/">Publications</a></li>
                         <li><a href="<?php echo ROOTPATH ?>/contact/">Contact Us</a></li>

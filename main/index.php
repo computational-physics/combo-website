@@ -71,71 +71,55 @@
 		<div class="row">
 			<div class="col-sm-12" style="text-align: center;">
 				<img class="img-responsive seperator" src="img/seperator1.png" />
-
-
-		
-
-
-
-
-
-
-
 			</div>
 		</div>
 		
-		<div class="row" id="course-row">
+		<div class="row">
 			<div class="col-xs-12">
-		<legend class="section-heading"> Research Interests</legend>
-
-<h4> Theoretical and Computational Biophysics </h4> 
-
-We are interested in exploring structure, dynamics, property and function of soft materials including (a)
- Lipids and membranes, (b) protein and protein complex, and (c)
- membrane & protein systems. 
-</br>
-</br> 
-<h4>
-Non-equilibrium phase transitions </h4>
-Rapid solidification, solute trapping, solute redistribution along the interface.
-</br></br>
-<h4> Scientific Computing
-</h4>  GPU Computing 
-
-
-				<legend class="section-heading">Teaching</legend>
+                <legend class="section-heading"> Research Interests</legend>
+                <h4> Theoretical and Computational Biophysics </h4> 
+                <p>We are interested in exploring structure, dynamics, property and function of soft materials including (a) Lipids and membranes, (b) protein and protein complex, and (c) membrane & protein systems. </p>
+                <br />
+                <h4>Non-equilibrium phase transitions </h4>
+                <p>Rapid solidification, solute trapping, solute redistribution along the interface.</p>
+                <br />
+                <h4>Scientific Computing</h4>  
+                <p>GPU Computing</p>
+                <legend class="section-heading">Teaching<a name="teaching"></a></legend>
 			</div>
-			<div class="col-sm-3">
+        </div>
+        <div class="row" id="course-row">
+			<div class="col-sm-4">
 		    	<h1>AP3114</h1>
 				<h4>Computational Methods for Physicists and Materials Engineers</h4>
 				<a class="btn btn-primary" href="http://www.cityu.edu.hk/ug/201415/course/AP3114.htm" target="_blank">View Details</a>
 			</div>
 
-	       <div class="col-sm-3">
+	       <div class="col-sm-4">
 				<h1>AP3130</h1>
 				<h4>Biomaterials</h4>
 				<a class="btn btn-primary" href="http://www.cityu.edu.hk/ug/201415/course/AP3130.htm" target="_blank">View Details</a>
 			</div>
 				
-			<div class="col-sm-3">
+			<div class="col-sm-4">
 				<h1>AP3240</h1>
 				<h4>Biophysics (NEW!)</h4>
 				<a class="btn btn-primary" href="http://www.cityu.edu.hk/ug/201415/course/AP3240.htm" target="_blank">View Details</a>
 			</div>
 
-            <div class="col-sm-3">
+            <div class="col-sm-4">
 				<h1>AP4172/6172/8172</h1>
 				<h4>Simulation and Modelling in Multidisciplnary Sciences</h4>
 				<a class="btn btn-primary" href="http://www.cityu.edu.hk/ug/201415/course/AP4172.htm" target="_blank">View Details</a>
 			</div>
 
-			<div class="col-sm-3">
+			<div class="col-sm-4">
 				<h1>AP4173/6173/8173</h1>
 				<h4>Biomedical Materials</h4>
 				<a class="btn btn-primary" href="http://www.cityu.edu.hk/ug/201415/course/AP4173.htm" target="_blank">View Details</a>
 			</div>
 
-			<div class="col-sm-3">
+			<div class="col-sm-4">
 				<h1>AP4175/6175/8175</h1>
 				<h4>Advanced Technologies in Biomedical Devices </h4>
 				<a class="btn btn-primary" href="http://www.cityu.edu.hk/ug/201415/course/AP4175.htm" target="_blank">View Details</a>

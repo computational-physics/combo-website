@@ -24,15 +24,7 @@ define("ROOTPATH", "/main");
                                 <li><a href="<?php echo ROOTPATH ?>/member/ug.php">Undergraduate</a></li>
                             </ul>
                         </li>
-                        <li>
-                            <a href="npacm.php#">Teaching</a>
-                            <ul>
-                                <li><a href="<?php echo ROOTPATH ?>/course/ap3114.php" target="_blank">AP3114</a></li>
-                                <li><a href="<?php echo ROOTPATH ?>/course/ap3420.php" target="_blank">AP3420</a></li>
-                                <li><a href="<?php echo ROOTPATH ?>/course/ap4173.php">AP4173/6173/8173</a></li>
-                                <li><a href="<?php echo ROOTPATH ?>/course/ap4175.php">AP4175/6175</a></li>
-                            </ul>
-                        </li>
+                        <li><a href="<?php echo ROOTPATH ?>/#teaching">Teaching</a></li>
                         <li><a href="<?php echo ROOTPATH ?>/opening/">Opening</a></li>
                         <li><a href="<?php echo ROOTPATH ?>/publications/">Publications</a></li>
                         <li><a href="<?php echo ROOTPATH ?>/contact/">Contact Us</a></li>
