@@ -88,41 +88,36 @@
                 <legend class="section-heading">Teaching<a name="teaching"></a></legend>
 			</div>
         </div>
-        <div class="row" id="course-row">
-			<div class="col-sm-4">
-		    	<h1>AP3114</h1>
-				<h4>Computational Methods for Physicists and Materials Engineers</h4>
-				<a class="btn btn-primary" href="http://www.cityu.edu.hk/ug/201415/course/AP3114.htm" target="_blank">View Details</a>
-			</div>
-
-	       <div class="col-sm-4">
-				<h1>AP3130</h1>
-				<h4>Biomaterials</h4>
-				<a class="btn btn-primary" href="http://www.cityu.edu.hk/ug/201415/course/AP3130.htm" target="_blank">View Details</a>
-			</div>
-				
-			<div class="col-sm-4">
-				<h1>AP3240</h1>
-				<h4>Biophysics (NEW!)</h4>
-				<a class="btn btn-primary" href="http://www.cityu.edu.hk/ug/201415/course/AP3240.htm" target="_blank">View Details</a>
-			</div>
-
-            <div class="col-sm-4">
-				<h1>AP4172/6172/8172</h1>
-				<h4>Simulation and Modelling in Multidisciplnary Sciences</h4>
-				<a class="btn btn-primary" href="http://www.cityu.edu.hk/ug/201415/course/AP4172.htm" target="_blank">View Details</a>
-			</div>
-
-			<div class="col-sm-4">
-				<h1>AP4173/6173/8173</h1>
-				<h4>Biomedical Materials</h4>
-				<a class="btn btn-primary" href="http://www.cityu.edu.hk/ug/201415/course/AP4173.htm" target="_blank">View Details</a>
-			</div>
-
-			<div class="col-sm-4">
-				<h1>AP4175/6175/8175</h1>
-				<h4>Advanced Technologies in Biomedical Devices </h4>
-				<a class="btn btn-primary" href="http://www.cityu.edu.hk/ug/201415/course/AP4175.htm" target="_blank">View Details</a>
+        <div class="row">
+			<div class="col-sm-12">
+		    		<p>
+                                        AP1203 - General Physics III
+                                        <a href="http://www.cityu.edu.hk/ug/201415/course/AP1203.htm" target="_blank">View Details</a>
+                                </p>
+				<p>
+		    			AP3114 - Computational Methods for Physicists and Materials Engineers
+					<a href="http://www.cityu.edu.hk/ug/201415/course/AP3114.htm" target="_blank">View Details</a>
+				</p>
+				<p>
+	    			AP3130 - Biomaterials
+					<a href="http://www.cityu.edu.hk/ug/201415/course/AP3130.htm" target="_blank">View Details</a>
+				</p>
+				<p>
+	    			AP3240 - Biophysics (NEW!)
+					<a href="http://www.cityu.edu.hk/ug/201415/course/AP3240.htm" target="_blank">View Details</a>
+				</p>
+				<p>
+	    			AP4172/6172/8172 - Simulation and Modelling in Multidisciplnary Sciences
+					<a href="http://www.cityu.edu.hk/ug/201415/course/AP4172.htm" target="_blank">View Details</a>
+				</p>
+				<p>
+	    			AP4173/6173/8173 - Biomedical Materials
+					<a href="http://www.cityu.edu.hk/ug/201415/course/AP4173.htm" target="_blank">View Details</a>
+				</p>
+				<p>
+	    			AP4175/6175/8175 - Advanced Technologies in Biomedical Devices
+					<a href="http://www.cityu.edu.hk/ug/201415/course/AP4175.htm" target="_blank">View Details</a>
+				</p>
 			</div>
 		</div>
 

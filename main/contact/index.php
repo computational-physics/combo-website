@@ -23,7 +23,6 @@
 					<div class="col-sm-12">
 					
 
-<center > <img class="img-responsive" src="../img/member_show.jpg" width="50%"></center>
 
                                               	</br> <div class="row">
 							<div class="col-sm-4">
@@ -31,7 +30,7 @@
 									<tbody>
 										<tr>
 											<td>Office: </td>
-											<td>AC1 - G6757 [<a href="index.html#CityUMap" data-toggle="modal" data-target="#CityUMap">map</a>]</td>
+											<td>AC1 - P6712 [<a href="index.html#CityUMap" data-toggle="modal" data-target="#CityUMap">map</a>]</td>
 										</tr>
 										<tr>
 											<td>Email: </td>
@@ -43,7 +42,7 @@
 										</tr>
 										<tr>
 											<td>Fax: </td>
-											<td>+(852)-3442-0311</td>
+											<td>+(852)-3442-0538</td>
 										</tr>
 									</tbody>
 								</table>

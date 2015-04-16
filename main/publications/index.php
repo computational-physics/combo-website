@@ -21,17 +21,25 @@
 				<div class="row">
 					<div class="col-xs-12">
 						<h1> Publications </h1>
+						<em class="pull-right">*corresponding author</em>
 					</div>
 					<div class="col-sm-12">
+					<legend>2015</legend>
+                                        <ul reversed="reversed">
+					<li>Qi Wu, Bolong Huang, T. A. Niehaus, Xiaojing Yang, <u><b>Jun Fan</b></u>* and Rui-Qin Zhang: The role of tryptophans in the UV-B absorption of a UVR8 photoreceptor - a computational study. <a href="http://pubs.rsc.org/en/Content/ArticleLanding/2015/CP/C4CP06073C#!divAbstract">Phys. Chem. Chem. Phys., 17: 10786-10794. DOI: 10.1039/C4CP06073C (2015)</a></li>
+                                        <li>Xiaoli Zeng, Zhong Ren, Qi Wu, <u> <b>Jun Fan</b></u>, Pan-Pan Peng, Kun Tang, Ruiqin Zhang, Kai-Hong Zhao, and Xiaojing Yang: Dynamic Crystallography Reveals Early Signaling Events in Ultraviolet Photoreceptor UVR8. <a href="http://www.nature.com/articles/nplants20146">Nature Plants, 1(1):14006. DOI: 10.1038/nplants.2014.6 (2015)</a></li>
+					</ul>
+					<legend>2014</legend>
 					<ul reversed="reversed" id="publication-list">
-					<b> <font size="5"> <p style="color:blue"> 2014 </p> </font> </b>
-					<li>Xiaoli Zeng, Zhong Ren, Qi Wu, <u> <b>Jun Fan</b></u>, Pan-Pan Peng, Kun Tang, Ruiqin Zhang, Kai-Hong Zhao, and Xiaojing Yang: Dynamic Crystallography Reveals Early Signaling Events in Ultraviolet Photoreceptor UVR8. <b> <u><font color="blue">Nature Plants</font></u></b> in press (2014)</li>
 					<li>Xiaoyun Pang, <u> <b>Jun Fan</b></u>, Yan Zhang, Kai Zhang, Bingquan Gao, Jun Ma, Jian Li, Yuchen Deng, Qiangjun Zhou, Edward H. Egelman, Victor W. Hsu, Fei Sun: A PH Domain in ACAP1 Possesses Key Features of the BAR Domain in Promoting Membrane Curvature, <a href="">Developmental Cell, 31:73-86 (2014)</a></li>
-					<li>Heqin Huang, Rui Chen, Jiale Ma, Li Yan, Yingqi Zhao, Yu Wang, Wenjun Zhang, <u> <b>Jun Fan</u> </b>*,  and Xianfeng Chen: Graphitic carbon nitride solid nanofilms for selective and recyclable sensing of Cu2+ and Ag+ in water and serum, <a href="http://pubs.rsc.org/en/content/articlelanding/2014/cc/c4cc06659f#!divAbstract">Chem. Commun. 50:15415-15418 (2014)</a></li>
+					<li>Heqin Huang, Rui Chen, Jiale Ma, Li Yan, Yingqi Zhao, Yu Wang, Wenjun Zhang, <u><b>Jun Fan</u></b>*,  and Xianfeng Chen: Graphitic carbon nitride solid nanofilms for selective and recyclable sensing of Cu2+ and Ag+ in water and serum, <a href="http://pubs.rsc.org/en/content/articlelanding/2014/cc/c4cc06659f#!divAbstract">Chem. Commun. 50:15415-15418 (2014)</a></li>
 					<li>Yingzhi Xu, He Li, Ying-Hua Jin, <u> <b>Jun Fan</b></u>* and Fei Sun: Dimerization Interface of 3-Hydroxyacyl-CoA Dehydrogenase Tunes the Formation of Its Catalytic Intermediate, <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0095965">PLoS ONE 9(4): e95965. doi: 10.1371/journal.pone.0095965 (2014)</a></li>
-					*corresponding author
+					
 
-					<b> <font size="5">  <p style="color:blue"> Selected before joining City U </p> </font> </b>
+</ul>
+<legend>Selected before joining City U </legend>
+<ul>
+
 					<li>Jun Fan, Marissa G. Saunders, Enrique M. De La Cruz, Gregory A. Voth:  Molecular origins of cofilin-induced actin filament mechanics, <a href="http://www.sciencedirect.com/science/article/pii/S0022283613000363"> Journal of Molecular Biology, 425:1225 (2013) </a></li>
 					<li>Jun Fan, Marissa G. Saunders, Gregory A. Voth: Coarse-graining provides insights on the essential nature of heterogeneity in actin filaments, <a href="http://www.ncbi.nlm.nih.gov/pubmed/22995506"> Biophysical Journal, 103:1334 (2012) </a></li>
 					<li>Jun Fan, Tao Han, Mikko Haataja: Hydrodynamic Effects on Spinodal Decomposition Kinetics in Lipid Bilayer Membranes, <a href="http://jcp.aip.org/resource/1/jcpsa6/v133/i23/p235101_s1">J. Chem. Phys. 133:235101 (2010) </a></li>
