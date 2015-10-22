@@ -11,6 +11,13 @@
 		max-width: 80%;
 		margin-left: 10%;
 	}
+
+	.vertical-center .col-sm-3, .vertical-center .col-sm-9 {
+		float:none;
+		display:inline-block;
+		vertical-align:middle;
+		margin-right:-4px;
+	}
 </style>
 </head>
 <body>
@@ -32,7 +39,7 @@
 							<h2>Principal Investigator</h2>
 						</div>
 						<div class="col-sm-12">
-							<div class="row">
+							<div class="row vertical-center">
 								<div class="col-sm-3">
 									<img class="img-responsive img-rounded" src="../img/JunFAN.jpg">
 								</div>
@@ -44,37 +51,19 @@
 							</div>
 						</div>
 					</section>
-					<hr />
+					<!-- <hr />
 					<section>
 						<div class="col-xs-12">
 							<h2>Research Staff</h2>
 						</div>
-						<div class="col-sm-12">
-							<div class="row">
-								<div class="col-sm-3">
-									<img class="img-responsive img-rounded" src="../img/hsh.JPG">
-								</div>
-								<div class="col-sm-9">
-									<h3>Mr. Shanghui HUANG</h3>
-									<ul>
-										<li>2007-2014, BSc & MSc, Nankai University</li>
-									</ul>
-									<ul>
-										<li>Office: G1417, AC1</li>
-										<li>Phone: <a href="tel:(852) 27844045">+(852) 2784-4045</a></li>
-										<li>Email: <a href="mailto:hshnk@hotmail.com">hshnk@hotmail.com</a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-					</section>
+					</section> -->
 					<hr />
 					<section>
 						<div class="col-xs-12">
 							<h2>Postgraduate Students</h2>
 						</div>
 						<div class="col-sm-12">
-							<div class="row">
+							<div class="row vertical-center">
 								<div class="col-sm-3">
 									<img class="img-responsive img-rounded" src="../img/kevin.jpg">
 								</div>
@@ -93,7 +82,7 @@
 							</div>
 						</div>
 						<div class="col-xs-12">
-							<div class="row">
+							<div class="row vertical-center">
 								<div class="col-sm-3">
 									<img class="img-responsive img-rounded" src="../img/mjl.jpg">
 								</div>
@@ -112,7 +101,7 @@
 							</div>
 						</div>
 						<div class="col-xs-12">
-							<div class="row">
+							<div class="row vertical-center">
 								<div class="col-sm-3">
 									<img class="img-responsive img-rounded" src="../img/lyf.jpg">
 								</div>
@@ -137,7 +126,7 @@
 							<h2>Undergraguate Students</h2>
 						</div>
 						<div class="col-sm-12">
-							<div class="row">
+							<div class="row vertical-center">
 								<div class="col-sm-3">
 									<img class="img-responsive img-rounded" src="../img/xjh.jpg">
 								</div>
@@ -153,7 +142,7 @@
 							</div>
 						</div>
 						<div class="col-xs-12">
-							<div class="row">
+							<div class="row vertical-center">
 								<div class="col-sm-3">
 									<img class="img-responsive img-rounded" src="../img/hung.jpg">
 								</div>
@@ -170,9 +159,9 @@
 							</div>
 						</div>
 						<div class="col-xs-12">
-							<div class="row">
+							<div class="row vertical-center">
 								<div class="col-sm-3">
-									<img class="img-responsive img-rounded" src="http://witchchildmovie.com/wp-content/uploads/2015/03/placeholder-man.png">
+									<img class="img-responsive img-rounded" src="../img/lhc.jpg">
 								</div>
 								<div class="col-sm-9">
 									<h3>Mr. Hechen LI</h3>
@@ -186,7 +175,7 @@
 							</div>
 						</div>
 						<div class="col-xs-12">
-							<div class="row">
+							<div class="row vertical-center">
 								<div class="col-sm-3">
 									<img class="img-responsive img-rounded" src="../img/jhb.jpg">
 								</div>
@@ -202,7 +191,7 @@
 							</div>
 						</div>
 						<div class="col-xs-12">
-							<div class="row">
+							<div class="row vertical-center">
 								<div class="col-sm-3">
 									<img class="img-responsive img-rounded" src="../img/xzy.jpg">
 								</div>
@@ -225,11 +214,12 @@
 						</div>
 						<div class="col-sm-12">
 							<ul>
-								<li>Tse Wai Kin (FYP, Sep. 2014-April 2015) Project: Construction of coarse grain model of MjHSP16.5</li>
-								<li>Geguang Zhu (MSc, Jan. 2014 -Aug. 2014) Project: Umbrella Sampling of Free energy calculation</li>
+								<li>Shanghui Huang (Research Staff, Sep. 2014 - July. 2015)</li>
+								<li>Tse Wai Kin (FYP, Sep. 2014 - April 2015) Project: Construction of coarse grain model of MjHSP16.5</li>
+								<li>Geguang Zhu (MSc, Jan. 2014 - Aug. 2014) Project: Umbrella Sampling of Free energy calculation</li>
 								<li>Joe Lee (MSc, Jan. 2014 - Aug. 2014) Project: Force-matching of water system.</li>
-								<li>Rui Hu (MSc, Sep. 2013-April 2014) Project: Internal Correlations of sHSP proteins</li>
-								<li>Lewis (FYP, Sep. 2013-April 2014) Project: Diffusion constant of lipid molecules in a multi-components membrane-protein system</li>
+								<li>Rui Hu (MSc, Sep. 2013 - April 2014) Project: Internal Correlations of sHSP proteins</li>
+								<li>Lewis (FYP, Sep. 2013 - April 2014) Project: Diffusion constant of lipid molecules in a multi-components membrane-protein system</li>
 							</ul>
 						</div>
 					</section>
