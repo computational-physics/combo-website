@@ -35,6 +35,8 @@ body {
 }
 .navbar-inverse {
   border-bottom: none;
+  background-color: #0056AC;
+  border-color: #06C;
 }
 /*slider nav*/
 .carousel-control.left, .carousel-control.right {
