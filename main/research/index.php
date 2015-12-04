@@ -223,7 +223,7 @@
 					<div class="col-sm-12">
 						<div class="row">
 							<div class="col-sm-12 text-center">
-								<img class="img-responsive" src="../img/research/gcnsn.1.jpg">
+								<img class="img-responsive" src="../img/research/gcnsn.1.gif">
 							</div>
 						</div>
 
