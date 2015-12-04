@@ -27,7 +27,6 @@
                         </div>
 					</div>
 					<div class="col-sm-12">
-                        <hr />
                         <ol id="publication-list" reversed>  
                             <li>Xian Chen, Limin Jin, Wei Kong, Tianying Sun, Wenfei Zhang, Xinhong Liu, <u><b>Jun Fan</b></u>, Siu Fung Yu, and Feng Wang, Confining Exciton Migration in Upconversion Nanoparticles towards Deep Ultraviolet Lasing, Nature Communications (accepted)</li>                  
                             <li>Chun Chan, Haohua Wen, Lanyuan Lu, and <u><b>Jun Fan</b></u>*, Multiscale molecular dynamics simulations membrane remodeling by BAR family proteins, <a href="http://cpb.iphy.ac.cn/EN/abstract/abstract66287.shtml">Chinese Physics B, 25:018707</a> (invited review, 2016)</li>

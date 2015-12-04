@@ -47,20 +47,19 @@
 									<h3>Dr. Jun Fan</h3>
 									<h6>Ph.D (Princeton)</h6>
 									<p>
-										Dr. Jun Fan recently joined the Department of Physics and Materials Science as an Assistant Professor. 
-										Dr. Fan received her Ph.D. degree in Mechanical and Aerospace Engineering from Princeton University, USA. 
-										She worked under Prof. Mikko Haataja for her Ph.D. thesis and focused on the structure and dynamics of cell membranes.
-										<span id="intro-hidden" style="display: none"> After her Ph.D. S
-											he moved to the University of Chicago, USA for her Postdoctoral research. 
-											She explored the structure, function and mechanical properties of protein complexes, using Molecular Dynamics simulations and coarse-grained approaches.  
-											Her research results have turned into peer-reviewed papers in prestigious journals including 
-												Nature Communications,
-												Nature Plants,
-												Physical Review Letters, 
-												Biophysical Journal, 
-												Journal of Molecular Biology, 
-												and Journal of Chemical Physics, etc.
-										</span><a id="intro-more" style="cursor: pointer" onclick="$('#intro-hidden').fadeIn(); $(this).hide()">more...</a></p>
+										Dr. Jun Fan recently joined the Department of Physics and Materials Science as an Assistant
+										Professor. Dr. Fan received her bachelor’s degree from Tsinghua University, Beijing, Master’s 
+										degree from McMaster University, Canada, and Ph.D. degree in Mechanical and Aerospace 
+										Engineering from Princeton University, USA. She worked under Prof. Mikko Haataja for her Ph.D. 
+										thesis and focused on the structure and dynamics of cell membranes. Afterwards, 
+										<span id="intro-hidden" style="display: none"> she moved to the 
+										University of Chicago, USA for as a postdoctoral researcher. She explored the structure, function 
+										and mechanical properties of protein complexes, using molecular dynamics simulations and coarse-
+										grained approaches. Her research results have turned into peer-reviewed papers in prestigious 
+										journals including Nature Communications, Nature Plants, Physical Review Letters, Biophysical 
+										Journal, and Journal of Chemical Physics, etc.
+										</span><a id="intro-more" style="cursor: pointer" onclick="$('#intro-hidden').fadeIn(); $(this).hide()">more...</a>
+									</p>
 								</div>
 							</div>
 						</div>

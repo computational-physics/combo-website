@@ -76,15 +76,23 @@
 		
 		<div class="row">
 			<div class="col-xs-12">
-                <legend class="section-heading"> Research Interests</legend>
+                <legend class="section-heading"> <a href="research/" style="color: black">Research Interests</a></legend>
                 <h4> Theoretical and Computational Biophysics </h4> 
-                <p>We are interested in exploring structure, dynamics, property and function of soft materials including (a) Lipids and membranes, (b) protein and protein complex, and (c) membrane & protein systems. </p>
-                <br />
-                <h4>Non-equilibrium phase transitions </h4>
-                <p>Rapid solidification, solute trapping, solute redistribution along the interface.</p>
-                <br />
-                <h4>Scientific Computing</h4>  
-                <p>GPU Computing</p>
+                <p>
+                	My long-term research goal is to explore molecular mechanisms of cellular systems and materials as well 
+					as to develop new computational tools in order to understand fundamental physical principles behind 
+					biological and materials phenomena. 
+				</p>
+				<p>
+					On-going research projects include
+					<ol>
+						<li>Membrane deformation proteins, e.g., BAR family proteins; </li>
+						<li>Actin cytoskeleton, which participates in many essential cellular processes such as signal transduction, cell 
+							division, cellular shape and volume changes, cell migration, and vesicular trafficking; </li>
+						<li>Amino acid – water interactions;</li>
+						<li>Functioning mechanism of photoreceptor protein in plants.</li>
+					</ol>
+                </p>
 			</div>
         </div>
         <div class="row">
