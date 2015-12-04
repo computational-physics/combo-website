@@ -41,7 +41,7 @@
 						<div class="col-sm-12">
 							<div class="row vertical-center">
 								<div class="col-sm-3">
-									<img class="img-responsive img-rounded" src="../img/JunFAN.jpg">
+									<img class="img-responsive img-rounded" src="../img/junfan.jpg">
 								</div>
 								<div class="col-sm-9">
 									<h3>Dr. Jun Fan</h3>
