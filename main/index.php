@@ -85,15 +85,15 @@
                 <br />
                 <h4>Scientific Computing</h4>  
                 <p>GPU Computing</p>
-                <legend class="section-heading">Teaching<a name="teaching"></a></legend>
 			</div>
         </div>
         <div class="row">
 			<div class="col-sm-12">
-		    		<p>
-                                        AP1203 - General Physics III
-                                        <a href="http://www.cityu.edu.hk/ug/201415/course/AP1203.htm" target="_blank">View Details</a>
-                                </p>
+				<legend class="section-heading">Teaching<a name="teaching"></a></legend>
+	    		<p>
+                	AP1203 - General Physics III
+                    <a href="http://www.cityu.edu.hk/ug/201415/course/AP1203.htm" target="_blank">View Details</a>
+                </p>
 				<p>
 		    			AP3114 - Computational Methods for Physicists and Materials Engineers
 					<a href="http://www.cityu.edu.hk/ug/201415/course/AP3114.htm" target="_blank">View Details</a>
@@ -120,7 +120,19 @@
 				</p>
 			</div>
 		</div>
-
+		<div class="row">
+			<div class="col-sm-12">
+				<legend class="section-heading">Collaborators<a name="collaborators"></a></legend>
+				<li><a target="_blank" href="http://www.sbs.ntu.edu.sg/aboutus/Faculty/lylu/Pages/Home.aspx">Lanyuan Lu</a> (Nanyang Technological University, Singapore)</li>
+	    		<li><a target="_blank" href="http://feilab.ibp.ac.cn/LBEMSB/Home.html">Fei Sun</a> (Institute of Biophysics, Chinese Academy of Sciences, China)</li>
+				<li><a target="_blank" href="http://chem.uic.edu/chemistry/people/faculty/xiaojing-yang">Xiaojing Yang</a> (University of Illinois at Chicago, US)</li>
+				<li><a target="_blank" href="https://cmb.ornl.gov/people/cheng">Xiaolin Chen</a> (Oak Ridge National Lab, US)</li>
+				<li><a target="_blank" href="http://www.ap.cityu.edu.hk/personal-website/wang-feng/home.html">Feng Wang</a> (City University of Hong Kong, HK)</li>
+				<li><a target="_blank" href="https://vothgroup.uchicago.edu">Gregory Voth</a> (University of Chicago, US)</li>
+				<li><a target="_blank" href="http://www.rsdavis.mycpanel.princeton.edu/haatajagroup">Mikko Haataja</a> (Princeton University, US)</li>
+				<li><a target="_blank" href="http://www.physics.mcgill.ca/~provatas/.index.html">Nikolas Provatas</a> (McGill University, Canada)</li>
+			</div>
+		</div>
 	</div>
 
 	<?php require('./inc_footer.php') ?>

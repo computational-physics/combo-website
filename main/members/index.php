@@ -46,7 +46,21 @@
 								<div class="col-sm-9">
 									<h3>Dr. Jun Fan</h3>
 									<h6>Ph.D (Princeton)</h6>
-									<p>Dr. Jun Fan recently joined the Department of Physics and Materials Science as an Assistant Professor. Dr. Fan received her Ph.D. degree in Mechanical and Aerospace Engineering from Princeton University, USA. She worked under Prof. Mikko Haataja for her Ph.D. thesis and focused on the structure and dynamics of cell membranes.<span id="intro-hidden" style="display: none"> After her Ph.D. she moved to the University of Chicago, USA for her Postdoctoral research. She explored the structure, function and mechanical properties of protein complexes, using Molecular Dynamics simulations and coarse-grained approaches.  Her research results have turned into peer-reviewed papers in prestigious journals including Physical Review Letters, Biophysical Letters, Journal of Molecular Biology, and Journal of Chemical Physics, etc.</span><a id="intro-more" style="cursor: pointer" onclick="$('#intro-hidden').fadeIn(); $(this).hide()">more...</a></p>
+									<p>
+										Dr. Jun Fan recently joined the Department of Physics and Materials Science as an Assistant Professor. 
+										Dr. Fan received her Ph.D. degree in Mechanical and Aerospace Engineering from Princeton University, USA. 
+										She worked under Prof. Mikko Haataja for her Ph.D. thesis and focused on the structure and dynamics of cell membranes.
+										<span id="intro-hidden" style="display: none"> After her Ph.D. S
+											he moved to the University of Chicago, USA for her Postdoctoral research. 
+											She explored the structure, function and mechanical properties of protein complexes, using Molecular Dynamics simulations and coarse-grained approaches.  
+											Her research results have turned into peer-reviewed papers in prestigious journals including 
+												Nature Communications,
+												Nature Plants,
+												Physical Review Letters, 
+												Biophysical Journal, 
+												Journal of Molecular Biology, 
+												and Journal of Chemical Physics, etc.
+										</span><a id="intro-more" style="cursor: pointer" onclick="$('#intro-hidden').fadeIn(); $(this).hide()">more...</a></p>
 								</div>
 							</div>
 						</div>
@@ -119,27 +133,31 @@
 								</div>
 							</div>
 						</div>
+						<div class="col-xs-12">
+							<div class="row vertical-center">
+								<div class="col-sm-3">
+									<img class="img-responsive img-rounded" src="../img/yonghui.jpg">
+								</div>
+								<div class="col-sm-9">
+									<h3>Mr. Yonghui ZHANG</h3>
+									<ul>
+										<li>2015-Present, PhD Candidate, City University of Hong Kong</li>
+										<li>2012-2015, MSc, University of Science and Technology of China, China</li>
+										<li>2008-2012, BSc, South China University of Technology, Guangdong, China</li>
+									</ul>
+									<ul>
+										<li>Office: G1417, AC1</li>
+										<li>Phone: <a href="tel:+(852) 5105-9663">+(852) 5244-8300</a></li>
+										<li>Email: <a href="mailto:yhzhang23-c@my.cityu.edu.hk">yhzhang23-c@my.cityu.edu.hk</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
 					</section>
 					<hr />
 					<section>
 						<div class="col-xs-12">
 							<h2>Undergraguate Students</h2>
-						</div>
-						<div class="col-sm-12">
-							<div class="row vertical-center">
-								<div class="col-sm-3">
-									<img class="img-responsive img-rounded" src="../img/xjh.jpg">
-								</div>
-								<div class="col-sm-9">
-									<h3>Mr. Jinhui XIONG</h3>
-									<ul>
-										<li>2011-Present, BEng, City University of Hong Kong</li>
-									</ul>
-									<ul>
-										<li>Email: <a href="mailto:newton.xjh@gmail.com">newton.xjh@gmail.com</a></li>
-									</ul>
-								</div>
-							</div>
 						</div>
 						<div class="col-xs-12">
 							<div class="row vertical-center">
@@ -149,27 +167,11 @@
 								<div class="col-sm-9">
 									<h3>Mr. Xinhong LIU</h3>
 									<ul>
-										<li>2012-Present, BEng, City University of Hong Kong</li>
+										<li>2012-Present, City University of Hong Kong</li>
 									</ul>
 									<ul>
 										<li>Website: <a href="https://xinhong.me">xinhong.me</a></li>
 										<li>Email: <a href="mailto:i@xinhong.me">i@xinhong.me</a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<div class="col-xs-12">
-							<div class="row vertical-center">
-								<div class="col-sm-3">
-									<img class="img-responsive img-rounded" src="../img/lhc.jpg">
-								</div>
-								<div class="col-sm-9">
-									<h3>Mr. Hechen LI</h3>
-									<ul>
-										<li>2013-Present, BSc, City University of Hong Kong</li>
-									</ul>
-									<ul>
-										<li>Email: <a href="mailto:hechenli2-c@my.cityu.edu.hk">hechenli2-c@my.cityu.edu.hk</a></li>
 									</ul>
 								</div>
 							</div>
@@ -182,7 +184,7 @@
 								<div class="col-sm-9">
 									<h3>Mr. Huanbo JIANG</h3>
 									<ul>
-										<li>2014-Present, BSc, City University of Hong Kong</li>
+										<li>2014-Present, City University of Hong Kong</li>
 									</ul>
 									<ul>
 										<li>Email: <a href="mailto:huanjiang4-c@my.cityu.edu.hk">huanjiang4-c@my.cityu.edu.hk</a></li>
@@ -198,10 +200,26 @@
 								<div class="col-sm-9">
 									<h3>Mr. Zhiyao XIE</h3>
 									<ul>
-										<li>2014-Present, BEng, City University of Hong Kong</li>
+										<li>2013-Present, City University of Hong Kong</li>
 									</ul>
 									<ul>
 										<li>Email: <a href="mailto:zyxie5-c@my.cityu.edu.hk">zyxie5-c@my.cityu.edu.hk</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="col-xs-12">
+							<div class="row vertical-center">
+								<div class="col-sm-3">
+									<img class="img-responsive img-rounded" src="http://placehold.it/150x210">
+								</div>
+								<div class="col-sm-9">
+									<h3>Mr. John YOU</h3>
+									<ul>
+										<li>2014-Present, City University of Hong Kong</li>
+									</ul>
+									<ul>
+										<li>Email: <a href="mailto:hanyou2-c@my.cityu.edu.hk">hanyou2-c@my.cityu.edu.hk</a></li>
 									</ul>
 								</div>
 							</div>
@@ -214,7 +232,9 @@
 						</div>
 						<div class="col-sm-12">
 							<ul>
-								<li>Shanghui Huang (Research Staff, Sep. 2014 - July. 2015)</li>
+								<li>Jinhui XIONG (Part-time Research Assistant, June. 2013 - July. 2015)</li>
+								<li>Hechen LI (Part-time Research Assistant, Sep. 2014 - July. 2015)</li>
+								<li>Shanghui Huang (Research Staff, Dec. 2014 - June. 2015)</li>
 								<li>Tse Wai Kin (FYP, Sep. 2014 - April 2015) Project: Construction of coarse grain model of MjHSP16.5</li>
 								<li>Geguang Zhu (MSc, Jan. 2014 - Aug. 2014) Project: Umbrella Sampling of Free energy calculation</li>
 								<li>Joe Lee (MSc, Jan. 2014 - Aug. 2014) Project: Force-matching of water system.</li>

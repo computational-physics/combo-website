@@ -62,14 +62,19 @@
 						<h2>Research Projects<hr></h2>
 						<ol>
 							<li><a href="#barph"><big>BAR-PH Protein</big></a></li>
-							<li><a href="#cm"><big>Heterogeneous Lipid Membrane</big></a></li>
-							<li><a href="#nept"><big>Non-Equilibrium Phase Transitions</big></a></li>
-							<li><a href="#npamc"><big>Membrane Internalization of Nanoparticles</big></a></li>
 							<li><a href="#afac"><big>Heterogenous Actin Filament</big></a></li>
+							<li><a href="#cm"><big>Heterogeneous Lipid Membrane</big></a></li>
+							<li><a href="#npamc"><big>Membrane Internalization of Nanoparticles</big></a></li>
+							<li><a href="#nept"><big>Non-Equilibrium Phase Transitions</big></a></li>
 						</ol>
 					</div>
 				</div>
 				<hr style="border: 2px solid grey">
+
+				<!-- ===== -->
+				<!-- BARPH -->
+				<!-- ===== -->
+
 				<div class="row">
 					<a name="barph"></a>
 					<div class="col-xs-12">
@@ -102,6 +107,85 @@
 						</br>
 					</div>
 				</div>
+
+				<!-- ===== -->
+				<!-- Heterogenous Actin Filament -->
+				<!-- ===== -->
+
+				<hr style="border: 2px solid grey">
+				<div class="row">
+					<a name="afac"></a>
+					<div class="col-xs-12">
+						<legend>Heterogenous Actin Filament</legend>
+					</div>
+					<div class="col-sm-12">
+						<p>
+							Experiments have shown that actin is structurally polymorphic, but the details of molecular level heterogeneity in dynamics and inter-protein interActins are still lacking.  Here, using atomistic molecular dynamics (MD) simulations of the actin filament, we identify domains of atoms that move in a correlated fashion, quantify interActins between these domains using coarse-grained (CG) analysis methods, and perform coarse-grained simulations to explore the importance of heterogeneity.  (J. Fan, et al. Biophysical Journal 103:1334  (2012), DOI: 10.1016/j.bpj.2012.08.029 )
+						</p>
+					</div>
+					<div class="col-sm-12">
+						<div class="row vertical-center">
+							<div class="col-sm-6">
+								<img class="col-xs-12" src="../img/Heterogeneity of Actin Filament/shapeimage_4.png" />
+							</div>
+							<div class="col-sm-6">
+							<div class="tomakecenter"></div>
+									(a) Initial structure of F-actin monomer; (b) Important water molecules forming a octahedron around Mg ion; (c) an effective infinite long actin filament fluctuates in a PBC water box under physiological conditions.
+							</div>
+						</div>
+						<div class="row vertical-center">
+							<div class="col-sm-6">
+								<img class="col-xs-12" src="../img/Heterogeneity of Actin Filament/shapeimage_5.png" />
+							</div>
+							<div class="col-sm-6">
+							<div class="tomakecenter"></div>
+										(a) Unfolded to folded D-loop transition has been observed in our MD simulation, indicating the transition energy barrier may not be high;  (b-d) Different unfolded D-loop configurations, showing D-loop is highly dynamics. 
+							</div>
+
+						</div>
+					</div>
+
+					<div class="col-xs-12">
+						<legend> Cofilin Binds to & Reconfigures Actin Filament </legend>
+					</div>
+					<div class="col-sm-12">
+						<p>
+							 The actin regulatory protein cofilin plays a central role in actin assembly dynamics by severing filaments and increasing the concentration of ends from which subunits add and dissociate. Cofilin binding modifies the average structure and mechanical properties of actin filaments, 'thereby promoting fragmentation of partially decorated filaments at boundaries of bare and cofilin-decorated segments. Despite extensive evidence for cofilin-dependent changes in filament structure and mechanics, it is unclear how the two processes are linked at the molecular level. Here, we use molecular dynamics simulations and coarse-grained analyses to evaluate the molecular origins of the changes in filament compliance due to cofilin binding. Filament subunits with bound cofilin are less flat and maintain a significantly more open nucleotide cleft than bare filament subunits. Decorated filament segments are less twisted, thinner (considering only actin), and less connected than their bare counterparts, which lowers the filament bending persistence length and torsional stiffness. Using coarse-graining as an analysis method reveals that cofilin binding increases the average distance between the adjacent long-axis filament subunit, thereby weakening their interActin. In contrast, a frActin of lateral filament subunit contacts are closer and presumably stronger with cofilin binding. A cofilactin interface contact identified by cryo-electron microscopy is unstable during simulations carried out at 310 K, suggesting that this particular interActin may be short lived at ambient temperatures. These results reveal the molecular origins of cofilin-dependent changes in actin filament mechanics that may promote filament severing. (J. Fan, et al. J. of Molecular Biology 425:1225 (2013), DOI: 10.1016/j.jmb.2013.01.020, <a href="http://www.sciencedirect.com/science/article/pii/S0022283613000363" target="_blank">http://www.sciencedirect.com/science/article/pii/S0022283613000363</a> )
+						</p>
+					</div>
+					<div class="col-sm-12">
+						<div class="row vertical-center">
+							<div class="col-sm-6">
+								<img class="col-xs-12" src="../img/Heterogeneity of Actin Filament/shapeimage_6.jpg" />
+							</div>
+							<div class="col-sm-6">
+							<div class="tomakecenter"></div>
+							There are fewer contacts in the cofilactin filament than in the bare actin filament, and these occur within a smaller radius. Visualization of (a) bare, (b) cofilactin, and (c) cofilactin filaments, omitting the cofilin proteins, (d) a cross section of the interface of bare filament, and (e) a cross section of the interface of a cofilactin filament. The actin subunits at the cross section are labeled with n, n + 1, or n + 2, in the direction from the barbed to the pointed ends of the filament, and are plotted in red, blue, and pink, respectively. Cofilin proteins are presented in green. Actin subdomain 2 is highlighted with a yellow circle for each subunit. Comparison of (d) and (e) shows that the binding of cofilin disrupts interActins between filament subunits, that is, n–SD2 and n + 2–SD1/SD3. The distribution of total number of contacts of a half-twist of bare filament and cofilactin filament is projected onto the plane perpendicular to the filament long axis shown in (f) and (g). This distribution is further projected onto a single, radial dimension, which is plotted in (h) and (i) and which shows the total contact number as a function of the distance to the filament axis.
+							</div>
+						</div>
+						<div class="row vertical-center">
+							<div class="col-sm-6">
+								<img class="col-xs-12" src="../img/Heterogeneity of Actin Filament/shapeimage_3.jpg" />
+							</div>
+							<div class="col-sm-6">
+								<div class="tomakecenter"></div>
+										(a) Each actin subunit is CG into one bead. (b) Each strand (one shown in red, the other in blue) is fitted to a curve using cubic spline. (c) The center of i ? 1 and i + 1 on the blue curve, i?, is the projection of the bead i of the red curve; the filament twist axis is defined by the black curve, which is connected by the center of each bead and its projection.
+							</div>
+
+						</div>
+						<legend class="section-heading"> References </legend>
+
+						Jun Fan, Marissa G. Saunders, Enrique M. De La Cruz, Gregory A. Voth:  Molecular origins of cofilin-induced actin filament mechanics, <a href="http://www.sciencedirect.com/science/article/pii/S0022283613000363"> Journal of Molecular Biology, 425:1225 (2013) </a>
+						</br>
+						Jun Fan, Marissa G. Saunders, Gregory A. Voth: Coarse-graining provides insights on the essential nature of heterogeneity in actin filaments, <a href="http://www.ncbi.nlm.nih.gov/pubmed/22995506"> Biophysical Journal, 103:1334 (2012) </a>
+					</div>
+
+				</div>
+
+				<!-- ==== -->
+				<!-- Heterogeneous Lipid Membrane -->
+				<!-- ==== -->
+
 				<hr style="border: 2px solid grey">
 				<div class="row">
 					<a name="cm"></a>
@@ -152,19 +236,61 @@
 								(d) Hydrodynamic Effects on Spinodal Decomposition Kinetics in Lipid Membranes: Numerical simulations reveal that dynamical scaling breaks down for critical lipid mixtures due to distinct coarsening mechanisms for elongated versus more isotropic compositional lipid domains. The breakdown in scaling should be readily observable in experiments on model membrane systems. (J. Fan, et al, JCP 2010)
 							</div>
 						</div>
-<legend class="section-heading"> References </legend>
+						<legend class="section-heading"> References </legend>
 
-Jun Fan, Tao Han, Mikko Haataja: Hydrodynamic Effects on Spinodal Decomposition Kinetics in Lipid Bilayer Membranes, <a href="http://jcp.aip.org/resource/1/jcpsa6/v133/i23/p235101_s1">J. Chem. Phys. 133:235101 (2010) </a>
-</br>
-Jun Fan, Maria Sammalkorpi, Mikko Haataja: Lipid microdomains: Structural correlations, Fluctuations, and Formation Mechanisms, <a href="http://prl.aps.org/abstract/PRL/v104/i11/e118101"> Phys. Rev. Lett. 104: 118101. (2010)</a>
-</br>
-Jun Fan, Maria Sammalkorpi, Mikko Haataja: Formation and Regulation of Lipid Microdomains in Cell Membranes: Theory, Modeling, and Speculation, <a href="http://www.ncbi.nlm.nih.gov/pubmed/19854186">FEBS Letters. 584: 1678 (invited review paper) (2010) 
-</a> </br>
-Jun Fan, Maria Sammalkorpi, Mikko Haataja: Influence of non-equilibrium lipid transport, membrane compartmentalization, and membrane proteins on the lateral organization of the plasma membrane, <a href="http://pre.aps.org/abstract/PRE/v81/i1/e011908"> Phys. Rev. E. 81:011908 (2009) </a>
-</br>
-Jun Fan and Maria Sammalkorpi, Mikko Haataja: Domain Formation in the Plasma Membrane: Roles of Non-equilibrium Lipid Transport and Membrane Proteins, <a href="http://prl.aps.org/abstract/PRL/v100/i17/e178102">Phys. Rev. Lett. 100:178102 (2008)</a>
+						Jun Fan, Tao Han, Mikko Haataja: Hydrodynamic Effects on Spinodal Decomposition Kinetics in Lipid Bilayer Membranes, <a href="http://jcp.aip.org/resource/1/jcpsa6/v133/i23/p235101_s1">J. Chem. Phys. 133:235101 (2010) </a>
+						</br>
+						Jun Fan, Maria Sammalkorpi, Mikko Haataja: Lipid microdomains: Structural correlations, Fluctuations, and Formation Mechanisms, <a href="http://prl.aps.org/abstract/PRL/v104/i11/e118101"> Phys. Rev. Lett. 104: 118101. (2010)</a>
+						</br>
+						Jun Fan, Maria Sammalkorpi, Mikko Haataja: Formation and Regulation of Lipid Microdomains in Cell Membranes: Theory, Modeling, and Speculation, <a href="http://www.ncbi.nlm.nih.gov/pubmed/19854186">FEBS Letters. 584: 1678 (invited review paper) (2010) 
+						</a> </br>
+						Jun Fan, Maria Sammalkorpi, Mikko Haataja: Influence of non-equilibrium lipid transport, membrane compartmentalization, and membrane proteins on the lateral organization of the plasma membrane, <a href="http://pre.aps.org/abstract/PRE/v81/i1/e011908"> Phys. Rev. E. 81:011908 (2009) </a>
+						</br>
+						Jun Fan and Maria Sammalkorpi, Mikko Haataja: Domain Formation in the Plasma Membrane: Roles of Non-equilibrium Lipid Transport and Membrane Proteins, <a href="http://prl.aps.org/abstract/PRL/v100/i17/e178102">Phys. Rev. Lett. 100:178102 (2008)</a>
 					</div>
 				</div>
+
+				<!-- ===== -->
+				<!-- Membrane Internalization of Nanoparticles -->
+				<!-- ===== -->
+
+				<hr style="border: 2px solid grey">
+				<div class="row">
+					<a name="npamc"></a>
+					<div class="col-xs-12">
+						<legend> Membrane Internalization of Nanoparticles </legend>
+					</div>
+					<div class="col-sm-12">
+						<p>
+							Nano-particle has been be used to detect cancer cells. We built a continuum model to simulate the internalization process of nano-particles. (J. Meng, J. Fan, et al, MSEC 2009) 
+						</p>
+					</div>
+					<div class="col-sm-12">
+						<div class="row vertical-center">
+							<div class="col-sm-6">
+								<img class="col-xs-12" src="../img/Heterogeneity of Actin Filament/shapeimage_13.png" />
+							</div>
+							<div class="col-sm-6">
+								<div class="tomakecenter"></div>
+										(a) Cartoon illustration; (b) Experimental Results (c) A group of LHRL-SPIONS  nano-particles has been entered the cell.
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-sm-6 col-sm-offset-3">
+								
+							</div>
+						</div>
+			
+		
+                       <legend class="section-heading"> References </legend>
+						Juan Meng, <b>Jun Fan</b>, et al: LHRH-functionalized superparamagnetic iron oxide nanoparticles for breast cancer targeting and contrast enhancement in MRI, <a href="http://www.sciencedirect.com/science/article/pii/S0928493108002555"> Materials Science and Engineering C, 29:1467-1479 (2009) </a>
+
+					</div>
+				</div>
+
+				<!-- ===== -->
+				<!-- Non-Equilibrium Phase Transitions -->
+				<!-- ===== -->
 				<hr style="border: 2px solid grey">
 				<div class="row">
 					<a name="nept"></a>
@@ -208,116 +334,9 @@ Jun Fan and Maria Sammalkorpi, Mikko Haataja: Domain Formation in the Plasma Mem
 							</div>
 						</div>
 
-<legend class="section-heading"> References </legend>
-Jun Fan, Michael Greenwood, Mikko Haataja and Nikolas Provatas: Phase-field simulations of velocity selection in rapidly solidified binary alloys, <a href="http://pre.aps.org/abstract/PRE/v74/i3/e031602"> Phys. Rev. E. 74:031602 (2006)</a> 
+						<legend class="section-heading"> References </legend>
+						Jun Fan, Michael Greenwood, Mikko Haataja and Nikolas Provatas: Phase-field simulations of velocity selection in rapidly solidified binary alloys, <a href="http://pre.aps.org/abstract/PRE/v74/i3/e031602"> Phys. Rev. E. 74:031602 (2006)</a> 
 					</div>
-				</div>
-
-				<hr style="border: 2px solid grey">
-				<div class="row">
-					<a name="npacm"></a>
-					<div class="col-xs-12">
-						<legend> Membrane Internalization of Nanoparticles </legend>
-					</div>
-					<div class="col-sm-12">
-						<p>
-							Nano-particle has been be used to detect cancer cells. We built a continuum model to simulate the internalization process of nano-particles. (J. Meng, J. Fan, et al, MSEC 2009) 
-						</p>
-					</div>
-					<div class="col-sm-12">
-						<div class="row vertical-center">
-							<div class="col-sm-6">
-								<img class="col-xs-12" src="../img/Heterogeneity of Actin Filament/shapeimage_13.png" />
-							</div>
-							<div class="col-sm-6">
-								<div class="tomakecenter"></div>
-										(a) Cartoon illustration; (b) Experimental Results (c) A group of LHRL-SPIONS  nano-particles has been entered the cell.
-							</div>
-						</div>
-						<div class="row">
-							<div class="col-sm-6 col-sm-offset-3">
-								
-							</div>
-						</div>
-			
-		
-                                       <legend class="section-heading"> References </legend>
-Juan Meng, <b>Jun Fan</b>, et al: LHRH-functionalized superparamagnetic iron oxide nanoparticles for breast cancer targeting and contrast enhancement in MRI, <a href="http://www.sciencedirect.com/science/article/pii/S0928493108002555"> Materials Science and Engineering C, 29:1467-1479 (2009) </a>
-
-</div>
-				</div>
-
-
-				<hr style="border: 2px solid grey">
-				<div class="row">
-					<a name="afac"></a>
-					<div class="col-xs-12">
-						<legend>Heterogenous Actin Filament</legend>
-					</div>
-					<div class="col-sm-12">
-						<p>
-							Experiments have shown that actin is structurally polymorphic, but the details of molecular level heterogeneity in dynamics and inter-protein interActins are still lacking.  Here, using atomistic molecular dynamics (MD) simulations of the actin filament, we identify domains of atoms that move in a correlated fashion, quantify interActins between these domains using coarse-grained (CG) analysis methods, and perform coarse-grained simulations to explore the importance of heterogeneity.  (J. Fan, et al. Biophysical Journal 103:1334  (2012), DOI: 10.1016/j.bpj.2012.08.029 )
-						</p>
-					</div>
-					<div class="col-sm-12">
-						<div class="row vertical-center">
-							<div class="col-sm-6">
-								<img class="col-xs-12" src="../img/Heterogeneity of Actin Filament/shapeimage_4.png" />
-							</div>
-							<div class="col-sm-6">
-							<div class="tomakecenter"></div>
-									(a) Initial structure of F-actin monomer; (b) Important water molecules forming a octahedron around Mg ion; (c) an effective infinite long actin filament fluctuates in a PBC water box under physiological conditions.
-							</div>
-						</div>
-						<div class="row vertical-center">
-							<div class="col-sm-6">
-								<img class="col-xs-12" src="../img/Heterogeneity of Actin Filament/shapeimage_5.png" />
-							</div>
-							<div class="col-sm-6">
-							<div class="tomakecenter"></div>
-										(a) Unfolded to folded D-loop transition has been observed in our MD simulation, indicating the transition energy barrier may not be high;  (b-d) Different unfolded D-loop configurations, showing D-loop is highly dynamics. 
-							</div>
-
-						</div>
-					</div>
-
-
-
-					<div class="col-xs-12">
-						<legend> Cofilin Binds to & Reconfigures Actin Filament </legend>
-					</div>
-					<div class="col-sm-12">
-						<p>
-							 The actin regulatory protein cofilin plays a central role in actin assembly dynamics by severing filaments and increasing the concentration of ends from which subunits add and dissociate. Cofilin binding modifies the average structure and mechanical properties of actin filaments, 'thereby promoting fragmentation of partially decorated filaments at boundaries of bare and cofilin-decorated segments. Despite extensive evidence for cofilin-dependent changes in filament structure and mechanics, it is unclear how the two processes are linked at the molecular level. Here, we use molecular dynamics simulations and coarse-grained analyses to evaluate the molecular origins of the changes in filament compliance due to cofilin binding. Filament subunits with bound cofilin are less flat and maintain a significantly more open nucleotide cleft than bare filament subunits. Decorated filament segments are less twisted, thinner (considering only actin), and less connected than their bare counterparts, which lowers the filament bending persistence length and torsional stiffness. Using coarse-graining as an analysis method reveals that cofilin binding increases the average distance between the adjacent long-axis filament subunit, thereby weakening their interActin. In contrast, a frActin of lateral filament subunit contacts are closer and presumably stronger with cofilin binding. A cofilactin interface contact identified by cryo-electron microscopy is unstable during simulations carried out at 310 K, suggesting that this particular interActin may be short lived at ambient temperatures. These results reveal the molecular origins of cofilin-dependent changes in actin filament mechanics that may promote filament severing. (J. Fan, et al. J. of Molecular Biology 425:1225 (2013), DOI: 10.1016/j.jmb.2013.01.020, <a href="http://www.sciencedirect.com/science/article/pii/S0022283613000363" target="_blank">http://www.sciencedirect.com/science/article/pii/S0022283613000363</a> )
-						</p>
-					</div>
-					<div class="col-sm-12">
-						<div class="row vertical-center">
-							<div class="col-sm-6">
-								<img class="col-xs-12" src="../img/Heterogeneity of Actin Filament/shapeimage_6.jpg" />
-							</div>
-							<div class="col-sm-6">
-							<div class="tomakecenter"></div>
-							There are fewer contacts in the cofilactin filament than in the bare actin filament, and these occur within a smaller radius. Visualization of (a) bare, (b) cofilactin, and (c) cofilactin filaments, omitting the cofilin proteins, (d) a cross section of the interface of bare filament, and (e) a cross section of the interface of a cofilactin filament. The actin subunits at the cross section are labeled with n, n + 1, or n + 2, in the direction from the barbed to the pointed ends of the filament, and are plotted in red, blue, and pink, respectively. Cofilin proteins are presented in green. Actin subdomain 2 is highlighted with a yellow circle for each subunit. Comparison of (d) and (e) shows that the binding of cofilin disrupts interActins between filament subunits, that is, n–SD2 and n + 2–SD1/SD3. The distribution of total number of contacts of a half-twist of bare filament and cofilactin filament is projected onto the plane perpendicular to the filament long axis shown in (f) and (g). This distribution is further projected onto a single, radial dimension, which is plotted in (h) and (i) and which shows the total contact number as a function of the distance to the filament axis.
-							</div>
-						</div>
-						<div class="row vertical-center">
-							<div class="col-sm-6">
-								<img class="col-xs-12" src="../img/Heterogeneity of Actin Filament/shapeimage_3.jpg" />
-							</div>
-							<div class="col-sm-6">
-								<div class="tomakecenter"></div>
-										(a) Each actin subunit is CG into one bead. (b) Each strand (one shown in red, the other in blue) is fitted to a curve using cubic spline. (c) The center of i ? 1 and i + 1 on the blue curve, i?, is the projection of the bead i of the red curve; the filament twist axis is defined by the black curve, which is connected by the center of each bead and its projection.
-							</div>
-
-						</div>
- <legend class="section-heading"> References </legend>
-
-Jun Fan, Marissa G. Saunders, Enrique M. De La Cruz, Gregory A. Voth:  Molecular origins of cofilin-induced actin filament mechanics, <a href="http://www.sciencedirect.com/science/article/pii/S0022283613000363"> Journal of Molecular Biology, 425:1225 (2013) </a>
-</br>
-Jun Fan, Marissa G. Saunders, Gregory A. Voth: Coarse-graining provides insights on the essential nature of heterogeneity in actin filaments, <a href="http://www.ncbi.nlm.nih.gov/pubmed/22995506"> Biophysical Journal, 103:1334 (2012) </a>
-					</div>
-
 				</div>
 
 			</div>
