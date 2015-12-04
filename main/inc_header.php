@@ -2,7 +2,12 @@
 define("ROOTPATH", "/main");
 ?>          
 <div class="header">
-    <h3><img src="//template.cityu.edu.hk/template/img/logos/cityu_deptpage.png"></br>Computational Biophysics<br> and Materials Science Group<small style="color: black"><br>-<a href="//www.ap.cityu.edu.hk" target="_blank" style="color: black">Department of Physics and Materials Science</a></small></h3>
+    <h3>
+        <a target="_blank" href="//www.cityu.edu.hk">
+            <img src="//template.cityu.edu.hk/template/img/logos/cityu_deptpage.png">
+        </a>
+        </br>Computational Biophysics<br> and Materials Science Group<small style="color: black"><br>-<a href="//www.ap.cityu.edu.hk" target="_blank" style="color: black">Department of Physics and Materials Science</a></small>
+    </h3>
     <div class="visible-sm" style="height: 50px;"></div>
     <nav class="navbar navbar-inverse pull-right"  role="navigation">
         <div class="navbar-header">
