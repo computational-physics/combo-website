@@ -15,3 +15,17 @@ define("ROOTPATH", "/main");
             </div>
         </div>
     </div>
+    <script type="text/javascript">
+    $(function(argument) {
+        // set target=_blank for all external links
+        // credit: http://stackoverflow.com/questions/2910946/test-if-links-are-external-with-jquery-javascript
+        var nodes = document.getElementsByTagName("a"), i = nodes.length;
+        var regExp = new RegExp("//" + location.host + "($|/)");
+        while (i--) {
+            var href = nodes[i].href;
+            var isLocal = (href.substring(0,4) === "http") ? regExp.test(href) : true;
+            if (!isLocal)
+                nodes[i].target = "_blank";
+        }
+    });
+    </script>

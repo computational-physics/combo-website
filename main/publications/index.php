@@ -56,9 +56,6 @@
 		</div>
 
 	</div>
-    <script type="text/javascript">
-        $('#publication-list a').attr('target', '_blank');
-    </script>
 
 	<?php require('../inc_footer.php') ?>
 </body>
