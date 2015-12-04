@@ -211,7 +211,7 @@
 						<div class="col-xs-12">
 							<div class="row vertical-center">
 								<div class="col-sm-3">
-									<img class="img-responsive img-rounded" src="http://placehold.it/150x210">
+									<img class="img-responsive img-rounded" src="../img/youhan.jpg">
 								</div>
 								<div class="col-sm-9">
 									<h3>Mr. John YOU</h3>
