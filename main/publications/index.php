@@ -28,7 +28,7 @@
 					</div>
 					<div class="col-sm-12">
                         <ol id="publication-list" reversed>  
-                            <li>Feng Wang, Jiale Ma, Fangyan Xie, Linkai Li, Jian Chen, <u><b>Jun Fan</b></u> and Ni Zhao, "Organic Cation-Dependent Degradation Mechanism of Organo Tin Halide Perovskites" <a href="http://dx.doi.org/10.1002/adfm.201505127">Advanced Functional Materials</a></li>
+                            <li>Feng Wang, Jiale Ma, Fangyan Xie, Linkai Li, Jian Chen, <u><b>Jun Fan</b></u> and Ni Zhao, "Organic Cation-Dependent Degradation Mechanism of Organo Tin Halide Perovskites" <a href="http://dx.doi.org/10.1002/adfm.201505127">Advanced Functional Materials(in press, 2016)</a></li>
                             <li>Xian Chen, Limin Jin, Wei Kong, Tianying Sun, Wenfei Zhang, Xinhong Liu, <u><b>Jun Fan</b></u>, Siu Fung Yu, and Feng Wang, Confining Exciton Migration in Upconversion Nanoparticles towards Deep Ultraviolet Lasing, <a href="http://www.nature.com/ncomms/2016/160107/ncomms10304">Nature Communications, 7:10304</a></li> 
                             <li>Chun Chan, Haohua Wen, Lanyuan Lu, and <u><b>Jun Fan</b></u>*, Multiscale molecular dynamics simulations membrane remodeling by BAR family proteins, <a href="http://cpb.iphy.ac.cn/EN/abstract/abstract66287.shtml">Chinese Physics B, 25:018707</a> (invited review, 2016)</li>
                             <li>Yifan Ye, Song Wang, <u><b>Jun Fan</b></u>, Chain-Tsuan Liu, and Yong Yang, Atomistic mechanism of elastic softening in metallic glass under cyclic loading revealed by molecular dynamics simulations, <a href="http://www.sciencedirect.com/science/article/pii/S0966979515300649">Intermetallics 68:5</a> (2016) </li>
