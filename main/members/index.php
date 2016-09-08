@@ -87,8 +87,7 @@
 										<li>2009-2013, BSc, City University of Hong Kong</li>
 									</ul>
 									<ul>
-										<li>Office: G1417, AC1</li>
-										<li>Phone: <a href="tel:+(852) 9483-1801">+(852) 9483-1801</a></li>
+										<li>Office: P6915, AC1</li>
 										<li>Email: <a href="mailto:cchan2242-c@my.cityu.edu.hk">cchan2242-c@my.cityu.edu.hk</a></li>
 									</ul>
 								</div>
@@ -106,8 +105,7 @@
 										<li>2009-2013, BEng, Dalian University of Technology, China</li>
 									</ul>
 									<ul>
-										<li>Office: G1417, AC1</li>
-										<li>Phone: <a href="tel:+(852) 2784-4045">+(852) 2784-4045</a></li>
+										<li>Office: P6915, AC1</li>
 										<li>Email: <a href="mailto:jialema2-c@my.cityu.edu.hk">jialema2-c@my.cityu.edu.hk</a></li>
 									</ul>
 								</div>
@@ -125,8 +123,7 @@
 										<li>2007-2014, BSc & MSc, Beijing Normal University, Beijing, China</li>
 									</ul>
 									<ul>
-										<li>Office: G1417, AC1</li>
-										<li>Phone: <a href="tel:+(852) 5105-9663">+(852) 5105-9663</a></li>
+										<li>Office: P6915, AC1</li>
 										<li>Email: <a href="mailto:yufenglu3-c@my.cityu.edu.hk">yufenglu3-c@my.cityu.edu.hk</a></li>
 									</ul>
 								</div>
@@ -145,85 +142,110 @@
 										<li>2008-2012, BSc, South China University of Technology, Guangdong, China</li>
 									</ul>
 									<ul>
-										<li>Office: G1417, AC1</li>
-										<li>Phone: <a href="tel:+(852) 5105-9663">+(852) 5244-8300</a></li>
+										<li>Office: P6915, AC1</li>
 										<li>Email: <a href="mailto:yhzhang23-c@my.cityu.edu.hk">yhzhang23-c@my.cityu.edu.hk</a></li>
 									</ul>
 								</div>
 							</div>
 						</div>
+                        <div class="col-xs-12">
+                            <div class="row vertical-center">
+                                <div class="col-sm-3">
+                                    <img class="img-responsive img-rounded" src="../img/lizhen.jpg">
+                                </div>
+                                <div class="col-sm-9">
+                                    <h3>Mr. Zhen LI</h3>
+                                    <ul>
+                                        <li>2016-Present, PhD Candidate, City University of Hong Kong</li>
+                                        <li>2012-2015, MSc, China University of Petroleum (East China)</li>
+                                        <li>2008-2012, BSc, China University of Petroleum (East China)</li>
+                                    </ul>
+                                    <ul>
+                                        <li>Office: P6915, AC1</li>
+                                        <li>Email: <a href="mailto:zli246-c@my.cityu.edu.hk">zli246-c@my.cityu.edu.hk</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
 					</section>
 					<hr />
-					<section>
-						<div class="col-xs-12">
-							<h2>Undergraguate Students</h2>
-						</div>
-						<div class="col-xs-12">
-							<div class="row vertical-center">
-								<div class="col-sm-3">
-									<img class="img-responsive img-rounded" src="../img/hung.jpg">
-								</div>
-								<div class="col-sm-9">
-									<h3>Mr. Xinhong LIU</h3>
-									<ul>
-										<li>2012-Present, City University of Hong Kong</li>
-									</ul>
-									<ul>
-										<li>Website: <a href="https://xinhong.me">xinhong.me</a></li>
-										<li>Email: <a href="mailto:i@xinhong.me">i@xinhong.me</a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<div class="col-xs-12">
-							<div class="row vertical-center">
-								<div class="col-sm-3">
-									<img class="img-responsive img-rounded" src="../img/jhb.jpg">
-								</div>
-								<div class="col-sm-9">
-									<h3>Mr. Huanbo JIANG</h3>
-									<ul>
-										<li>2014-Present, City University of Hong Kong</li>
-									</ul>
-									<ul>
-										<li>Email: <a href="mailto:huanjiang4-c@my.cityu.edu.hk">huanjiang4-c@my.cityu.edu.hk</a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<div class="col-xs-12">
-							<div class="row vertical-center">
-								<div class="col-sm-3">
-									<img class="img-responsive img-rounded" src="../img/xzy.jpg">
-								</div>
-								<div class="col-sm-9">
-									<h3>Mr. Zhiyao XIE</h3>
-									<ul>
-										<li>2013-Present, City University of Hong Kong</li>
-									</ul>
-									<ul>
-										<li>Email: <a href="mailto:zyxie5-c@my.cityu.edu.hk">zyxie5-c@my.cityu.edu.hk</a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<div class="col-xs-12">
-							<div class="row vertical-center">
-								<div class="col-sm-3">
-									<img class="img-responsive img-rounded" src="../img/youhan.jpg">
-								</div>
-								<div class="col-sm-9">
-									<h3>Mr. John YOU</h3>
-									<ul>
-										<li>2014-Present, City University of Hong Kong</li>
-									</ul>
-									<ul>
-										<li>Email: <a href="mailto:hanyou2-c@my.cityu.edu.hk">hanyou2-c@my.cityu.edu.hk</a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-					</section>
+                    <section>
+                        <div class="col-xs-12">
+                        <h2>Research Assistants</h2>
+                        </div>
+                        <div class="col-xs-12">
+                            <div class="row vertical-center">
+                                <div class="col-sm-3">
+                                    <img class="img-responsive img-rounded" src="../img/hung.jpg">
+                                </div>
+                                <div class="col-sm-9">
+                                    <h3>Mr. Xinhong LIU</h3>
+                                    <ul>
+                                        <li>2012-2016, City University of Hong Kong</li>
+                                    </ul>
+                                    <ul>
+                                        <li>Office: P6915, AC1</li>
+                                        <li>Website: <a href="https://xinhong.me">xinhong.me</a></li>
+                                        <li>Email: <a href="mailto:i@xinhong.me">i@xinhong.me</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <hr />
+                    <section>
+                        <div class="col-xs-12">
+                        <h2>Undergraguate Students</h2>
+                        </div>
+                        <div class="col-xs-12">
+                            <div class="row vertical-center">
+                                <div class="col-sm-3">
+                                    <img class="img-responsive img-rounded" src="../img/jhb.jpg">
+                                </div>
+                                <div class="col-sm-9">
+                                    <h3>Mr. Huanbo JIANG</h3>
+                                    <ul>
+                                        <li>2014-Present, City University of Hong Kong</li>
+                                    </ul>
+                                    <ul>
+                                        <li>Email: <a href="mailto:huanjiang4-c@my.cityu.edu.hk">huanjiang4-c@my.cityu.edu.hk</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12">
+                            <div class="row vertical-center">
+                                <div class="col-sm-3">
+                                    <img class="img-responsive img-rounded" src="../img/xzy.jpg">
+                                </div>
+                                <div class="col-sm-9">
+                                    <h3>Mr. Zhiyao XIE</h3>
+                                    <ul>
+                                        <li>2013-Present, City University of Hong Kong</li>
+                                    </ul>
+                                    <ul>
+                                        <li>Email: <a href="mailto:zyxie5-c@my.cityu.edu.hk">zyxie5-c@my.cityu.edu.hk</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12">
+                            <div class="row vertical-center">
+                                <div class="col-sm-3">
+                                    <img class="img-responsive img-rounded" src="../img/youhan.jpg">
+                                </div>
+                                <div class="col-sm-9">
+                                    <h3>Mr. John YOU</h3>
+                                    <ul>
+                                        <li>2014-Present, City University of Hong Kong</li>
+                                    </ul>
+                                    <ul>
+                                        <li>Email: <a href="mailto:hanyou2-c@my.cityu.edu.hk">hanyou2-c@my.cityu.edu.hk</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
 					<hr />
 					<section>
 						<div class="col-xs-12">
