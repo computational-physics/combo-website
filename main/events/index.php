@@ -15,7 +15,7 @@
 					<div class="col-xs-12">
 						<h1>Events</h1>
 						
-						<table>
+						<table class="table">
 							<thead>
 								<tr>
 									<th>Date</th>
