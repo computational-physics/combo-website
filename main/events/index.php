@@ -161,7 +161,7 @@
 	        { src: 'images/20161024/IMG_1949.jpeg', w: 4032, h: 3024 }
 	    ];
 
-	    var items_20161201 = [
+	    var items_20151201 = [
 	        { src: 'images/20161201/IMG_6996.JPG', w: 6614, h: 2482 },
 	        { src: 'images/20161201/slide-hpc-workshop-1.jpg', w: 655, h: 491 },
 	        { src: 'images/20161201/slide-hpc-workshop-2.jpg', w: 655, h: 491 },
