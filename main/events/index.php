@@ -50,7 +50,7 @@
 									<td><a href="images/24-oct-for-emailing.jpg">
 										2016 Parallel Computing and MPI Programming Workshop by Dr. Kwai Wong
 									</a></td>
-									<td><a class="btn btn-xs btn-primary" href="#" id="gallery-20161024">show photo gallery</a></td>
+									<td><a class="btn btn-xs btn-primary" style="cursor: pointer;" id="gallery-20161024">show photo gallery</a></td>
 								</tr>
 								<tr>
 									<td>25-26/01/2016</td>
@@ -64,7 +64,7 @@
 									<td>
 										2015 MPI Supercomputing Workshop by Dr. Kwai Wong
 									</td>
-									<td><a class="btn btn-xs btn-primary" href="#" id="gallery-20151201">show photo gallery</a></td>
+									<td><a class="btn btn-xs btn-primary" style="cursor: pointer;" id="gallery-20151201">show photo gallery</a></td>
 								</tr>
 							</tbody>
 						</table>
