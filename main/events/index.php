@@ -165,9 +165,8 @@
 		    var pswpElement = document.querySelectorAll('.pswp')[0];
 		    
 		    // define options (if needed)
-		    var options = {
-		             // history & focus options are disabled on CodePen        
-		        history: false,
+		    var options = {       
+		        history: true,
 		        focus: false,
 
 		        showAnimationDuration: 0,
