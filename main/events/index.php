@@ -60,11 +60,11 @@
 									<td></td>
 								</tr>
 								<tr>
-									<td>26/11/2015</td>
+									<td>01/12/2015</td>
 									<td>
 										2015 MPI Supercomputing Workshop by Dr. Kwai Wong
 									</td>
-									<td><a class="btn btn-xs btn-primary" href="#" id="gallery-20151126">show photo gallery</a></td>
+									<td><a class="btn btn-xs btn-primary" href="#" id="gallery-20151201">show photo gallery</a></td>
 								</tr>
 							</tbody>
 						</table>
@@ -161,6 +161,13 @@
 	        { src: 'images/20161024/IMG_1949.jpeg', w: 4032, h: 3024 }
 	    ];
 
+	    var items_20161201 = [
+	        { src: 'images/20161201/IMG_6996.JPG', w: 6614, h: 2482 },
+	        { src: 'images/20161201/slide-hpc-workshop-1.jpg', w: 655, h: 491 },
+	        { src: 'images/20161201/slide-hpc-workshop-2.jpg', w: 655, h: 491 },
+	        { src: 'images/20161201/slide-hpc-workshop-3.jpg', w: 655, h: 491 },
+	    ];
+
 		var openPhotoSwipe = function(items) {
 		    var pswpElement = document.querySelectorAll('.pswp')[0];
 		    
@@ -178,6 +185,7 @@
 		};
 
 		document.getElementById('gallery-20161024').onclick = function() { openPhotoSwipe(items_20161024) };
+		document.getElementById('gallery-20151201').onclick = function() { openPhotoSwipe(items_20151201) };
 
 	</script>
 
