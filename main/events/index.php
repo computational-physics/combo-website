@@ -152,6 +152,35 @@
 	<script src="../lib/PhotoSwipe/photoswipe-ui-default.min.js"></script> 
 	<!-- above codes are from http://photoswipe.com/documentation/getting-started.html -->
 
+	<script type="text/javascript">
+		var items_20161024 = [
+	        { src: 'images/20161024/IMG_1945.jpeg', w: 4032, h: 3024 },
+	        { src: 'images/20161024/IMG_1946.jpeg', w: 4032, h: 3024 },
+	        { src: 'images/20161024/IMG_1947.jpeg', w: 4032, h: 3024 },
+	        { src: 'images/20161024/IMG_1948.jpeg', w: 4032, h: 3024 },
+	        { src: 'images/20161024/IMG_1949.jpeg', w: 4032, h: 3024 }
+	    ];
+
+		var openPhotoSwipe = function(items) {
+		    var pswpElement = document.querySelectorAll('.pswp')[0];
+		    
+		    // define options (if needed)
+		    var options = {
+		             // history & focus options are disabled on CodePen        
+		        history: false,
+		        focus: false,
+
+		        showAnimationDuration: 0,
+		        hideAnimationDuration: 0
+		    };
+		    
+		    var gallery = new PhotoSwipe( pswpElement, PhotoSwipeUI_Default, items, options);
+		    gallery.init();
+		};
+
+		document.getElementById('gallery-20161024').onclick = function() { openPhotoSwipe(items_20161024) };
+
+	</script>
 
 
 
