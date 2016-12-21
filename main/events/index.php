@@ -29,6 +29,7 @@
 									<td><a href="3rd-symposium-biophysics/">
 										3rd Symposium on Biophysics Postgraduate Research in Hong Kong
 									</a></td>
+									<td></td>
 								</tr>
 								<tr>
 									<td>24/10/2016</td>
@@ -42,6 +43,7 @@
 									<td><a href="pku-cityu-2016-workshop.php">
 										Joint Workshop on Disorder and Disordered Materials
 									</a></td>
+									<td></td>
 								</tr>
 								<tr>
 									<td>26/11/2015</td>
