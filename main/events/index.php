@@ -20,6 +20,7 @@
 								<tr>
 									<th>Date</th>
 									<th>Event</th>
+									<th>Gallery</th>
 								</tr>
 							</thead>
 							<tbody>
@@ -34,9 +35,10 @@
 									<td><a href="images/24-oct-for-emailing.jpg">
 										2016 Parallel Computing and MPI Programming Workshop by Dr. Kwai Wong
 									</a></td>
+									<td><button class="button" id="gallery-20161024">show photo gallery</button></td>
 								</tr>
 								<tr>
-									<td>24/10/2016</td>
+									<td>25-26/01/2016</td>
 									<td><a href="pku-cityu-2016-workshop.php">
 										Joint Workshop on Disorder and Disordered Materials
 									</a></td>
@@ -46,6 +48,7 @@
 									<td>
 										2015 MPI Supercomputing Workshop by Dr. Kwai Wong
 									</td>
+									<td><button class="button" id="gallery-20151126">show photo gallery</button></td>
 								</tr>
 							</tbody>
 						</table>
