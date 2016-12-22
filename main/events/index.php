@@ -39,7 +39,7 @@
 							</thead>
 							<tbody>
 								<tr>
-									<td>24/01/2017</td>
+									<td>27/01/2017</td>
 									<td><a href="3rd-symposium-biophysics/">
 										3rd Symposium on Biophysics Postgraduate Research in Hong Kong
 									</a></td>
