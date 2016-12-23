@@ -42,13 +42,25 @@
                                     <li>Limei Xu (ICQM, PKU)</li>
                                     <li>Yuan Li (ICQM, PKU)</li>
                                 </ul>
-                                <h4>Partial list of invited speakers</h4>
+                                <h4>Invited speakers</h4>
                                 <ul>
                                     <li>Korad Samwer</li>
                                     <li>Weihua Wang</li>
                                     <li>Enge Wang</li>
                                     <li>Xincheng Xie</li>
-                                    <li>...</li>
+                                    <li>Yingxia Wang</li>
+                                    <li>Junliang Sun</li>
+                                    <li>Maozhi Li</li>
+                                    <li>Lei Xu</li>
+                                    <li>Jinbo Yang</li>
+                                    <li>Yilong Han</li>
+                                    <li>Limei Xu</li>
+                                    <li>Yuen Li</li>
+                                    <li>Yue Zhao</li>
+                                    <li>Xin Wang</li>
+                                    <li>Jun Fan</li>
+                                    <li>Xun-Li Wang</li>
+                                    <li>Zhentao Xu</li>
                                 </ul>
                             </div>
                         </div>
