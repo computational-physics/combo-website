@@ -43,7 +43,7 @@
 									<td><a href="3rd-symposium-biophysics/">
 										3rd Symposium on Biophysics Postgraduate Research in Hong Kong
 									</a></td>
-									<td></td>
+									<td><a class="btn btn-xs btn-primary" style="cursor: pointer;" id="gallery-20170117">show photo gallery</a></td>
 								</tr>
 								<tr>
 									<td>24/10/2016</td>
@@ -168,6 +168,54 @@
 	        { src: 'images/20161201/slide-hpc-workshop-3.jpg', w: 655, h: 491 },
 	    ];
 
+	    var items_20170117 = [
+	        { src: 'images/20170117/IMG_1744.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1758.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1761.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1762.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1766.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1774.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1779.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1781.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1785.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1788.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1795.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1802.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1805.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1806.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1808.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1815.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1818.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1824.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1828.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1832.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1834.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1844.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1603.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1605.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1613.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1623.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1631.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1644.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1650.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1656.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1664.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1669.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1672.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1686.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1690.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1694.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1700.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1703.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1705.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1706.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1711.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1716.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1728.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1730.jpeg', w: 5184, h: 3456 },
+	        { src: 'images/20170117/IMG_1732.jpeg', w: 5184, h: 3456 },
+	    ];
+
 		var openPhotoSwipe = function(items) {
 		    var pswpElement = document.querySelectorAll('.pswp')[0];
 		    
@@ -186,6 +234,7 @@
 
 		document.getElementById('gallery-20161024').onclick = function() { openPhotoSwipe(items_20161024) };
 		document.getElementById('gallery-20151201').onclick = function() { openPhotoSwipe(items_20151201) };
+		document.getElementById('gallery-20170117').onclick = function() { openPhotoSwipe(items_20170117) };
 
 	</script>
 
