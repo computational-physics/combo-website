@@ -7,6 +7,16 @@
     <title>3rd Symposium on Biophysics Postgraduate Research in Hong Kong</title>
     <link rel="stylesheet" href="css/app.css">
     <style type="text/css"> </style>
+    <!-- following codes are from http://photoswipe.com/documentation/getting-started.html -->
+    <!-- Core CSS file -->
+    <link rel="stylesheet" href="../../lib/PhotoSwipe/photoswipe.css"> 
+
+    <!-- Skin CSS file (styling of UI - buttons, caption, etc.)
+         In the folder of skin CSS file there are also:
+         - .png and .svg icons sprite, 
+         - preloader.gif (for browsers that do not support CSS animations) -->
+    <link rel="stylesheet" href="../../lib/PhotoSwipe/default-skin/default-skin.css"> 
+    <!-- above codes are from http://photoswipe.com/documentation/getting-started.html -->
   </head>
   <body>
     <div id="header" class="row">
@@ -67,7 +77,148 @@
     <script src="lib/jquery.min.js"></script>
     <script src="lib/what-input.min.js"></script>
     <script src="lib/foundation.min.js"></script>
-    <script src="static/js/app.js"></script>
+    <script src="static/js/app.js"></script><!-- following codes are from http://photoswipe.com/documentation/getting-started.html -->
+  <!-- Root element of PhotoSwipe. Must have class pswp. -->
+  <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+      <!-- Background of PhotoSwipe. 
+           It's a separate element, as animating opacity is faster than rgba(). -->
+      <div class="pswp__bg"></div>
+
+      <!-- Slides wrapper with overflow:hidden. -->
+      <div class="pswp__scroll-wrap">
+
+          <!-- Container that holds slides. PhotoSwipe keeps only 3 slides in DOM to save memory. -->
+          <div class="pswp__container">
+              <!-- don't modify these 3 pswp__item elements, data is added later on -->
+              <div class="pswp__item"></div>
+              <div class="pswp__item"></div>
+              <div class="pswp__item"></div>
+          </div>
+
+          <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+          <div class="pswp__ui pswp__ui--hidden">
+
+              <div class="pswp__top-bar">
+
+                  <!--  Controls are self-explanatory. Order can be changed. -->
+
+                  <div class="pswp__counter"></div>
+
+                  <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                  <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                  <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                  <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                  <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                  <!-- element will get class pswp__preloader--active when preloader is running -->
+                  <div class="pswp__preloader">
+                      <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                          <div class="pswp__preloader__donut"></div>
+                        </div>
+                      </div>
+                  </div>
+              </div>
+
+              <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                  <div class="pswp__share-tooltip"></div> 
+              </div>
+
+              <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+              </button>
+
+              <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+              </button>
+
+              <div class="pswp__caption">
+                  <div class="pswp__caption__center"></div>
+              </div>
+
+          </div>
+
+      </div>
+  </div>
+
+  <!-- Core JS file -->
+  <script src="../../lib/PhotoSwipe/photoswipe.min.js"></script> 
+
+  <!-- UI JS file -->
+  <script src="../../lib/PhotoSwipe/photoswipe-ui-default.min.js"></script> 
+  <!-- above codes are from http://photoswipe.com/documentation/getting-started.html -->
+
+  <script type="text/javascript">
+
+      var items_20170117 = [
+          { src: '../images/20170117/IMG_1603.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1605.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1613.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1623.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1631.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1644.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1650.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1656.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1664.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1669.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1672.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1686.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1690.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1694.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1700.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1703.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1705.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1706.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1711.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1716.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1728.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1730.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1732.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1744.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1758.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1761.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1762.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1766.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1774.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1779.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1781.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1785.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1788.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1795.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1802.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1805.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1806.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1808.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1815.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1818.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1824.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1828.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1832.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1834.jpeg', w: 5184, h: 3456 },
+          { src: '../images/20170117/IMG_1844.jpeg', w: 5184, h: 3456 },
+      ];
+
+    var openPhotoSwipe = function(items) {
+        var pswpElement = document.querySelectorAll('.pswp')[0];
+        
+        // define options (if needed)
+        var options = {       
+            history: true,
+            focus: false,
+
+            showAnimationDuration: 0,
+            hideAnimationDuration: 0
+        };
+        
+        var gallery = new PhotoSwipe( pswpElement, PhotoSwipeUI_Default, items, options);
+        gallery.init();
+    };
+
+    document.getElementById('gallery-20170117').onclick = function() { openPhotoSwipe(items_20170117) };
+
+  </script>
   </body>
 </html>
 
