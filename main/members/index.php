@@ -171,6 +171,32 @@
 					<hr />
                     <section>
                         <div class="col-xs-12">
+                        <h2>Postdoctoral Fellows</h2>
+                        </div>
+                        <div class="col-xs-12">
+                            <div class="row vertical-center">
+                                <div class="col-sm-3">
+                                    <img class="img-responsive img-rounded" src="../img/mqq.jpg">
+                                </div>
+                                <div class="col-sm-9">
+                                    <h3>Dr. Qiangqiang Meng</h3>
+                                    <ul>
+                                        <li>2015-Present, Lecturer, YanCheng Institute of Technology</li>
+                                        <li>2011-2014, Ph.D. in Chemical Physics, University of Science and Technology of China</li>
+                                        <li>2008-2011, M.S. in Industrial Catalysis, Zhejiang University of Technology</li>
+                                        <li>2004-2008, B.S. in Chemistry, Anqing Normal University</li>
+                                    </ul>
+                                    <ul>
+                                        <li>Office: P6915, AC1</li>
+                                        <li>Email: <a href="mailto:qianmeng@cityu.edu.hk">qianmeng@cityu.edu.hk</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <hr />
+                    <section>
+                        <div class="col-xs-12">
                         <h2>Research Assistants</h2>
                         </div>
                         <div class="col-xs-12">
