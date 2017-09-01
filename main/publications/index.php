@@ -28,6 +28,20 @@
 					</div>
 					<div class="col-sm-12">
                         <ol id="publication-list" reversed> 
+                            <li>Qiangqiang Meng, Jiale Ma, Alice Hu, Chunyi Zhi, and Jun Fan*, S-functionalized Ti3C2 Mxene as a High Capacity Electrode Material for Na-ion Batteries: A DFT Study, submitted</li>
+                            
+                            <li>Zhiyao Xie, Huanbo Jiang, V. K. Sharma, Jun Fan*, and Xiaolin Cheng, Microscopic Insights into Melittin Induced Changes in Molecular Dynamics of Lipid Bilayer Membranes: Role of Physical State and Composition of the Bilayers, submitted</li>
+                            
+                            <li>Yonghui Zhang, Chunyi Zhi, and Jun Fan*, Lipid Adsorption Induced by Boron Nitride Nanosheet in mimic gram-negative bacterial and mammalian bilayer systems, submitted</li>
+                            
+                            <li>Jia Le Ma, Qiangqiang Men, and Jun Fan*, Voltage Driven Lateral Structural Evolution of Ions in Electric Double Layer Capacitor Strongly Correlates with Differential Capacitance, in revision</li>
+                            
+                            <li>Yonghui Zhang, Zhen Li, Chun Chan, Jiale Ma, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, Ordering of Lipid Membranes Altered by Boron Nitride Nanosheet, in revision</li>
+                            
+                            <li>Zhen Li, Yonghui Zhang, Chun Chan, Chunyi Zhi,* Xiaolin Cheng, and Jun Fan*, Temperature-dependent Lipid Extraction from Membranes by Boron Nitride Nanosheets, in revision</li>
+
+                            <li>Qiangqiang Meng, Alice Hu, Chunyi Zhi, and Jun Fan*, Theoretical prediction of MXene-like structure Ti3C4 as a high capacity electrode material for Na ion batteries, in revision</li>
+
                         	<li>Molecular Details of the PH Domain of ACAP1 BAR-PH Protein Binding to PIP-Containing Membrane, Chun Chan, Lanyuan Lu, Fei Sun, Jun Fan*, JPCB, in press (2017) </li>
 
                         	<li>Molecular Understanding of the Penetration of Functionalized Gold Nanoparticles into Asymmetric Membranes, Xuebo Quan, Chunwang Peng, Daohui Zhao, Libo Li, Jun Fan, and Jian Zhou, <a href="http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b02937">Langmuir, 33:361 (2017) Cover Story</a></li> 
