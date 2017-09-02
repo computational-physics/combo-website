@@ -38,7 +38,7 @@
                             
                             <li>Yonghui Zhang, Zhen Li, Chun Chan, Jiale Ma, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, Ordering of Lipid Membranes Altered by Boron Nitride Nanosheet, in revision</li>
                             
-                            <li>Zhen Li, Yonghui Zhang, Chun Chan, Chunyi Zhi,* Xiaolin Cheng, and Jun Fan*, Temperature-dependent Lipid Extraction from Membranes by Boron Nitride Nanosheets, in revision</li>
+                            <li>Zhen Li, Yonghui Zhang, Chun Chan, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, Temperature-dependent Lipid Extraction from Membranes by Boron Nitride Nanosheets, in revision</li>
 
                             <li>Qiangqiang Meng, Alice Hu, Chunyi Zhi, and Jun Fan*, Theoretical prediction of MXene-like structure Ti3C4 as a high capacity electrode material for Na ion batteries, in revision</li>
 
@@ -69,7 +69,7 @@
                                 <i>Highlighted in <a href="http://www.sciencedirect.com/science/article/pii/S1534580714006224">A Novel Twist in Membrane dePHormation</a></i>
                             </li>
 
-        					<li>Heqin Huang, Rui Chen, Jiale Ma, Li Yan, Yingqi Zhao, Yu Wang, Wenjun Zhang, Jun Fans*,  and Xianfeng Chen: Graphitic carbon nitride solid nanofilms for selective and recyclable sensing of Cu2+ and Ag+ in water and serum, <a href="http://pubs.rsc.org/en/content/articlelanding/2014/cc/c4cc06659f#!divAbstract">Chem. Commun. 50:15415-15418 (2014)</a></li>
+        					<li>Heqin Huang, Rui Chen, Jiale Ma, Li Yan, Yingqi Zhao, Yu Wang, Wenjun Zhang, Jun Fan*,  and Xianfeng Chen: Graphitic carbon nitride solid nanofilms for selective and recyclable sensing of Cu2+ and Ag+ in water and serum, <a href="http://pubs.rsc.org/en/content/articlelanding/2014/cc/c4cc06659f#!divAbstract">Chem. Commun. 50:15415-15418 (2014)</a></li>
 
         					<li>Yingzhi Xu, He Li, Ying-Hua Jin, Jun Fan* and Fei Sun: Dimerization Interface of 3-Hydroxyacyl-CoA Dehydrogenase Tunes the Formation of Its Catalytic Intermediate, <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0095965">PLoS ONE 9(4): e95965. doi: 10.1371/journal.pone.0095965 (2014)</a></li>
 
