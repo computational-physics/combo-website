@@ -42,7 +42,7 @@
 
                             <li>Qiangqiang Meng, Alice Hu, Chunyi Zhi, and Jun Fan*, Theoretical prediction of MXene-like structure Ti3C4 as a high capacity electrode material for Na ion batteries, in revision</li>
 
-                        	<li>Molecular Details of the PH Domain of ACAP1 BAR-PH Protein Binding to PIP-Containing Membrane, Chun Chan, Lanyuan Lu, Fei Sun, Jun Fan*, JPCB, in press (2017) </li>
+                        	<li>Molecular Details of the PH Domain of ACAP1 BAR-PH Protein Binding to PIP-Containing Membrane, Chun Chan, Lanyuan Lu, Fei Sun, Jun Fan*, <a href="http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b09563">The Journal of Physical Chemistry B, 10.1021/acs.jpcb.6b09563 (2017)</a></li>
 
                         	<li>Molecular Understanding of the Penetration of Functionalized Gold Nanoparticles into Asymmetric Membranes, Xuebo Quan, Chunwang Peng, Daohui Zhao, Libo Li, Jun Fan, and Jian Zhou, <a href="http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b02937">Langmuir, 33:361 (2017) Cover Story</a></li> 
 

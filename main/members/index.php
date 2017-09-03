@@ -75,24 +75,7 @@
 						<div class="col-xs-12">
 							<h2>Postgraduate Students</h2>
 						</div>
-						<div class="col-sm-12">
-							<div class="row vertical-center">
-								<div class="col-sm-3">
-									<img class="img-responsive img-rounded" src="../img/kevin.jpg">
-								</div>
-								<div class="col-sm-9">
-									<h3>Mr. Chun CHAN</h3>
-									<ul>
-										<li>2013-Present, PhD Candidate, City University of Hong Kong</li>
-										<li>2009-2013, BSc, City University of Hong Kong</li>
-									</ul>
-									<ul>
-										<li>Office: P6915, AC1</li>
-										<li>Email: <a href="mailto:cchan2242-c@my.cityu.edu.hk">cchan2242-c@my.cityu.edu.hk</a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
+						
 						<div class="col-xs-12">
 							<div class="row vertical-center">
 								<div class="col-sm-3">
@@ -195,30 +178,14 @@
                         </div>
                     </section>
                     <hr />
+                    <!--
                     <section>
                         <div class="col-xs-12">
                         <h2>Research Assistants</h2>
                         </div>
-                        <div class="col-xs-12">
-                            <div class="row vertical-center">
-                                <div class="col-sm-3">
-                                    <img class="img-responsive img-rounded" src="../img/hung.jpg">
-                                </div>
-                                <div class="col-sm-9">
-                                    <h3>Mr. Xinhong LIU</h3>
-                                    <ul>
-                                        <li>2012-2016, City University of Hong Kong</li>
-                                    </ul>
-                                    <ul>
-                                        <li>Office: P6915, AC1</li>
-                                        <li>Website: <a href="https://xinhong.me">xinhong.me</a></li>
-                                        <li>Email: <a href="mailto:i@xinhong.me">i@xinhong.me</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
+                        
                     </section>
-                    <hr />
+                    <hr />-->
                     <section>
                         <div class="col-xs-12">
                         <h2>Undergraguate Students</h2>
@@ -239,22 +206,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xs-12">
-                            <div class="row vertical-center">
-                                <div class="col-sm-3">
-                                    <img class="img-responsive img-rounded" src="../img/xzy.jpg">
-                                </div>
-                                <div class="col-sm-9">
-                                    <h3>Mr. Zhiyao XIE</h3>
-                                    <ul>
-                                        <li>2013-Present, City University of Hong Kong</li>
-                                    </ul>
-                                    <ul>
-                                        <li>Email: <a href="mailto:zyxie5-c@my.cityu.edu.hk">zyxie5-c@my.cityu.edu.hk</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
+                        
                         <div class="col-xs-12">
                             <div class="row vertical-center">
                                 <div class="col-sm-3">
@@ -277,6 +229,62 @@
 						<div class="col-xs-12">
 							<h2>Former Members</h2>
 						</div>
+						<div class="col-sm-12">
+							<div class="row vertical-center">
+								<div class="col-sm-3">
+									<img class="img-responsive img-rounded" src="../img/kevin.jpg">
+								</div>
+								<div class="col-sm-9">
+									<h3>Mr. Chun CHAN</h3>
+									<ul>
+										<li>Now going to perform Postdoctoral research at Ohio State University, USA</li>
+										<li>2013-2017, PhD, City University of Hong Kong</li>
+										<li>2009-2013, BSc, City University of Hong Kong</li>
+									</ul><!--
+									<ul>
+										<li>Office: P6915, AC1</li>
+										<li>Email: <a href="mailto:cchan2242-c@my.cityu.edu.hk">cchan2242-c@my.cityu.edu.hk</a></li>
+									</ul>-->
+								</div>
+							</div>
+						</div>
+						<div class="col-xs-12">
+                            <div class="row vertical-center">
+                                <div class="col-sm-3">
+                                    <img class="img-responsive img-rounded" src="../img/hung.jpg">
+                                </div>
+                                <div class="col-sm-9">
+                                    <h3>Mr. Xinhong LIU</h3>
+                                    <ul>
+                                    	<li>2017-present, Master's student at University of British Columbia, Canada</li>
+                                    	<li>2016-2017, Research Assistant, City University of Hong Kong</li>
+                                        <li>2012-2016, BENG, City University of Hong Kong</li>
+                                    </ul>
+                                    <ul>
+                                        <li>Website: <a href="https://xinhong.me">xinhong.me</a></li>
+                                        <!--<li>Office: P6915, AC1</li>
+                                        <li>Email: <a href="mailto:i@xinhong.me">i@xinhong.me</a></li>-->
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+						<div class="col-xs-12">
+                            <div class="row vertical-center">
+                                <div class="col-sm-3">
+                                    <img class="img-responsive img-rounded" src="../img/xzy.jpg">
+                                </div>
+                                <div class="col-sm-9">
+                                    <h3>Mr. Zhiyao XIE</h3>
+                                    <ul>
+                                    	<li>2017-present, Ph.D candidate at Duke University, USA</li>
+                                        <li>2013-2017, BENG, City University of Hong Kong</li>
+                                    </ul><!--
+                                    <ul>
+                                        <li>Email: <a href="mailto:zyxie5-c@my.cityu.edu.hk">zyxie5-c@my.cityu.edu.hk</a></li>
+                                    </ul>-->
+                                </div>
+                            </div>
+                        </div>
 						<div class="col-sm-12">
 							<ul>
 								<li>Jinhui XIONG (Part-time Research Assistant, June. 2013 - July. 2015)</li>
