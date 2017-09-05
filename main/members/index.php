@@ -47,7 +47,7 @@
 									<h3>Dr. Jun Fan</h3>
 									<h6>Ph.D (Princeton)</h6>
 									<p>
-										Dr. Jun Fan recently joined the Department of Physics and Materials Science as an Assistant
+										Dr. Jun Fan recently joined the Department of Materials Science and Engineering as an Assistant
 										Professor. Dr. Fan received her bachelor’s degree from Tsinghua University, Beijing, Master’s 
 										degree from McMaster University, Canada, and Ph.D. degree in Mechanical and Aerospace 
 										Engineering from Princeton University, USA. She worked under Prof. Mikko Haataja for her Ph.D. 
@@ -94,24 +94,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-xs-12">
-							<div class="row vertical-center">
-								<div class="col-sm-3">
-									<img class="img-responsive img-rounded" src="../img/lyf.jpg">
-								</div>
-								<div class="col-sm-9">
-									<h3>Mr. Yufeng LU</h3>
-									<ul>
-										<li>2014-Present, PhD Candidate, City University of Hong Kong</li>
-										<li>2007-2014, BSc & MSc, Beijing Normal University, Beijing, China</li>
-									</ul>
-									<ul>
-										<li>Office: P6915, AC1</li>
-										<li>Email: <a href="mailto:yufenglu3-c@my.cityu.edu.hk">yufenglu3-c@my.cityu.edu.hk</a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
+						
 						<div class="col-xs-12">
 							<div class="row vertical-center">
 								<div class="col-sm-3">
@@ -235,7 +218,7 @@
 									<img class="img-responsive img-rounded" src="../img/kevin.jpg">
 								</div>
 								<div class="col-sm-9">
-									<h3>Mr. Chun CHAN</h3>
+									<h3>Dr. Chun CHAN</h3>
 									<ul>
 										<li>Now going to perform Postdoctoral research at Ohio State University, USA</li>
 										<li>2013-2017, PhD, City University of Hong Kong</li>
@@ -276,7 +259,7 @@
                                 <div class="col-sm-9">
                                     <h3>Mr. Zhiyao XIE</h3>
                                     <ul>
-                                    	<li>2017-present, Ph.D candidate at Duke University, USA</li>
+                                    	<li>2017-present, Ph.D student at Duke University, USA</li>
                                         <li>2013-2017, BENG, City University of Hong Kong</li>
                                     </ul><!--
                                     <ul>
@@ -285,6 +268,25 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="col-xs-12">
+							<div class="row vertical-center">
+								<div class="col-sm-3">
+									<img class="img-responsive img-rounded" src="../img/lyf.jpg">
+								</div>
+								<div class="col-sm-9">
+									<h3>Dr. Yufeng LU</h3>
+									<ul>
+										<li>Now at Japan</li>
+										<li>2014-2017, PhD, City University of Hong Kong</li>
+										<li>2007-2014, BSc & MSc, Beijing Normal University, Beijing, China</li>
+									</ul>
+									<!--<ul>
+										<li>Office: P6915, AC1</li>
+										<li>Email: <a href="mailto:yufenglu3-c@my.cityu.edu.hk">yufenglu3-c@my.cityu.edu.hk</a></li>
+									</ul>-->
+								</div>
+							</div>
+						</div>
 						<div class="col-sm-12">
 							<ul>
 								<li>Jinhui XIONG (Part-time Research Assistant, June. 2013 - July. 2015)</li>
