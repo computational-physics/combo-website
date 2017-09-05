@@ -19,8 +19,8 @@
 				<div class="row">
 					<div class="col-xs-12">
 						<h1>Contact Us</h1>
-					</div>
-					<div class="col-sm-12">
+					<!--</div>combine two divisions to avoid bug
+					<div class="col-sm-12">-->
 					
 
 
