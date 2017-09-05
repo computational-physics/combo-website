@@ -28,6 +28,7 @@
 					<!--
                     </div>//combine two division to avoid a bug
 					<div class="col-sm-12">-->
+                        <br>
                         <ol id="publication-list" reversed> 
                             <li>Qiangqiang Meng, Jiale Ma, Alice Hu, Chunyi Zhi, and Jun Fan*, S-functionalized Ti3C2 Mxene as a High Capacity Electrode Material for Na-ion Batteries: A DFT Study, submitted</li>
                             
