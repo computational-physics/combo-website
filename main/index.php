@@ -42,7 +42,7 @@
                 <li data-target="#carousel-slider" data-slide-to="7"></li>
 				<li data-target="#carousel-slider" data-slide-to="8"></li>
                 <li data-target="#carousel-slider" data-slide-to="9"></li>
-                <li data-target="#carousel-slider" data-slide-to="10"></li>
+                <!--<li data-target="#carousel-slider" data-slide-to="10"></li>-->
 			</ol>
 
 			<!-- Wrapper for slides -->
