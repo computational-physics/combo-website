@@ -45,7 +45,7 @@
 								</div>
 								<div class="col-sm-9">
 									<h3>Dr. Jun Fan</h3>
-									<h6>Ph.D (Princeton)</h6>
+									<h6>Ph.D (<a href="https://www.princeton.edu">Princeton</a>)</h6>
 									<p>
 										Dr. Jun Fan recently joined the Department of Materials Science and Engineering as an Assistant
 										Professor. Dr. Fan received her bachelor’s degree from Tsinghua University, Beijing, Master’s 
@@ -220,7 +220,7 @@
 								<div class="col-sm-9">
 									<h3>Dr. Chun CHAN</h3>
 									<ul>
-										<li>Now going to perform Postdoctoral research at Ohio State University, USA</li>
+										<li>Now going to perform Postdoctoral research at <a href="https://www.osu.edu">Ohio State University</a>, USA</li>
 										<li>2013-2017, PhD, City University of Hong Kong</li>
 										<li>2009-2013, BSc, City University of Hong Kong</li>
 									</ul><!--
@@ -239,7 +239,7 @@
                                 <div class="col-sm-9">
                                     <h3>Mr. Xinhong LIU</h3>
                                     <ul>
-                                    	<li>2017-present, Master's student at University of British Columbia, Canada</li>
+                                    	<li>2017-present, Master's student at <a href="https://www.ubc.ca">University of British Columbia</a>, Canada</li>
                                     	<li>2016-2017, Research Assistant, City University of Hong Kong</li>
                                         <li>2012-2016, BENG, City University of Hong Kong</li>
                                     </ul>
@@ -259,7 +259,7 @@
                                 <div class="col-sm-9">
                                     <h3>Mr. Zhiyao XIE</h3>
                                     <ul>
-                                    	<li>2017-present, Ph.D student at Duke University, USA</li>
+                                    	<li>2017-present, Ph.D student at <a href="https://www.duke.edu">Duke University</a>, USA</li>
                                         <li>2013-2017, BENG, City University of Hong Kong</li>
                                     </ul><!--
                                     <ul>
@@ -289,9 +289,9 @@
 						</div>
 						<div class="col-sm-12">
 							<ul>
-								<li>Jinhui XIONG (Part-time Research Assistant, June. 2013 - July. 2015)</li>
+								<li>Jinhui XIONG (Part-time Research Assistant, June. 2013 - July. 2015 -> Now at <a href="https://www.kaust.edu.sa/en">King Abdullah University of Science & Technology</a></li>
+								<li>Shanghui Huang (Research Staff, Dec. 2014 - June. 2015) -> Now at <a href="https://www.vanderbilt.edu">Vanderbilt University</a>, USA</li>
 								<li>Hechen LI (Part-time Research Assistant, Sep. 2014 - July. 2015)</li>
-								<li>Shanghui Huang (Research Staff, Dec. 2014 - June. 2015)</li>
 								<li>Tse Wai Kin (FYP, Sep. 2014 - April 2015) Project: Construction of coarse grain model of MjHSP16.5</li>
 								<li>Geguang Zhu (MSc, Jan. 2014 - Aug. 2014) Project: Umbrella Sampling of Free energy calculation</li>
 								<li>Joe Lee (MSc, Jan. 2014 - Aug. 2014) Project: Force-matching of water system.</li>
