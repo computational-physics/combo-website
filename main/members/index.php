@@ -289,7 +289,7 @@
 						</div>
 						<div class="col-sm-12">
 							<ul>
-								<li>Jinhui XIONG (Part-time Research Assistant, June. 2013 - July. 2015 -> Now at <a href="https://www.kaust.edu.sa/en">King Abdullah University of Science & Technology</a></li>
+								<li>Jinhui XIONG (Part-time Research Assistant, June. 2013 - July. 2015 -> Now at <a href="https://www.kaust.edu.sa/en">King Abdullah University of Science & Technology</a>, Saudi Arabia</li>
 								<li>Shanghui Huang (Research Staff, Dec. 2014 - June. 2015) -> Now at <a href="https://www.vanderbilt.edu">Vanderbilt University</a>, USA</li>
 								<li>Hechen LI (Part-time Research Assistant, Sep. 2014 - July. 2015)</li>
 								<li>Tse Wai Kin (FYP, Sep. 2014 - April 2015) Project: Construction of coarse grain model of MjHSP16.5</li>
