@@ -38,11 +38,11 @@
                             
                             <li>Jia Le Ma, Qiangqiang Men, and Jun Fan*, Voltage Driven Lateral Structural Evolution of Ions in Electric Double Layer Capacitor Strongly Correlates with Differential Capacitance, in revision</li>
                             
-                            <li>Yonghui Zhang, Zhen Li, Chun Chan, Jiale Ma, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, Ordering of Lipid Membranes Altered by Boron Nitride Nanosheet, in press</li>
+                            <li>Yonghui Zhang, Zhen Li, Chun Chan, Jiale Ma, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, Ordering of Lipid Membranes Altered by Boron Nitride Nanosheet, <a href="http://pubs.rsc.org/en/content/articlelanding/2014/CP/C7CP07136A#!divAbstract">Phys. Chem. Chem. Phys., 10.1039/C7CP07136A (2017)</a></li>
                             
                             <li>Zhen Li, Yonghui Zhang, Chun Chan, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, Temperature-dependent Lipid Extraction from Membranes by Boron Nitride Nanosheets, in revision</li>
 
-                            <li>Qiangqiang Meng, Alice Hu, Chunyi Zhi, and Jun Fan*, Theoretical prediction of MXene-like structure Ti3C4 as a high capacity electrode material for Na ion batteries, <a href="http://pubs.rsc.org/en/content/articlehtml/2017/CP/C7CP06171D">Phys. Chem. Chem. Phys., 10.1039/C7CP06171D (2017)</a></li>
+                            <li>Qiangqiang Meng, Alice Hu, Chunyi Zhi, and Jun Fan*, Theoretical prediction of MXene-like structure Ti3C4 as a high capacity electrode material for Na ion batteries, <a href="http://pubs.rsc.org/en/content/articlehtml/2017/CP/C7CP06171D">Phys. Chem. Chem. Phys., 10.1039/C7CP06171D (2017)</a>, This article is part of the themed collection: <a href="http://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cp&themeid=6f8bc19b-215a-4535-b504-cc4450521837">2017 PCCP HOT Articles</a></li>
 
                         	<li>Molecular Details of the PH Domain of ACAP1 BAR-PH Protein Binding to PIP-Containing Membrane, Chun Chan, Lanyuan Lu, Fei Sun, Jun Fan*, <a href="http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b09563">The Journal of Physical Chemistry B, 10.1021/acs.jpcb.6b09563 (2017)</a></li>
 
