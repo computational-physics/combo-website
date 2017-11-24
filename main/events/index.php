@@ -39,6 +39,13 @@
 							</thead>
 							<tbody>
 								<tr>
+									<td>29/11/2017</td>
+									<td><a href="images/29-11-2017.pdf">
+										3rd Parallel Computing and MPI Programming Workshop by Dr. Kwai Wong
+									</a></td>
+									<!--<td><a class="btn btn-xs btn-primary" style="cursor: pointer;" id="gallery-20170117">show photo gallery</a></td>-->
+								</tr>
+								<tr>
 									<td>17/01/2017</td>
 									<td><a href="3rd-symposium-biophysics/">
 										3rd Symposium on Biophysics Postgraduate Research in Hong Kong
