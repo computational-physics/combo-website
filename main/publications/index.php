@@ -30,7 +30,7 @@
 					<div class="col-sm-12">--> 
                         <br>
                         <ol id="publication-list" reversed> 
-                            <li>Qiangqiang Meng, Jiale Ma, Alice Hu, Chunyi Zhi, and Jun Fan*, S-functionalized Ti3C2 Mxene as a High Capacity Electrode Material for Na-ion Batteries: A DFT Study, submitted</li>
+                            <li>Qiangqiang Meng, Jiale Ma, Alice Hu, Chunyi Zhi, and Jun Fan*, The S-functionalized Ti3C2 Mxene as a High Capacity Electrode Material for Na-ion Batteries: A DFT Study, <a href="http://pubs.rsc.org/en/content/articlelanding/2018/nr/c7nr07649e/unauth#!divAbstract">Nanoscale, DOI: 10.1039/C7NR07649E (2018)</a></li>
                             
                             <li>Zhiyao Xie, Huanbo Jiang, V. K. Sharma, Jun Fan*, and Xiaolin Cheng, Microscopic Insights into Melittin Induced Changes in Molecular Dynamics of Lipid Bilayer Membranes: Role of Physical State and Composition of the Bilayers, submitted</li>
                             
@@ -52,7 +52,7 @@
 
                             <li>S. Lan, M. Blodgett, K. F. Kelton, J. L. Ma, J. Fan and X.-L. Wang, Structural crossover in a supercooled metallic liquid and the link to a liquid-to-liquid phase transition, <a href="http://dx.doi.org/10.1063/1.4952724">Appl. Phys. Lett. 108, 211907 (2016)</a></li>
 
-                        	<li>Chun Chan, Jun Fan, Andrew Messer, Steve Marston, Hiroyuki Iwamoto, Julien Ochala, Myopathy-inducing mutation H40Y in ACTA1 hampers actin filament structure and function, <a href="http://www.sciencedirect.com/science/article/pii/S0925443916300904">BBA - Molecular Basis of Disease, Aug;1862(8):1453-8. doi: 10.1016/j.bbadis.2016.04.013 (2016)</a></li>
+                        	<li>Chun Chan, Jun Fan, Andrew Messer, Steve Marston, Hiroyuki Iwamoto, Julien Ochala, Myopathy-inducing mutation H40Y in ACTA1 hampers actin filament structure and function, <a href="http://www.sciencedirect.com/science/article/pii/S0925443916300904">BBA - Molecular Basis of Disease, Aug;1862(8):1453-8. DOI: 10.1016/j.bbadis.2016.04.013 (2016)</a></li>
 
                             <li>Feng Wang, Jiale Ma, Fangyan Xie, Linkai Li, Jian Chen, Jun Fan and Ni Zhao, "Organic Cation-Dependent Degradation Mechanism of Organo Tin Halide Perovskites", <a href="http://dx.doi.org/10.1002/adfm.201505127">Advanced Functional Materials, 26: 3417 DOI: 10.1002/adfm.201505127 (2016)</a></li>
 
@@ -73,7 +73,7 @@
 
         					<li>Heqin Huang, Rui Chen, Jiale Ma, Li Yan, Yingqi Zhao, Yu Wang, Wenjun Zhang, Jun Fan*,  and Xianfeng Chen: Graphitic carbon nitride solid nanofilms for selective and recyclable sensing of Cu2+ and Ag+ in water and serum, <a href="http://pubs.rsc.org/en/content/articlelanding/2014/cc/c4cc06659f#!divAbstract">Chem. Commun. 50:15415-15418 (2014)</a></li>
 
-        					<li>Yingzhi Xu, He Li, Ying-Hua Jin, Jun Fan* and Fei Sun: Dimerization Interface of 3-Hydroxyacyl-CoA Dehydrogenase Tunes the Formation of Its Catalytic Intermediate, <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0095965">PLoS ONE 9(4): e95965. doi: 10.1371/journal.pone.0095965 (2014)</a></li>
+        					<li>Yingzhi Xu, He Li, Ying-Hua Jin, Jun Fan* and Fei Sun: Dimerization Interface of 3-Hydroxyacyl-CoA Dehydrogenase Tunes the Formation of Its Catalytic Intermediate, <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0095965">PLoS ONE 9(4): e95965. DOI: 10.1371/journal.pone.0095965 (2014)</a></li>
 
         					<li>Jun Fan, Marissa G. Saunders, Enrique M. De La Cruz, Gregory A. Voth:  Molecular origins of cofilin-induced actin filament mechanics, <a href="http://www.sciencedirect.com/science/article/pii/S0022283613000363"> Journal of Molecular Biology, 425:1225 (2013) </a></li>
 
