@@ -29,18 +29,20 @@
                     </div>//combine two division to avoid a bug
 					<div class="col-sm-12">--> 
                         <br>
-                        <ol id="publication-list" reversed> 
-                            <li>Qiangqiang Meng, Jiale Ma, Alice Hu, Chunyi Zhi, and Jun Fan*, The S-functionalized Ti3C2 Mxene as a High Capacity Electrode Material for Na-ion Batteries: A DFT Study, <a href="http://pubs.rsc.org/en/content/articlelanding/2018/nr/c7nr07649e/unauth#!divAbstract">Nanoscale, DOI: 10.1039/C7NR07649E (2018)</a></li>
-                            
-                            <li>Zhiyao Xie, Huanbo Jiang, V. K. Sharma, Jun Fan*, and Xiaolin Cheng, Microscopic Insights into Melittin Induced Changes in Molecular Dynamics of Lipid Bilayer Membranes: Role of Physical State and Composition of the Bilayers, submitted</li>
-                            
+                        <ol id="publication-list" reversed>
                             <li>Yonghui Zhang, Chunyi Zhi, and Jun Fan*, Lipid Adsorption Induced by Boron Nitride Nanosheet in mimic gram-negative bacterial and mammalian bilayer systems, submitted</li>
-                            
-                            <li>Jia Le Ma, Qiangqiang Men, and Jun Fan*, Voltage Driven Lateral Structural Evolution of Ions in Electric Double Layer Capacitor Strongly Correlates with Differential Capacitance, in revision</li>
-                            
-                            <li>Yonghui Zhang, Zhen Li, Chun Chan, Jiale Ma, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, Ordering of Lipid Membranes Altered by Boron Nitride Nanosheet, <a href="http://pubs.rsc.org/en/content/articlelanding/2014/CP/C7CP07136A#!divAbstract">Phys. Chem. Chem. Phys., 10.1039/C7CP07136A (2017)</a></li>
-                            
+
+                            <li>Huanbo Jiang, Zhiyao Xie, Zhen Li, V. K. Sharma, Jun Fan*, and Xiaolin Cheng, Microscopic Insights into Melittin Induced Changes in Molecular Dynamics of Lipid Bilayer Membranes: Role of Physical State and Composition of the Bilayers, in revision</li>
+
+                            <li>Jia Le Ma, Qiangqiang Men, and Jun Fan*, Voltage Driven Lateral Structural Evolution of Ions in Electric Double Layer Capacitor Strongly Correlates with Differential Capacitance, in revision </li>
+
                             <li>Zhen Li, Yonghui Zhang, Chun Chan, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, Temperature-dependent Lipid Extraction from Membranes by Boron Nitride Nanosheets, in revision</li>
+
+                            <li>Qiangqiang Meng, Jiale Ma, Alice Hu, Chunyi Zhi, and Jun Fan*, The S-functionalized Ti3C2 Mxene as a High Capacity Electrode Material for Na-ion Batteries: A DFT Study, <a href="http://pubs.rsc.org/en/content/articlelanding/2018/nr/c7nr07649e">Nanoscale, DOI: 10.1039/C7NR07649E (2018)</a></li>
+
+                            <li>Yanhua Zhao, Yang Wu, Liang Wang, Manman Zhang, Xuan Chen, Minjie Liu, Jun Fan, Junqiu Liu, Feng Zhou, Zuankai Wang. Bio-inspired reversible underwater adhesive. <a href="https://www.nature.com/articles/s41467-017-02387-2">Nature Communications, 8, 2218(2017)</a>. Selected by The Latest Science as the paper of the month (January 2018)</li>
+
+                            <li>Yonghui Zhang, Zhen Li, Chun Chan, Jiale Ma, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, Ordering of Lipid Membranes Altered by Boron Nitride Nanosheet, <a href="http://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp07136a#!divAbstract">Phys. Chem. Chem. Phys., 10.1039/C7CP07136A (2017)</a>, inside cover</li>
 
                             <li>Qiangqiang Meng, Alice Hu, Chunyi Zhi, and Jun Fan*, Theoretical prediction of MXene-like structure Ti3C4 as a high capacity electrode material for Na ion batteries, <a href="http://pubs.rsc.org/en/content/articlehtml/2017/CP/C7CP06171D">Phys. Chem. Chem. Phys., 10.1039/C7CP06171D (2017)</a>, This article is part of the themed collection: <a href="http://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cp&themeid=6f8bc19b-215a-4535-b504-cc4450521837">2017 PCCP HOT Articles</a></li>
 
@@ -56,7 +58,7 @@
 
                             <li>Feng Wang, Jiale Ma, Fangyan Xie, Linkai Li, Jian Chen, Jun Fan and Ni Zhao, "Organic Cation-Dependent Degradation Mechanism of Organo Tin Halide Perovskites", <a href="http://dx.doi.org/10.1002/adfm.201505127">Advanced Functional Materials, 26: 3417 DOI: 10.1002/adfm.201505127 (2016)</a></li>
 
-                            <li>Xian Chen, Limin Jin, Wei Kong, Tianying Sun, Wenfei Zhang, Xinhong Liu, Jun Fan, Siu Fung Yu, and Feng Wang, Confining Exciton Migration in Upconversion Nanoparticles towards Deep Ultraviolet Lasing, <a href="http://www.nature.com/ncomms/2016/160107/ncomms10304/full/ncomms10304.html">Nature Communications, 7:10304 (2016)</a></li> 
+                            <li>Xian Chen, Limin Jin, Wei Kong, Tianying Sun, Wenfei Zhang, Xinhong Liu, Jun Fan, Siu Fung Yu, and Feng Wang, Confining energy migration in upconversion nanoparticles towards deep ultraviolet lasing, <a href="http://www.nature.com/ncomms/2016/160107/ncomms10304/full/ncomms10304.html">Nature Communications, 7:10304 (2016)</a></li> 
 
                             <li>Chun Chan, Haohua Wen, Lanyuan Lu, and Jun Fan*, Multiscale molecular dynamics simulations membrane remodeling by BAR family proteins, <a href="http://cpb.iphy.ac.cn/EN/abstract/abstract66287.shtml">Chinese Physics B, 25:018707 (invited review, 2016)</a></li>
 
