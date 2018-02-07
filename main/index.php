@@ -166,7 +166,7 @@
 				<li><a target="_blank" href="http://www.sbs.ntu.edu.sg/aboutus/Faculty/lylu/Pages/Home.aspx">Lanyuan Lu</a> (Nanyang Technological University, Singapore)</li>
 	    		<li><a target="_blank" href="http://feilab.ibp.ac.cn/LBEMSB/Home.html">Fei Sun</a> (Institute of Biophysics, Chinese Academy of Sciences, China)</li>
 				<li><a target="_blank" href="http://chem.uic.edu/chemistry/people/faculty/xiaojing-yang">Xiaojing Yang</a> (University of Illinois at Chicago, US)</li>
-				<li><a target="_blank" href="https://cmb.ornl.gov/people/cheng">Xiaolin Cheng</a> (Ohio State University, US)</li>
+				<li><a target="_blank" href="http://pharmacy.osu.edu/faculty-staff/users/cheng1302">Xiaolin Cheng</a> (Ohio State University, US)</li>
 				<li><a target="_blank" href="http://www.ap.cityu.edu.hk/personal-website/wang-feng/home.html">Feng Wang</a> (City University of Hong Kong, HK)</li>
 				<!--<li><a target="_blank" href="https://vothgroup.uchicago.edu">Gregory Voth</a> (University of Chicago, US)</li>
 				<li><a target="_blank" href="http://www.rsdavis.mycpanel.princeton.edu/haatajagroup">Mikko Haataja</a> (Princeton University, US)</li>
