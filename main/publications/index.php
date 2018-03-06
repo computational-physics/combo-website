@@ -34,19 +34,19 @@
 
                             <li>Huanbo Jiang, Zhiyao Xie, Zhen Li, V. K. Sharma, Jun Fan*, and Xiaolin Cheng, Microscopic Insights into Melittin Induced Changes in Molecular Dynamics of Lipid Bilayer Membranes: Role of Physical State and Composition of the Bilayers, in revision</li>
 
-                            <li>Jia Le Ma, Qiangqiang Men, and Jun Fan*, Voltage Driven Lateral Structural Evolution of Ions in Electric Double Layer Capacitor Strongly Correlates with Differential Capacitance, in revision </li>
+                            <li>Jia Le Ma, Qiangqiang Men, and Jun Fan*, Charge Driven Lateral Structural Evolution of Ions in Electric Double Layer Capacitor Strongly Correlates with Differential Capacitance, <a href="http://pubs.rsc.org/en/content/articlelanding/2018/cp/c7cp08075a#!divAbstract">Phys. Chem. Chem. Phys., 10.1039/C7CP08075A (2018) </li>
 
-                            <li>Zhen Li, Yonghui Zhang, Chun Chan, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, Temperature-dependent Lipid Extraction from Membranes by Boron Nitride Nanosheets, in revision</li>
+                            <li>Zhen Li, Yonghui Zhang, Chun Chan, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, Temperature-dependent Lipid Extraction from Membranes by Boron Nitride Nanosheets, ACS Nano, Accepted</li>
 
-                            <li>Qiangqiang Meng, Jiale Ma, Alice Hu, Chunyi Zhi, and Jun Fan*, The S-functionalized Ti3C2 Mxene as a High Capacity Electrode Material for Na-ion Batteries: A DFT Study, <a href="http://pubs.rsc.org/en/content/articlelanding/2018/nr/c7nr07649e">Nanoscale, DOI: 10.1039/C7NR07649E (2018)</a></li>
+                            <li>Qiangqiang Meng, Jiale Ma, Alice Hu, Chunyi Zhi, and Jun Fan*, The S-functionalized Ti3C2 Mxene as a High Capacity Electrode Material for Na-ion Batteries: A DFT Study, <a href="http://pubs.rsc.org/en/content/articlelanding/2018/nr/c7nr07649e">Nanoscale, 10, 3385-3392 (2018)</a></li>
 
                             <li>Yanhua Zhao, Yang Wu, Liang Wang, Manman Zhang, Xuan Chen, Minjie Liu, Jun Fan, Junqiu Liu, Feng Zhou, Zuankai Wang. Bio-inspired reversible underwater adhesive. <a href="https://www.nature.com/articles/s41467-017-02387-2">Nature Communications, 8, 2218(2017)</a>. Selected by The Latest Science as the paper of the month (January 2018)</li>
 
-                            <li>Yonghui Zhang, Zhen Li, Chun Chan, Jiale Ma, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, Ordering of Lipid Membranes Altered by Boron Nitride Nanosheet, <a href="http://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp07136a#!divAbstract">Phys. Chem. Chem. Phys., 10.1039/C7CP07136A (2017)</a>, inside cover</li>
+                            <li>Yonghui Zhang, Zhen Li, Chun Chan, Jiale Ma, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, Ordering of Lipid Membranes Altered by Boron Nitride Nanosheet, <a href="http://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp07136a#!divAbstract">Phys. Chem. Chem. Phys., 20, 3903-3910 (2018)</a>, inside cover</li>
 
-                            <li>Qiangqiang Meng, Alice Hu, Chunyi Zhi, and Jun Fan*, Theoretical prediction of MXene-like structure Ti3C4 as a high capacity electrode material for Na ion batteries, <a href="http://pubs.rsc.org/en/content/articlehtml/2017/CP/C7CP06171D">Phys. Chem. Chem. Phys., 10.1039/C7CP06171D (2017)</a>, This article is part of the themed collection: <a href="http://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cp&themeid=6f8bc19b-215a-4535-b504-cc4450521837">2017 PCCP HOT Articles</a></li>
+                            <li>Qiangqiang Meng, Alice Hu, Chunyi Zhi, and Jun Fan*, Theoretical prediction of MXene-like structure Ti3C4 as a high capacity electrode material for Na ion batteries, <a href="http://pubs.rsc.org/en/content/articlehtml/2017/CP/C7CP06171D">Phys. Chem. Chem. Phys., 19, 29106-29113 (2017)</a>, This article is part of the themed collection: <a href="http://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cp&themeid=6f8bc19b-215a-4535-b504-cc4450521837">2017 PCCP HOT Articles</a></li>
 
-                        	<li>Molecular Details of the PH Domain of ACAP1 BAR-PH Protein Binding to PIP-Containing Membrane, Chun Chan, Lanyuan Lu, Fei Sun, Jun Fan*, <a href="http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b09563">The Journal of Physical Chemistry B, 10.1021/acs.jpcb.6b09563 (2017)</a></li>
+                        	<li>Molecular Details of the PH Domain of ACAP1 BAR-PH Protein Binding to PIP-Containing Membrane, Chun Chan, Lanyuan Lu, Fei Sun, Jun Fan*, <a href="http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b09563">The Journal of Physical Chemistry B, 121, 3586-3596 (2017)</a></li>
 
                         	<li>Molecular Understanding of the Penetration of Functionalized Gold Nanoparticles into Asymmetric Membranes, Xuebo Quan, Chunwang Peng, Daohui Zhao, Libo Li, Jun Fan, and Jian Zhou, <a href="http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b02937">Langmuir, 33:361 (2017) Cover Story</a></li> 
 
