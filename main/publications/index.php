@@ -39,7 +39,8 @@
                             <li>Zhen Li, Yonghui Zhang, Chun Chan, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, Temperature-Dependent Lipid Extraction from Membranes by Boron Nitride Nanosheets, ACS Nano, Accepted.</li>
 
                             <li>Qiangqiang Meng, Jiale Ma, Alice Hu, Chunyi Zhi, and Jun Fan*, The S-functionalized Ti3C2 Mxene as a High Capacity Electrode Material for Na-ion Batteries: A DFT Study, <a href="http://pubs.rsc.org/en/content/articlelanding/2018/nr/c7nr07649e">Nanoscale, 10: 3385-3392 (2018)</a></li>
-
+							<img class="img-responsive img-rounded" src="../img/paperlist/2018Nanoscale1.jpg">
+							
                             <li>Yanhua Zhao, Yang Wu, Liang Wang, Manman Zhang, Xuan Chen, Minjie Liu, Jun Fan, Junqiu Liu, Feng Zhou, Zuankai Wang. Bio-inspired reversible underwater adhesive. <a href="https://www.nature.com/articles/s41467-017-02387-2">Nat. Commun., 8: 2218 (2017)</a>. Selected by The Latest Science as the paper of the month (January 2018)</li>
 
                             <li>Yonghui Zhang, Zhen Li, Chun Chan, Jiale Ma, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, Ordering of Lipid Membranes Altered by Boron Nitride Nanosheet, <a href="http://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp07136a#!divAbstract">Phys. Chem. Chem. Phys., 20: 3903-3910 (2018)</a>, inside cover</li>
