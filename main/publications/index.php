@@ -55,7 +55,8 @@
 								<img class="img-responsive center-block" src="../img/paperlist/2017JPCB1.jpg">
 							
                         	<li>Xuebo Quan, Chunwang Peng, Daohui Zhao, Libo Li, Jun Fan, and Jian Zhou, Molecular Understanding of the Penetration of Functionalized Gold Nanoparticles into Asymmetric Membranes,  <a href="http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b02937">Langmuir, 33: 361 (2017)</a>, Cover Story</li> 
-
+								<img class="img-responsive center-block" src="../img/paperlist/2017Langmuir1.jpg">
+							
                         	<li>Y. F. Ye, Xiaodi Liu, Song Wang, Jun Fan, Chain Tsuan LIU, and Yong Yang, The Kinetic Origin of Delayed Yielding in Metallic Glasses, <a href="http://aip.scitation.org/doi/10.1063/1.4954376">Appl. Phys. Lett., 108: 251901 (2016)</a></li>
 
                             <li>S. Lan, M. Blodgett, K. F. Kelton, J. L. Ma, J. Fan and X.-L. Wang, Structural crossover in a supercooled metallic liquid and the link to a liquid-to-liquid phase transition, <a href="http://dx.doi.org/10.1063/1.4952724">Appl. Phys. Lett., 108: 211907 (2016)</a></li>
