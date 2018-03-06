@@ -39,7 +39,7 @@
                             <li>Jia Le Ma, Qiangqiang Meng, and Jun Fan*, Charge Driven Lateral Structural Evolution of Ions in Electric Double Layer Capacitor Strongly Correlates with Differential Capacitance, <a href="http://pubs.rsc.org/en/content/articlelanding/2018/cp/c7cp08075a#!divAbstract">Phys. Chem. Chem. Phys., 10.1039/C7CP08075A (2018) </a></li>
 							<div class="row vertical-center">
 								<div class="col-sm-12">
-									<img class="img-responsive" src="../img/paperlist/2018PCCP2.jpg" />
+									<img class="vertical-align img-responsive" src="../img/paperlist/2018PCCP2.jpg" />
 								</div>
 							</div>
 
