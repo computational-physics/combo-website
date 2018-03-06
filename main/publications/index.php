@@ -44,7 +44,7 @@
 							</div>
 
                             <li>Qiangqiang Meng, Jiale Ma, Alice Hu, Chunyi Zhi, and Jun Fan*, The S-functionalized Ti3C2 Mxene as a High Capacity Electrode Material for Na-ion Batteries: A DFT Study, <a href="http://pubs.rsc.org/en/content/articlelanding/2018/nr/c7nr07649e">Nanoscale, 10: 3385-3392 (2018)</a></li>
-								<img class="img-responsive img-rounded" src="../img/paperlist/2018Nanoscale1.jpg">
+								<img class="img-responsive center-block" src="../img/paperlist/2018Nanoscale1.jpg">
 							
                             <li>Yonghui Zhang, Zhen Li, Chun Chan, Jiale Ma, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, Ordering of Lipid Membranes Altered by Boron Nitride Nanosheet, <a href="http://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp07136a#!divAbstract">Phys. Chem. Chem. Phys., 20: 3903-3910 (2018)</a>, inside cover</li>
 								<img class="img-responsive img-rounded" src="../img/paperlist/2018PCCP1.jpg">
