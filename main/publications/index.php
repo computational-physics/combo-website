@@ -39,10 +39,11 @@
 							<li>Yifan Ye, Yanhui Zhang, Q.F. He, Yu Zhuang, S. Wang, S.Q. Shi, J. Fan, A. Hu, Yong Yang, Atomic-Scale Distorted Lattice in Chemically Disordered Equimolar Complex Alloys, Acta Materialia, Accepted.</li>
 							<br>
 							
-                            <li>Zhen Li, Yonghui Zhang, Chun Chan, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, Temperature-Dependent Lipid Extraction from Membranes by Boron Nitride Nanosheets, ACS Nano, Accepted.</li>
+                            <li>Zhen Li, Yonghui Zhang, Chun Chan, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, Temperature-Dependent Lipid Extraction from Membranes by Boron Nitride Nanosheets, <a href="https://pubs.acs.org/doi/10.1021/acsnano.7b09095">ACS Nano, DOI: 10.1021/acsnano.7b09095 (2018) </a></li>
+								<img class="img-responsive center-block" src="../img/paperlist/2018ACSNano1.jpg">
 							<br>
 							
-                            <li>Jia Le Ma, Qiangqiang Meng, and Jun Fan*, Charge Driven Lateral Structural Evolution of Ions in Electric Double Layer Capacitor Strongly Correlates with Differential Capacitance, <a href="http://pubs.rsc.org/en/content/articlelanding/2018/cp/c7cp08075a#!divAbstract">Phys. Chem. Chem. Phys., 10.1039/C7CP08075A (2018) </a></li>
+                            <li>Jia Le Ma, Qiangqiang Meng, and Jun Fan*, Charge Driven Lateral Structural Evolution of Ions in Electric Double Layer Capacitor Strongly Correlates with Differential Capacitance, <a href="http://pubs.rsc.org/en/content/articlelanding/2018/cp/c7cp08075a#!divAbstract">Phys. Chem. Chem. Phys., DOI: 10.1039/C7CP08075A (2018) </a></li>
 								<img class="img-responsive center-block" src="../img/paperlist/2018PCCP2.jpg">
 							<br>
 							
