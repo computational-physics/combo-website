@@ -36,7 +36,7 @@
                             <li>Huanbo Jiang, Zhiyao Xie, Zhen Li, V. K. Sharma, Jun Fan*, and Xiaolin Cheng, Microscopic Insights into Melittin Induced Changes in Molecular Dynamics of Lipid Bilayer Membranes: Role of Physical State and Composition of the Bilayers, in revision</li>
 							<br>
 							
-							<li>Yifan Ye, Yanhui Zhang, Q.F. He, Yu Zhuang, S. Wang, S.Q. Shi, J. Fan, A. Hu, Yong Yang, Atomic-Scale Distorted Lattice in Chemically Disordered Equimolar Complex Alloys, Acta Materialia, Accepted.</li>
+							<li>Y.F. Ye, Y.H. Zhang, Q.F. He, Y. Zhuang, S. Wang, S.Q. Shi, A. Hu, J. Fan, Y. Yang, Atomic-scale distorted lattice in chemically disordered equimolar complex alloys, <a href="https://www.sciencedirect.com/science/article/pii/S1359645418301873">Acta Materialia, DOI: 10.1016/j.actamat.2018.03.008 (2018) </a></li>
 							<br>
 							
                             <li>Zhen Li, Yonghui Zhang, Chun Chan, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, Temperature-Dependent Lipid Extraction from Membranes by Boron Nitride Nanosheets, <a href="https://pubs.acs.org/doi/10.1021/acsnano.7b09095">ACS Nano, DOI: 10.1021/acsnano.7b09095 (2018) </a></li>
