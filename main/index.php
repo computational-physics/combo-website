@@ -48,7 +48,7 @@
 			<!-- Wrapper for slides -->
 			<div class="carousel-inner">
                 <div class="item active">
-                    <img src="img/slides/slide-colleague-com-sci.jpg">
+                    <img src="img/slides/slide-2018-1.jpg">
                 </div>
                 <div class="item">
                     <img src="img/slides/slide-hpc-workshop-dec-2015.jpg">
