@@ -51,7 +51,7 @@
                     <img src="img/slides/slide-2018-1.jpg">
                 </div>
                 <div class="item">
-                    <img src="img/slides/slide-hpc-workshop-dec-2015.jpg">
+                    <img src="img/slides/slide-2018-2.jpg">
                 </div>
                 <div class="item">
                     <img src="img/slides/slide-michael-greenwood.jpg">
