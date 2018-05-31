@@ -6,7 +6,7 @@ define("ROOTPATH", "/main");
         <a target="_blank" href="//www.cityu.edu.hk">
             <img src="//template.cityu.edu.hk/template/img/logos/cityu_deptpage.png">
         </a>
-        </br>Computational Biophysics<br> and Materials Science Group<small style="color: black"><br>-<a href="//www.ap.cityu.edu.hk" target="_blank" style="color: black">Department of Materials Science and Engineering</a></small>
+        </br>Computational Biophysics<br> and Materials Science Group<small style="color: black"><br>-<a href="//www6.cityu.edu.hk" target="_blank" style="color: black">Department of Materials Science and Engineering</a></small>
     </h3>
     <div class="visible-sm" style="height: 50px;"></div>
     <nav class="navbar navbar-inverse pull-right"  role="navigation">
@@ -25,6 +25,7 @@ define("ROOTPATH", "/main");
 	            <li><a href="<?php echo ROOTPATH ?>/members/">Members</a></li>
                 <li style="display:none"><a href="<?php echo ROOTPATH ?>/#teaching">Teaching</a></li>
                 <li><a href="<?php echo ROOTPATH ?>/publications/">Publications</a></li>
+				<li><a href="<?php echo ROOTPATH ?>/gallery/">Gallery</a></li>
                 <li><a href="<?php echo ROOTPATH ?>/events/">Events</a></li>
                 <li><a href="<?php echo ROOTPATH ?>/opening/">Opening</a></li>
 	            <li><a href="<?php echo ROOTPATH ?>/contact/">Contact Us</a></li>
