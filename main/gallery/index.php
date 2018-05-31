@@ -69,7 +69,7 @@
 						<legend> CBSB2018, Shenzhen </legend>
 					</div>
 					<div class="col-sm-12">
-						<img class="img-responsive" src="../img/gallery/2018CBSB.jpg">
+						<img class="img-thumbnail" src="../img/gallery/2018CBSB.jpg">
 					</div>
 					
 	
