@@ -69,13 +69,13 @@
 						<img class="img-thumbnail" src="../img/gallery/2018CBSB.jpg">
 					</div>
 					<div class="col-sm-6">
-						<p class="lead text-info">
-						<br />
+						<h4 class="text-primary">
 						<br />
 						<br />
 						The <strong>CBSB2018</strong> workshop was held on May 20-23 in Shenzhen. 
-						<br />Dr. Jun Fan and Yonghui Zhang presented our works, and Zhen Li presented a poster.
-						</p>
+						<br />Dr. Fan gave an invited talk.
+						<br />Yonghui Zhang gave an oral presentation, and Zhen Li presented a poster.
+						</h4>
 					</div>
 					
 	
