@@ -63,8 +63,11 @@
 			<div class="col-md-9">
 				<div class="row">
 					<a name="barph"></a>
-					<hr style="margin:0px;">
-
+					<div class="col-sm-12" style="text-align: center;">
+						<img class="img-responsive seperator" src="../img/others/seperator1.png" />
+					</div>
+					
+					
 					<!-- CBSB 2018 -->
 					<div class="row vertical-center">
 						<div class="col-sm-6">
@@ -80,7 +83,9 @@
 							</h4>
 						</div>
 					</div>
-					<hr style="margin:0px;">
+					<div class="col-sm-12" style="text-align: center;">
+						<img class="img-responsive seperator" src="../img/others/seperator1.png" />
+					</div>
 	
 	
 					<!-- MP Office -->
@@ -96,7 +101,9 @@
 							<img class="img-thumbnail" src="../img/gallery/2018MPoffice.jpg">
 						</div>	
 					</div>
-					<hr style="margin:0px;">
+					<div class="col-sm-12" style="text-align: center;">
+						<img class="img-responsive seperator" src="../img/others/seperator1.png" />
+					</div>
 					
 					
 					
