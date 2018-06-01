@@ -79,11 +79,18 @@
 					</div>
 					
 	
-	
-					
-					
+					<!-- MP Office -->
 
-					
+					<div class="col-sm-6">
+						<h4 class="text-primary">
+						<br />
+						<br />
+						<br />New office in Montery Plaza
+						</h4>
+					</div>
+					<div class="col-sm-6">
+						<img class="img-thumbnail" src="../img/gallery/2018MPoffice.jpg">
+					</div>	
 					
 					
 					
