@@ -41,7 +41,7 @@
 						<div class="col-sm-12">
 							<div class="row vertical-center">
 								<div class="col-sm-3">
-									<img class="img-responsive img-rounded" src="../img/junfan.jpg">
+									<img class="img-responsive img-rounded" src="../img/members/junfan.jpg">
 								</div>
 								<div class="col-sm-9">
 									<h3>Dr. Jun Fan</h3>
@@ -79,7 +79,7 @@
 						<div class="col-xs-12">
 							<div class="row vertical-center">
 								<div class="col-sm-3">
-									<img class="img-responsive img-rounded" src="../img/mjl.jpg">
+									<img class="img-responsive img-rounded" src="../img/members/mjl.jpg">
 								</div>
 								<div class="col-sm-9">
 									<h3>Mr. Jiale MA</h3>
@@ -98,7 +98,7 @@
 						<div class="col-xs-12">
 							<div class="row vertical-center">
 								<div class="col-sm-3">
-									<img class="img-responsive img-rounded" src="../img/yonghui.jpg">
+									<img class="img-responsive img-rounded" src="../img/members/yonghui.jpg">
 								</div>
 								<div class="col-sm-9">
 									<h3>Mr. Yonghui ZHANG</h3>
@@ -117,7 +117,7 @@
                         <div class="col-xs-12">
                             <div class="row vertical-center">
                                 <div class="col-sm-3">
-                                    <img class="img-responsive img-rounded" src="../img/lizhen.jpg">
+                                    <img class="img-responsive img-rounded" src="../img/members/lizhen.jpg">
                                 </div>
                                 <div class="col-sm-9">
                                     <h3>Mr. Zhen LI</h3>
@@ -142,7 +142,7 @@
                         <div class="col-xs-12">
                             <div class="row vertical-center">
                                 <div class="col-sm-3">
-                                    <img class="img-responsive img-rounded" src="../img/mqq.jpg">
+                                    <img class="img-responsive img-rounded" src="../img/members/mqq.jpg">
                                 </div>
                                 <div class="col-sm-9">
                                     <h3>Dr. Qiangqiang Meng</h3>
@@ -176,7 +176,7 @@
                         <div class="col-xs-12">
                             <div class="row vertical-center">
                                 <div class="col-sm-3">
-                                    <img class="img-responsive img-rounded" src="../img/jhb.jpg">
+                                    <img class="img-responsive img-rounded" src="../img/members/jhb.jpg">
                                 </div>
                                 <div class="col-sm-9">
                                     <h3>Mr. Huanbo JIANG</h3>
@@ -193,7 +193,7 @@
                         <div class="col-xs-12">
                             <div class="row vertical-center">
                                 <div class="col-sm-3">
-                                    <img class="img-responsive img-rounded" src="../img/youhan.jpg">
+                                    <img class="img-responsive img-rounded" src="../img/members/youhan.jpg">
                                 </div>
                                 <div class="col-sm-9">
                                     <h3>Mr. John YOU</h3>
@@ -215,7 +215,7 @@
 						<div class="col-sm-12">
 							<div class="row vertical-center">
 								<div class="col-sm-3">
-									<img class="img-responsive img-rounded" src="../img/kevin.jpg">
+									<img class="img-responsive img-rounded" src="../img/members/kevin.jpg">
 								</div>
 								<div class="col-sm-9">
 									<h3>Dr. Chun CHAN</h3>
@@ -234,7 +234,7 @@
 						<div class="col-xs-12">
                             <div class="row vertical-center">
                                 <div class="col-sm-3">
-                                    <img class="img-responsive img-rounded" src="../img/hung.jpg">
+                                    <img class="img-responsive img-rounded" src="../img/members/hung.jpg">
                                 </div>
                                 <div class="col-sm-9">
                                     <h3>Mr. Xinhong LIU</h3>
@@ -254,7 +254,7 @@
 						<div class="col-xs-12">
                             <div class="row vertical-center">
                                 <div class="col-sm-3">
-                                    <img class="img-responsive img-rounded" src="../img/xzy.jpg">
+                                    <img class="img-responsive img-rounded" src="../img/members/xzy.jpg">
                                 </div>
                                 <div class="col-sm-9">
                                     <h3>Mr. Zhiyao XIE</h3>
@@ -271,7 +271,7 @@
                         <div class="col-xs-12">
 							<div class="row vertical-center">
 								<div class="col-sm-3">
-									<img class="img-responsive img-rounded" src="../img/lyf.jpg">
+									<img class="img-responsive img-rounded" src="../img/members/lyf.jpg">
 								</div>
 								<div class="col-sm-9">
 									<h3>Dr. Yufeng LU</h3>

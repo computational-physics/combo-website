@@ -79,7 +79,10 @@
 							</h4>
 						</div>
 					</div>
-					
+					<div class="col-sm-12" style="text-align: center;">
+						<img class="img-responsive seperator" src="../img/others/seperator1.png" />
+					</div>
+	
 	
 					<!-- MP Office -->
 					<div class="row vertical-center">
@@ -94,6 +97,11 @@
 							<img class="img-thumbnail" src="../img/gallery/2018MPoffice.jpg">
 						</div>	
 					</div>
+					<div class="col-sm-12" style="text-align: center;">
+						<img class="img-responsive seperator" src="../img/others/seperator1.png" />
+					</div>
+					
+					
 					
 					
 					

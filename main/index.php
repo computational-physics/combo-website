@@ -25,7 +25,7 @@
 		<!-- /header -->
 
 		<!-- seperator -->
-			<img class="img-responsive seperator" src="img/seperator2.png">
+			<img class="img-responsive seperator" src="img/others/seperator2.png">
 		<!-- /seperator -->
 
 		<!-- slider -->
@@ -40,8 +40,8 @@
                 <li data-target="#carousel-slider" data-slide-to="5"></li>
                 <li data-target="#carousel-slider" data-slide-to="6"></li>
                 <li data-target="#carousel-slider" data-slide-to="7"></li>
-				<li data-target="#carousel-slider" data-slide-to="8"></li>
-                <li data-target="#carousel-slider" data-slide-to="9"></li>
+				<!--<li data-target="#carousel-slider" data-slide-to="8"></li>-->
+                <!--<li data-target="#carousel-slider" data-slide-to="9"></li>-->
                 <!--<li data-target="#carousel-slider" data-slide-to="10"></li>-->
 			</ol>
 
@@ -71,12 +71,12 @@
                 <div class="item">
                     <img src="img/slides/slide-cityu-info-day.jpg">
                 </div>
-                <div class="item">
+                <!--<div class="item">
                     <img src="img/slider2.jpg">
-                </div>
-                <div class="item">
+                </div>-->
+                <!--<div class="item">
                     <img src="img/slider1.jpg">
-                </div>
+                </div>-->
                 <!--<div class="item">
                     <img src="img/slider3.jpg">
                 </div>-->
@@ -102,7 +102,7 @@
 
 		<div class="row">
 			<div class="col-sm-12" style="text-align: center;">
-				<img class="img-responsive seperator" src="img/seperator1.png" />
+				<img class="img-responsive seperator" src="img/others/seperator1.png" />
 			</div>
 		</div>
 		
