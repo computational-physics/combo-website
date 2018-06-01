@@ -65,32 +65,36 @@
 					<a name="barph"></a>
 
 					<!-- CBSB 2018 -->
-					<div class="col-sm-6">
-						<img class="img-thumbnail" src="../img/gallery/2018CBSB.jpg">
-					</div>
-					<div class="col-sm-6">
-						<h4 class="text-primary">
-						<br />
-						<br />
-						The <strong>CBSB2018</strong> workshop was held on May 20-23 in Shenzhen. 
-						<br />Dr. Fan gave an invited talk.
-						<br />Yonghui Zhang gave an oral presentation, and Zhen Li presented a poster.
-						</h4>
+					<div class="row vertical-center">
+						<div class="col-sm-6">
+							<img class="img-thumbnail" src="../img/gallery/2018CBSB.jpg">
+						</div>
+						<div class="col-sm-6">
+							<h4 class="text-primary">
+							<br />
+							<br />
+							The <strong>CBSB2018</strong> workshop was held on May 20-23 in Shenzhen. 
+							<br />Dr. Fan gave an invited talk.
+							<br />Yonghui Zhang gave an oral presentation, and Zhen Li presented a poster.
+							</h4>
+						</div>
 					</div>
 					
 	
 					<!-- MP Office -->
-
-					<div class="col-sm-6">
-						<h4 class="text-primary">
-						<br />
-						<br />
-						<br />New office in Montery Plaza
-						</h4>
+					<div class="row vertical-center">
+						<div class="col-sm-6">
+							<h4 class="text-primary">
+							<br />
+							<br />
+							<br />New office in Montery Plaza
+							</h4>
+						</div>
+						<div class="col-sm-6">
+							<img class="img-thumbnail" src="../img/gallery/2018MPoffice.jpg">
+						</div>	
 					</div>
-					<div class="col-sm-6">
-						<img class="img-thumbnail" src="../img/gallery/2018MPoffice.jpg">
-					</div>	
+					
 					
 					
 					
@@ -105,9 +109,6 @@
 					
 					
 				</div>
-
-
-
 			</div>
 		</div>
 	</div>
