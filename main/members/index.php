@@ -88,7 +88,7 @@
 										<li>2009-2013, BEng, Dalian University of Technology, China</li>
 									</ul>
 									<ul>
-										<li>Office: P6915, AC1</li>
+										<li>Office: Office F, 22/F, Montery Plaza</li>
 										<li>Email: <a href="mailto:jialema2-c@my.cityu.edu.hk">jialema2-c@my.cityu.edu.hk</a></li>
 									</ul>
 								</div>
@@ -108,7 +108,7 @@
 										<li>2008-2012, BSc, South China University of Technology, Guangdong, China</li>
 									</ul>
 									<ul>
-										<li>Office: P6915, AC1</li>
+										<li>Office: Office F, 22/F, Montery Plaza</li>
 										<li>Email: <a href="mailto:yhzhang23-c@my.cityu.edu.hk">yhzhang23-c@my.cityu.edu.hk</a></li>
 									</ul>
 								</div>
@@ -127,7 +127,7 @@
                                         <li>2008-2012, BSc, China University of Petroleum (East China)</li>
                                     </ul>
                                     <ul>
-                                        <li>Office: P6915, AC1</li>
+                                        <li>Office: Office F, 22/F, Montery Plaza</li>
                                         <li>Email: <a href="mailto:zli246-c@my.cityu.edu.hk">zli246-c@my.cityu.edu.hk</a></li>
                                     </ul>
                                 </div>
@@ -153,7 +153,7 @@
                                         <li>2004-2008, B.S. in Chemistry, Anqing Normal University</li>
                                     </ul>
                                     <ul>
-                                        <li>Office: P6915, AC1</li>
+                                        <li>Office: Office F, 22/F, Montery Plaza</li>
                                         <li>Email: <a href="mailto:qianmeng@cityu.edu.hk">qianmeng@cityu.edu.hk</a></li>
                                     </ul>
                                 </div>
@@ -225,7 +225,7 @@
 										<li>2009-2013, BSc, City University of Hong Kong</li>
 									</ul><!--
 									<ul>
-										<li>Office: P6915, AC1</li>
+										<li>Office: Office F, 22/F, Montery Plaza</li>
 										<li>Email: <a href="mailto:cchan2242-c@my.cityu.edu.hk">cchan2242-c@my.cityu.edu.hk</a></li>
 									</ul>-->
 								</div>
@@ -245,7 +245,7 @@
                                     </ul>
                                     <ul>
                                         <li>Website: <a href="https://xinhong.me">xinhong.me</a></li>
-                                        <!--<li>Office: P6915, AC1</li>
+                                        <!--<li>Office: Office F, 22/F, Montery Plaza</li>
                                         <li>Email: <a href="mailto:i@xinhong.me">i@xinhong.me</a></li>-->
                                     </ul>
                                 </div>
@@ -281,7 +281,7 @@
 										<li>2007-2014, BSc & MSc, Beijing Normal University, Beijing, China</li>
 									</ul>
 									<!--<ul>
-										<li>Office: P6915, AC1</li>
+										<li>Office: Office F, 22/F, Montery Plaza</li>
 										<li>Email: <a href="mailto:yufenglu3-c@my.cityu.edu.hk">yufenglu3-c@my.cityu.edu.hk</a></li>
 									</ul>-->
 								</div>
