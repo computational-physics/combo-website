@@ -128,7 +128,7 @@
                                     </ul>
                                     <ul>
                                         <li>Office: Office F, 22/F, Montery Plaza</li>
-                                        <li>Email: <a href="mailto:zli246-c@my.cityu.edu.hk">zli246-c@my.cityu.edu.hk</a></li>
+                                        <li>Email: <a href="mailto:lizhenew@gmail.com">lizhenew@gmail.com</a></li>
                                     </ul>
                                 </div>
                             </div>
