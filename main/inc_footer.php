@@ -3,7 +3,7 @@ define("ROOTPATH", "/main");
 ?>
     <div class="footer container">
         <div class="row">
-            <div class="col-xs-12 vertical-center">
+            <div class="col-xs-12 text-center">
                 <a href="//www6.cityu.edu.hk/mse">Department of Materials Science and Engineering</a>
                 | <a href="//www.cityu.edu.hk/">City University of Hong Kong</a>
                 | <a>Kowloon, Hong Kong SAR</a>
