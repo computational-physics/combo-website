@@ -41,7 +41,7 @@
 							<br>
 							
 							<li>Y.F. Ye, Y.H. Zhang, Q.F. He, Y. Zhuang, S. Wang, S.Q. Shi, A. Hu, J. Fan, Y. Yang, Atomic-scale Distorted Lattice in Chemically Disordered Equimolar Complex Alloys, <a href="https://www.sciencedirect.com/science/article/pii/S1359645418301873">Acta Materialia, 150: 182-194 (2018) </a></li>
-								<img class="img-responsive center-block" src="../img/paperlist/2018ActaMat1.jpg">
+								<img class="width:350px center-block" src="../img/paperlist/2018ActaMat1.jpg">
 							<br>
 							
                             <li>Zhen Li, Yonghui Zhang, Chun Chan, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, Temperature-Dependent Lipid Extraction from Membranes by Boron Nitride Nanosheets, <a href="https://pubs.acs.org/doi/10.1021/acsnano.7b09095">ACS Nano, 12: 2764-2772 (2018) </a></li>
