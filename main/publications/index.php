@@ -37,7 +37,7 @@
 							<br>
 							
 							<li>Qiangqiang Meng, Jia Le Ma, Yonghui Zhang, Zhen Li, Alice Hu, Ji-Jung Kai, and Jun Fan*, Theoretical Investigation of Zirconium Carbide Mxenes as Prospective High Capacity Anode Materials for Na-ion Batteries, <a href="http://pubs.rsc.org/en/content/articlepdf/2014/TA/C8TA04417A?page=search">J. Mater. Chem. A, DOI: 10.1039/C8TA04417A (2018) </a>This article is part of the themed collection: <a href="http://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=ta&themeid=f7d0c2cb-4131-4611-8a14-f0c78308057d">2018 JMCA HOT Papers</a></li>
-								<img class="img-responsive center-block" src="../img/paperlist/2018JMCA1.jpg">
+								<img class="center-block" src="../img/paperlist/2018JMCA1.jpg">
 							<br>
 							
 							<li>Y.F. Ye, Y.H. Zhang, Q.F. He, Y. Zhuang, S. Wang, S.Q. Shi, A. Hu, J. Fan, Y. Yang, Atomic-scale Distorted Lattice in Chemically Disordered Equimolar Complex Alloys, <a href="https://www.sciencedirect.com/science/article/pii/S1359645418301873">Acta Materialia, 150: 182-194 (2018) </a></li>
