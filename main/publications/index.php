@@ -40,7 +40,7 @@
 								<style>.img60{width:60%}</style> <img class="img60 center-block" src="../img/paperlist/2018Nanoscale2.jpg">
 							<br>							
 							
-							<li>Qiangqiang Meng, Jia Le Ma, Yonghui Zhang, Zhen Li, Alice Hu, Ji-Jung Kai, and Jun Fan*, Theoretical Investigation of Zirconium Carbide Mxenes as Prospective High Capacity Anode Materials for Na-ion Batteries, <a href="http://pubs.rsc.org/en/Content/ArticleLanding/2018/TA/C8TA04417A#!divAbstract">J. Mater. Chem. A, DOI: 10.1039/C8TA04417A (2018) </a>This article is part of the themed collection: <a href="http://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=ta&themeid=f7d0c2cb-4131-4611-8a14-f0c78308057d">2018 JMCA HOT Papers</a></li>
+							<li>Qiangqiang Meng, Jia Le Ma, Yonghui Zhang, Zhen Li, Alice Hu, Ji-Jung Kai, and Jun Fan*, <u><a href="http://pubs.rsc.org/en/Content/ArticleLanding/2018/TA/C8TA04417A#!divAbstract">Theoretical Investigation of Zirconium Carbide Mxenes as Prospective High Capacity Anode Materials for Na-ion Batteries</a></u>, <b><i>J. Mater. Chem. A</i></b>, DOI: 10.1039/C8TA04417A (2018) This article is part of the themed collection: <a href="http://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=ta&themeid=f7d0c2cb-4131-4611-8a14-f0c78308057d">2018 JMCA HOT Papers</a></li>
 								<style>.img50{width:50%}</style> <img class="img50 center-block" src="../img/paperlist/2018JMCA1.jpg">
 							<br>
 							
