@@ -37,11 +37,11 @@
 							<br>
 							
 							<li>Yonghui Zhang, Chun Chan, Zhen Li, Jia Le Ma, Qiangqiang Meng, Xiaolin Cheng, and Jun Fan*, Lipid Extraction by Boron Nitride Nanosheets from Liquid-ordered and Liquid-disordered Nanodomains, Nanoscale, Accepted (2018)</li>
-								<style>.img1{width:60%}</style> <img class="img1 center-block" src="../img/paperlist/2018Nanoscale2.jpg">
+								<style>.img70{width:70%}</style> <img class="img70 center-block" src="../img/paperlist/2018Nanoscale2.jpg">
 							<br>							
 							
 							<li>Qiangqiang Meng, Jia Le Ma, Yonghui Zhang, Zhen Li, Alice Hu, Ji-Jung Kai, and Jun Fan*, Theoretical Investigation of Zirconium Carbide Mxenes as Prospective High Capacity Anode Materials for Na-ion Batteries, <a href="http://pubs.rsc.org/en/Content/ArticleLanding/2018/TA/C8TA04417A#!divAbstract">J. Mater. Chem. A, DOI: 10.1039/C8TA04417A (2018) </a>This article is part of the themed collection: <a href="http://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=ta&themeid=f7d0c2cb-4131-4611-8a14-f0c78308057d">2018 JMCA HOT Papers</a></li>
-								<style>.img1{width:50%}</style> <img class="img1 center-block" src="../img/paperlist/2018JMCA1.jpg">
+								<style>.img50{width:50%}</style> <img class="img50 center-block" src="../img/paperlist/2018JMCA1.jpg">
 							<br>
 							
 							<li>Y.F. Ye, Y.H. Zhang, Q.F. He, Y. Zhuang, S. Wang, S.Q. Shi, A. Hu, J. Fan, Y. Yang, Atomic-scale Distorted Lattice in Chemically Disordered Equimolar Complex Alloys, <a href="https://www.sciencedirect.com/science/article/pii/S1359645418301873">Acta Materialia, 150: 182-194 (2018) </a></li>
