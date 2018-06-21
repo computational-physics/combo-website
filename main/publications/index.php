@@ -36,7 +36,7 @@
                             <li>Huanbo Jiang, Zhiyao Xie, Zhen Li, V. K. Sharma, Jun Fan*, and Xiaolin Cheng, Microscopic Insights into Melittin Induced Changes in Molecular Dynamics of Lipid Bilayer Membranes: Role of Physical State and Composition of the Bilayers, in revision</li>
 							<br>
 							
-							<li>Yonghui Zhang, Chun Chan, Zhen Li, Jia Le Ma, Qiangqiang Meng, Xiaolin Cheng, and Jun Fan*, Lipid Extraction by Boron Nitride Nanosheets from Liquid-ordered and Liquid-disordered Nanodomains, Nanoscale, Accepted (2018)</li>
+							<li>Yonghui Zhang, Chun Chan, Zhen Li, Jia Le Ma, Qiangqiang Meng, Xiaolin Cheng, and Jun Fan*, <p class="strong">Lipid Extraction by Boron Nitride Nanosheets from Liquid-ordered and Liquid-disordered Nanodomains</p>, Nanoscale, Accepted (2018)</li>
 								<style>.img60{width:60%}</style> <img class="img60 center-block" src="../img/paperlist/2018Nanoscale2.jpg">
 							<br>							
 							
