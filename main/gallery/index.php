@@ -91,7 +91,7 @@
 					<!-- MP Office -->
 					<div class="row vertical-center">
 						<div class="col-sm-6">
-							<h4 class="text-primary">
+							<h4 class="text-primary text-justify">
 							<br />
 							<br />
 							<br />New office in Montery Plaza
