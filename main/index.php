@@ -37,8 +37,8 @@
                 <li data-target="#carousel-slider" data-slide-to="2"></li>
                 <li data-target="#carousel-slider" data-slide-to="3"></li>
                 <li data-target="#carousel-slider" data-slide-to="4"></li>
-                <li data-target="#carousel-slider" data-slide-to="5"></li>
-                <!--<li data-target="#carousel-slider" data-slide-to="6"></li>
+                <!--<li data-target="#carousel-slider" data-slide-to="5"></li>
+                <li data-target="#carousel-slider" data-slide-to="6"></li>
 				<li data-target="#carousel-slider" data-slide-to="7"></li>
 				<li data-target="#carousel-slider" data-slide-to="8"></li>
                 <li data-target="#carousel-slider" data-slide-to="9"></li>
@@ -50,12 +50,21 @@
                 <div class="item active">
                     <img src="img/slides/slide-2018-1.jpg">
                 </div>
+                <div class="item active">
+                    <img src="img/slides/slide-lipid-ordering.jpg">
+                </div>
                 <div class="item">
                     <img src="img/slides/slide-2018-2.jpg">
                 </div>
+				<div class="item active">
+                    <img src="img/slides/slide-protein-memb.jpg">
+                </div>
+				<div class="item active">
+                    <img src="img/slides/slide-MXene.jpg">
+                </div>
                 <!--<div class="item">
                     <img src="img/slides/slide-michael-greenwood.jpg">
-                </div>-->
+                </div>
                 <div class="item">
                     <img src="img/slides/slide-cityu-30.jpg">
                 </div>
@@ -68,7 +77,7 @@
                 <div class="item">
                     <img src="img/slides/slide-jinhui-xinhong-won-ee.jpg">
                 </div>
-                <!--<div class="item">
+                <div class="item">
                     <img src="img/slides/slide-cityu-info-day.jpg">
                 </div>
                 <div class="item">
