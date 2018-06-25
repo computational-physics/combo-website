@@ -106,6 +106,7 @@
 			</div>
 		</div>
 		
+		<!--
 		<div class="row">
 			<div class="col-xs-12">
                 <legend class="section-heading"> <a href="research/" style="color: black">Research Interests</a></legend>
@@ -170,9 +171,10 @@
 				<li><a target="_blank" href="http://www.ap.cityu.edu.hk/personal-website/wang-feng/home.html">Feng Wang</a> (City University of Hong Kong, HK)</li>
 				<!--<li><a target="_blank" href="https://vothgroup.uchicago.edu">Gregory Voth</a> (University of Chicago, US)</li>
 				<li><a target="_blank" href="http://www.rsdavis.mycpanel.princeton.edu/haatajagroup">Mikko Haataja</a> (Princeton University, US)</li>
-				<li><a target="_blank" href="http://www.physics.mcgill.ca/~provatas/.index.html">Nikolas Provatas</a> (McGill University, Canada)</li>-->
+				<li><a target="_blank" href="http://www.physics.mcgill.ca/~provatas/.index.html">Nikolas Provatas</a> (McGill University, Canada)</li>--
 			</div>
 		</div>
+		-->
 	</div>
 
 	<?php require('./inc_footer.php') ?>
