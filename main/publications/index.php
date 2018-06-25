@@ -28,6 +28,7 @@
 					<!--
                     </div>//combine two division to avoid a bug
 					<div class="col-sm-12">--> 
+						<div style="text-align: justify">
                         <br>
                         <ol id="publication-list" reversed>
                             <li>Yonghui Zhang, Chunyi Zhi, and Jun Fan*, Lipid Adsorption Induced by Boron Nitride Nanosheet in mimic gram-negative bacterial and mammalian bilayer systems, submitted</li>
@@ -176,7 +177,8 @@
 							<br>
 							
         					<li>Jun Fan, Michael Greenwood, Mikko Haataja and Nikolas Provatas, <u><a href="http://pre.aps.org/abstract/PRE/v74/i3/e031602">Phase-field simulations of velocity selection in rapidly solidified binary alloys</a></u>, <b><i>Phys. Rev. E.</i></b>, 74: 031602 (2006) </li>
-    					</ol>
+    					</div>
+						</ol>
 					</div>
 				</div>
 			</div>
