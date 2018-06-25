@@ -98,11 +98,11 @@
 						<legend> Protein-Lipid Interactions </legend>
 					</div>
 					<div class="col-sm-12">
-						<p style="text-align: justify">
+						<p style="text-align: justify"><b>
 							Peripheral membrane proteins and transmembrane proteins could influence the physical state and functions of lipids, and vice versa.
 							We aim to explore the relationship or coupling between proteins and lipids, including the membrane remodeling by BAR (Bin-Amphiphysin-Rvs) family proteins, 
 							the reversible gating of protein channels stimulated by the lateral pressure of lipid membranes, etc.
-						</p>
+						</b></p>
 						<p style="text-align: justify">
 							The BAR (Bin-Amphiphysin-Rvs) domain undergoes dimerization to produce a curved protein structure, 
 							which superimposes onto membrane through electrostatic interactions to sense and impart membrane curvature. 
@@ -114,9 +114,10 @@
 							The BAR domain adjacent to the PH domain instead interacts with the BAR domains of neighboring ACAP1 proteins to enable clustering at the membrane. 
 							Thus, we have uncovered the molecular basis for an unexpected and unconventional collaboration between PH and BAR domains in membrane bending.
 						</p>
-						
-						<img class="img-responsive" src="../img/research/MembProtein.jpg" />
 
+						<img class="img-responsive" src="../img/research/MembProtein.jpg" />
+						
+						<legend class="section-heading"> References </legend>
 						<ul>
                         	<li>Chun Chan, Lanyuan Lu, Fei Sun, Jun Fan*, <u><a href="http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b09563">Molecular Details of the PH Domain of ACAP1 BAR-PH Protein Binding to PIP-Containing Membrane</a></u>, <b><i>J. Phys. Chem. B</i></b>, 121: 3586-3596 (2017)</li>						
                             <li>Chun Chan, Haohua Wen, Lanyuan Lu, and Jun Fan*, <u><a href="http://cpb.iphy.ac.cn/EN/abstract/abstract66287.shtml">Multiscale molecular dynamics simulations membrane remodeling by BAR family proteins</a></u>, <b><i>Chinese Physics B</i></b>, 25: 018707 (2016), invited review</li>						
