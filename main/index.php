@@ -50,16 +50,16 @@
                 <div class="item active">
                     <img src="img/slides/slide-2018-1.jpg">
                 </div>
-                <div class="item active">
+                <div class="item">
                     <img src="img/slides/slide-lipid-ordering.jpg">
                 </div>
                 <div class="item">
                     <img src="img/slides/slide-2018-2.jpg">
                 </div>
-				<div class="item active">
+				<div class="item">
                     <img src="img/slides/slide-protein-memb.jpg">
                 </div>
-				<div class="item active">
+				<div class="item">
                     <img src="img/slides/slide-MXene.jpg">
                 </div>
                 <!--<div class="item">
