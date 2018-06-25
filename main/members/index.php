@@ -33,7 +33,7 @@
 		<div class="row">
 			<?php require('../inc_sidebar.php') ?>
 			<div class="col-md-9">
-				<div class="row">
+				<div class="row" style="text-align: justify">
 					<section>
 						<div class="col-xs-12">
 							<h2>Principal Investigator</h2>
@@ -43,7 +43,7 @@
 								<div class="col-sm-3">
 									<img class="img-responsive img-rounded" src="../img/members/junfan.jpg">
 								</div>
-								<div class="col-sm-9">
+								<div class="col-sm-9" >
 									<h3>Dr. Jun Fan</h3>
 									<h6>Ph.D (<a href="https://www.princeton.edu">Princeton</a>)</h6>
 									<p>
