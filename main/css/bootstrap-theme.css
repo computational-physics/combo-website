@@ -33,7 +33,7 @@ body {
 .navbar {
   z-index: 10000;
   position: relative;
-  margin-top: -50px;
+  margin-top: -20px;
 }
 .navbar-inverse {
   border-bottom: none;
