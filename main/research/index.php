@@ -196,7 +196,7 @@
 						
 						<img class="img-responsive" src="../img/research/Materials.jpg" />
 
-						<h3> References </h3>
+						<h4><b> References </b></h4>
 						<ul>
                             <li>Jia Le Ma, Qiangqiang Meng, and Jun Fan*, <u><a href="http://pubs.rsc.org/en/content/articlelanding/2018/cp/c7cp08075a#!divAbstract">Charge Driven Lateral Structural Evolution of Ions in Electric Double Layer Capacitor Strongly Correlates with Differential Capacitance</a></u>, <b><i>Phys. Chem. Chem. Phys.</i></b>, 20: 9054-8063 (2018) </li>
 							<li>Qiangqiang Meng, Jia Le Ma, Yonghui Zhang, Zhen Li, Alice Hu, Ji-Jung Kai, and Jun Fan*, <u><a href="http://pubs.rsc.org/en/Content/ArticleLanding/2018/TA/C8TA04417A#!divAbstract">Theoretical Investigation of Zirconium Carbide Mxenes as Prospective High Capacity Anode Materials for Na-ion Batteries</a></u>, <b><i>J. Mater. Chem. A</i></b>, DOI: 10.1039/C8TA04417A (2018) This article is part of the themed collection: <a href="http://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=ta&themeid=f7d0c2cb-4131-4611-8a14-f0c78308057d">2018 JMCA HOT Papers</a></li>
