@@ -69,7 +69,7 @@
 						<ol>
 							<li><a href="#MembProtein"><big>Protein-Lipid Interactions</big></a></li>
 							<li><a href="#BioNano"><big>Bio-Nano Interactions</big></a></li>
-							<li><a href="#Materials"><big>Physics in Energy Materials and Interfaces</big></a></li>
+							<li><a href="#Materials"><big>Physics in Energy-Storage Materials and Interfaces</big></a></li>
 							
 							<!-- 
 							<li><a href="#barph"><big>BAR Domain in Promoting Membrane Curvature</big></a></li>
@@ -135,11 +135,11 @@
 				
 				
 				<!-- ===== -->
-				<!-- BioNano -->
+				<!-- Materials -->
 				<!-- ===== -->
 
 				<div class="row">
-					<a name="BioNano"></a>
+					<a name="Materials"></a>
 					<div class="col-xs-12">
 						<legend> Bio-Nano Interactions </legend>
 					</div>
@@ -181,40 +181,28 @@
 				<div class="row">
 					<a name="Materials"></a>
 					<div class="col-xs-12">
-						<legend> Physics in Energy Materials and Interfaces </legend>
+						<legend> Physics in Energy-Storage Materials and Interfaces </legend>
 					</div>
 					<div class="col-sm-12">
-						<!--
 						<p style="text-align: justify"><b>
-							Peripheral membrane proteins and transmembrane proteins could influence the physical state and functions of lipids, and vice versa.
-							We aim to explore the relationship or coupling between proteins and lipids, including the membrane remodeling by BAR (Bin-Amphiphysin-Rvs) family proteins, 
-							the reversible gating of protein channels stimulated by the lateral pressure of lipid membranes, etc.
+							Combining DFT calculations and MD simulations, we explore physics in energy-storage materials such as Li-ion batteries, Na-ion betteries, and supercapacitors.
+							With DFT calculations, we evaluate the energy-storage properties of nanomaterials (especially 2D materials), and predict novel electrode materials.
+							MD simulations are implemented to explore the structural characteristics and physical behaviors of ions and electrolytes on the interface between electrodes and electrolytes.
 						</b></p>
 						<p style="text-align: justify">
-							The BAR (Bin-Amphiphysin-Rvs) domain undergoes dimerization to produce a curved protein structure, 
-							which superimposes onto membrane through electrostatic interactions to sense and impart membrane curvature. 
-							In some cases, a BAR domain also possesses an amphipathic helix that inserts into the membrane to induce 
-							curvature. ACAP1 (Arfgap with Coil coil, Ankyrin repeat, and PH domain protein 1) contains a BAR domain. 
-							Here, we show that this BAR domain can neither bind membrane nor impart curvature, 
-							but instead requires a neighboring PH (Pleckstrin Homology) domain to achieve these functions. 
-							Specific residues within the PH domain are responsible for both membrane binding and curvature generation. 
-							The BAR domain adjacent to the PH domain instead interacts with the BAR domains of neighboring ACAP1 proteins to enable clustering at the membrane. 
-							Thus, we have uncovered the molecular basis for an unexpected and unconventional collaboration between PH and BAR domains in membrane bending.
+							We have studied the storage of Na-ion on MXene-family electrodes, and concluded that large charge transfer and small lattice mismatch are beneficial to the storage of Na-ions.
+							We investigated the structure of ionic liquid electrolytes in electric double layers of supercapacitors, and clarified the charge-driven ordering transition and the role of electrolyte structures.
 						</p>
 						
-						<img class="img-responsive" src="../img/research/MembProtein.jpg" />
+						<img class="img-responsive" src="../img/research/Materials.jpg" />
 
+						<h3> References </h3>
 						<ul>
-                        	<li>Chun Chan, Lanyuan Lu, Fei Sun, Jun Fan*, <u><a href="http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b09563">Molecular Details of the PH Domain of ACAP1 BAR-PH Protein Binding to PIP-Containing Membrane</a></u>, <b><i>J. Phys. Chem. B</i></b>, 121: 3586-3596 (2017)</li>						
-                            <li>Chun Chan, Haohua Wen, Lanyuan Lu, and Jun Fan*, <u><a href="http://cpb.iphy.ac.cn/EN/abstract/abstract66287.shtml">Multiscale molecular dynamics simulations membrane remodeling by BAR family proteins</a></u>, <b><i>Chinese Physics B</i></b>, 25: 018707 (2016), invited review</li>						
-        					<li>Xiaoyun Pang, Jun Fan, Yan Zhang, Kai Zhang, Bingquan Gao, Jun Ma, Jian Li, Yuchen Deng, Qiangjun Zhou, Edward H. Egelman, Victor W. Hsu, Fei Sun. <u><a href="http://www.sciencedirect.com/science/article/pii/S1534580714005504">A PH Domain in ACAP1 Possesses Key Features of the BAR Domain in Promoting Membrane Curvature</a></u>, <b><i>Dev. Cell</i></b>, 31: 73-86 (2014)
-                                <i>Highlighted in <a href="http://www.sciencedirect.com/science/article/pii/S1534580714006224">A Novel Twist in Membrane dePHormation</a></i>
-                            </li>
+                            <li>Jia Le Ma, Qiangqiang Meng, and Jun Fan*, <u><a href="http://pubs.rsc.org/en/content/articlelanding/2018/cp/c7cp08075a#!divAbstract">Charge Driven Lateral Structural Evolution of Ions in Electric Double Layer Capacitor Strongly Correlates with Differential Capacitance</a></u>, <b><i>Phys. Chem. Chem. Phys.</i></b>, 20: 9054-8063 (2018) </li>
+							<li>Qiangqiang Meng, Jia Le Ma, Yonghui Zhang, Zhen Li, Alice Hu, Ji-Jung Kai, and Jun Fan*, <u><a href="http://pubs.rsc.org/en/Content/ArticleLanding/2018/TA/C8TA04417A#!divAbstract">Theoretical Investigation of Zirconium Carbide Mxenes as Prospective High Capacity Anode Materials for Na-ion Batteries</a></u>, <b><i>J. Mater. Chem. A</i></b>, DOI: 10.1039/C8TA04417A (2018) This article is part of the themed collection: <a href="http://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=ta&themeid=f7d0c2cb-4131-4611-8a14-f0c78308057d">2018 JMCA HOT Papers</a></li>
+                            <li>Qiangqiang Meng, Jiale Ma, Alice Hu, Chunyi Zhi, and Jun Fan*, <u><a href="http://pubs.rsc.org/en/content/articlelanding/2018/nr/c7nr07649e">The S-functionalized Ti3C2 Mxene as a High Capacity Electrode Material for Na-ion Batteries: A DFT Study</a></u>, <b><i>Nanoscale</i></b>, 10: 3385-3392 (2018)</li>
+                            <li>Qiangqiang Meng, Alice Hu, Chunyi Zhi, and Jun Fan*, <u><a href="http://pubs.rsc.org/en/content/articlehtml/2017/CP/C7CP06171D">Theoretical prediction of MXene-like structure Ti3C4 as a high capacity electrode material for Na ion batteries</a></u>, <b><i>Phys. Chem. Chem. Phys.</i></b>, 19: 29106-29113 (2017), This article is part of the themed collection: <a href="http://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cp&themeid=6f8bc19b-215a-4535-b504-cc4450521837">2017 PCCP HOT Articles</a></li>						
 						</ul>
-						-->
-						<p style="text-align: justify">
-							coming soon ...
-						</p>
 						
 					</div>
 				</div>
