@@ -144,13 +144,13 @@
 						<legend> Bio-Nano Interactions </legend>
 					</div>
 					<div class="col-sm-12">
-						<p style="text-align: justify">
+						<p style="text-align: justify"><b>
 							As the rapid development of nanomaterials and their emerging biomedical and biological applications such as drug/gene delivery and nanosensing, 
 							the interaction between nanomaterials and biological entities plays an increasingly important role in nanoscience. In particular, bio-nano interactions could interfere functions of proteins, lipids, 
 							etc., and even damage the structural integrity of cells. Thus, the cytotoxicity of nanomaterials has caused serious concerns over the safety and sustainability of nanotechnology. 
 							On the other hand, the toxicity of nanomaterials can also be utilized in antibacterial and antifouling applications.
 							We perform MD simulations to study the interaction between nanoparticles/nanotubes/nanosheets and lipid membranes/proteins/DNA/organelles, providing insights into physics in bio-nano systems. 
-						</p>
+						</b></p>
 						<p style="text-align: justify">
 							We have studied the interaction between 2D nanomaterials (nanosheets) and lipid membranes recently. Hydrophobic nanosheets could extract lipids and then insert into lipid membranes, which is very important 
 							for the cytotoxicity of nanosheets. Interestingly, we found that the lipid extraction behavior depends on the phase state of lipids that can be changed by temperature, lipid components, etc. In addition, 
@@ -158,7 +158,8 @@
 						</p>
 						
 						<img class="img-responsive" src="../img/research/BioNano.jpg" />
-
+						
+						<legend class="section-heading"> References </legend>
 						<ul style="text-align: justify">
 							<li>Yonghui Zhang, Chun Chan, Zhen Li, Jia Le Ma, Qiangqiang Meng, Xiaolin Cheng, and Jun Fan*, <u>Lipid Extraction by Boron Nitride Nanosheets from Liquid-ordered and Liquid-disordered Nanodomains</u>, <b><i>Nanoscale</i></b>, Accepted (2018)</li>
                             <li>Zhen Li, Yonghui Zhang, Chun Chan, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, <u><a href="https://pubs.acs.org/doi/10.1021/acsnano.7b09095">Temperature-Dependent Lipid Extraction from Membranes by Boron Nitride Nanosheets</a></u>, <b><i>ACS Nano</i></b>, 12: 2764-2772 (2018) </li>
@@ -184,11 +185,11 @@
 					</div>
 					<div class="col-sm-12">
 						<!--
-						<p style="text-align: justify">
+						<p style="text-align: justify"><b>
 							Peripheral membrane proteins and transmembrane proteins could influence the physical state and functions of lipids, and vice versa.
 							We aim to explore the relationship or coupling between proteins and lipids, including the membrane remodeling by BAR (Bin-Amphiphysin-Rvs) family proteins, 
 							the reversible gating of protein channels stimulated by the lateral pressure of lipid membranes, etc.
-						</p>
+						</b></p>
 						<p style="text-align: justify">
 							The BAR (Bin-Amphiphysin-Rvs) domain undergoes dimerization to produce a curved protein structure, 
 							which superimposes onto membrane through electrostatic interactions to sense and impart membrane curvature. 
