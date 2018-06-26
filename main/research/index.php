@@ -60,7 +60,7 @@
 			<div class="col-md-9">
 				<div class="row">
 					<div class="col-xs-12">
-						<h2>Research Projects<hr></h2>
+						<br>
 						<p style="text-align: justify">
 							My long-term research goal is to explore molecular mechanisms of cellular systems and materials as well 
 							as to develop new computational tools in order to understand fundamental physical principles behind 
