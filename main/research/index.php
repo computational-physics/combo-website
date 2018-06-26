@@ -117,7 +117,7 @@
 
 						<img class="img-responsive" src="../img/research/MembProtein.jpg" />
 						
-						<legend class="section-heading"> References </legend>
+						<h4><b> References </b></h4>
 						<ul style="text-align: justify">
                         	<li>Chun Chan, Lanyuan Lu, Fei Sun, Jun Fan*, <u><a href="http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b09563">Molecular Details of the PH Domain of ACAP1 BAR-PH Protein Binding to PIP-Containing Membrane</a></u>, <b><i>J. Phys. Chem. B</i></b>, 121: 3586-3596 (2017)</li>						
                             <li>Chun Chan, Haohua Wen, Lanyuan Lu, and Jun Fan*, <u><a href="http://cpb.iphy.ac.cn/EN/abstract/abstract66287.shtml">Multiscale molecular dynamics simulations membrane remodeling by BAR family proteins</a></u>, <b><i>Chinese Physics B</i></b>, 25: 018707 (2016), invited review</li>						
@@ -159,7 +159,7 @@
 						
 						<img class="img-responsive" src="../img/research/BioNano.jpg" />
 						
-						<legend class="section-heading"> References </legend>
+						<h4><b> References </b></h4>
 						<ul style="text-align: justify">
 							<li>Yonghui Zhang, Chun Chan, Zhen Li, Jia Le Ma, Qiangqiang Meng, Xiaolin Cheng, and Jun Fan*, <u>Lipid Extraction by Boron Nitride Nanosheets from Liquid-ordered and Liquid-disordered Nanodomains</u>, <b><i>Nanoscale</i></b>, Accepted (2018)</li>
                             <li>Zhen Li, Yonghui Zhang, Chun Chan, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, <u><a href="https://pubs.acs.org/doi/10.1021/acsnano.7b09095">Temperature-Dependent Lipid Extraction from Membranes by Boron Nitride Nanosheets</a></u>, <b><i>ACS Nano</i></b>, 12: 2764-2772 (2018) </li>
@@ -196,7 +196,7 @@
 						
 						<img class="img-responsive" src="../img/research/Materials.jpg" />
 
-						<h5><b> References </b></h5>
+						<h4><b> References </b></h4>
 						<ul>
                             <li>Jia Le Ma, Qiangqiang Meng, and Jun Fan*, <u><a href="http://pubs.rsc.org/en/content/articlelanding/2018/cp/c7cp08075a#!divAbstract">Charge Driven Lateral Structural Evolution of Ions in Electric Double Layer Capacitor Strongly Correlates with Differential Capacitance</a></u>, <b><i>Phys. Chem. Chem. Phys.</i></b>, 20: 9054-8063 (2018) </li>
 							<li>Qiangqiang Meng, Jia Le Ma, Yonghui Zhang, Zhen Li, Alice Hu, Ji-Jung Kai, and Jun Fan*, <u><a href="http://pubs.rsc.org/en/Content/ArticleLanding/2018/TA/C8TA04417A#!divAbstract">Theoretical Investigation of Zirconium Carbide Mxenes as Prospective High Capacity Anode Materials for Na-ion Batteries</a></u>, <b><i>J. Mater. Chem. A</i></b>, DOI: 10.1039/C8TA04417A (2018) This article is part of the themed collection: <a href="http://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=ta&themeid=f7d0c2cb-4131-4611-8a14-f0c78308057d">2018 JMCA HOT Papers</a></li>
