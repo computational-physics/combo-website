@@ -61,11 +61,11 @@
 				<div class="row">
 					<div class="col-xs-12">
 						<br>
-						<p style="text-align: justify">
+						<p style="text-align: justify"><b>
 							My long-term research goal is to explore molecular mechanisms of cellular systems and materials as well 
 							as to develop new computational tools in order to understand fundamental physical principles behind 
 							biological and materials phenomena.
-						</p>
+						</b></p>
 						<ol>
 							<li><a href="#MembProtein"><big>Protein-Lipid Interactions</big></a></li>
 							<li><a href="#BioNano"><big>Bio-Nano Interactions</big></a></li>
