@@ -41,7 +41,7 @@
 							<br>
 							<br>
 							
-							<li>Yonghui Zhang, Chun Chan, Zhen Li, Jia Le Ma, Qiangqiang Meng, Xiaolin Cheng, and Jun Fan*, <u>Lipid Extraction by Boron Nitride Nanosheets from Liquid-ordered and Liquid-disordered Nanodomains</u>, <b><i>Nanoscale</i></b>, Accepted (2018)</li>
+							<li>Yonghui Zhang, Chun Chan, Zhen Li, Jia Le Ma, Qiangqiang Meng, Xiaolin Cheng, and Jun Fan*, <u><a href="http://pubs.rsc.org/en/content/articlehtml/2018/nr/c8nr02018c">Lipid Extraction by Boron Nitride Nanosheets from Liquid-ordered and Liquid-disordered Nanodomains</a></u>, <b><i>Nanoscale</i></b>, Accepted (2018)</li>
 							<br>
 							<style>.img60{width:60%}</style> <img class="img60 center-block" src="../img/paperlist/2018Nanoscale2.jpg">							
 							<br>
