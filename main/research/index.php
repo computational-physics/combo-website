@@ -135,11 +135,11 @@
 				
 				
 				<!-- ===== -->
-				<!-- Materials -->
+				<!-- BioNano -->
 				<!-- ===== -->
 
 				<div class="row">
-					<a name="Materials"></a>
+					<a name="BioNano"></a>
 					<div class="col-xs-12">
 						<legend> Bio-Nano Interactions </legend>
 					</div>
@@ -175,7 +175,7 @@
 				
 				
 				<!-- ===== -->
-				<!-- BioNano -->
+				<!-- Materials -->
 				<!-- ===== -->
 
 				<div class="row">
