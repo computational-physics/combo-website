@@ -81,6 +81,10 @@
 							<img class="img-responsive center-block" src="../img/paperlist/2018PCCP1.jpg">
 							<br>
 							
+							<li>Ning Ma, Cong Lin, Nian Wu, Qi Liu, Jia-Le Ma, Wei Meng, Xiao-Shuang Wang, Lu Zhang, Xiaohui Xu, Yifang Zhao, Lin Zhuang, Jun Fan, Junliang Sun, Ren-Xi Zhuo and Xian-Zheng Zhang. <u><a href="http://pubs.rsc.org/en/Content/ArticleLanding/2017/TA/C7TA08002F#!divAbstract">Stomata-like metal peptide coordination polymer</a></u>, <b><i>J. Mater. Chem. A</i></b>, 5: 23440-23445 (2017)</li>
+							<br>
+							<img class="img-responsive center-block" src="../img/paperlist/2017JMCA1.jpg">
+							<br>
 							
 							<li>Yanhua Zhao, Yang Wu, Liang Wang, Manman Zhang, Xuan Chen, Minjie Liu, Jun Fan, Junqiu Liu, Feng Zhou, Zuankai Wang. <u><a href="https://www.nature.com/articles/s41467-017-02387-2">Bio-inspired reversible underwater adhesive</a></u>, <b><i>Nat. Commun.</i></b>, 8: 2218 (2017). Selected by The Latest Science as the paper of the month (January 2018)</li>
 							<br>
