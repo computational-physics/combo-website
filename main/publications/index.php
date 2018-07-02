@@ -70,7 +70,7 @@
 							<br>
 							
 							
-                            <li>Qiangqiang Meng, Jiale Ma, Alice Hu, Chunyi Zhi, and Jun Fan*, <u><a href="http://pubs.rsc.org/en/content/articlelanding/2018/nr/c7nr07649e">The S-functionalized Ti3C2 Mxene as a High Capacity Electrode Material for Na-ion Batteries: A DFT Study</a></u>, <b><i>Nanoscale</i></b>, 10: 3385-3392 (2018)</li>
+                            <li>Qiangqiang Meng, Jiale Ma, Yonghui Zhang, Zhen Li, Chunyi Zhi, Alice Hu, and Jun Fan*, <u><a href="http://pubs.rsc.org/en/content/articlelanding/2018/nr/c7nr07649e">The S-functionalized Ti3C2 Mxene as a High Capacity Electrode Material for Na-ion Batteries: A DFT Study</a></u>, <b><i>Nanoscale</i></b>, 10: 3385-3392 (2018)</li>
 							<br>
 							<img class="img-responsive center-block" src="../img/paperlist/2018Nanoscale1.jpg">
 							<br>
