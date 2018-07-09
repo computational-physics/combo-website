@@ -147,6 +147,7 @@
                                 <div class="col-sm-9">
                                     <h3>Dr. Qiangqiang Meng</h3>
                                     <ul>
+										<li>2017-Present, Postdoctoral Fellows, City University of Hong Kong </li>
                                         <li>2015-Present, Lecturer, YanCheng Institute of Technology</li>
                                         <li>2011-2014, Ph.D. in Chemical Physics, University of Science and Technology of China</li>
                                         <li>2008-2011, M.S. in Industrial Catalysis, Zhejiang University of Technology</li>
