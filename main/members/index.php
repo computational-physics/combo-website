@@ -133,6 +133,45 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="col-xs-12">
+                            <div class="row vertical-center">
+                                <div class="col-sm-3">
+                                    <img class="img-responsive img-rounded" src="../img/members/lina.jpg">
+                                </div>
+                                <div class="col-sm-9">
+                                    <h3>Miss. Na LI</h3>
+                                    <ul>
+                                        <li>2018-Present, PhD Candidate, City University of Hong Kong</li>
+                                        <li>2014-2017, MSc, Shanghai University, China</li>
+                                        <li>2010-2014, BSc, Shanxi University, China</li>
+                                    </ul>
+                                    <ul>
+                                        <li>Office: Office F, 22/F, Montery Plaza</li>
+                                        <li>Email: <a href="mailto:nali63-c@my.cityu.edu.hk">nali63-c@my.cityu.edu.hk</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12">
+                            <div class="row vertical-center">
+                                <div class="col-sm-3">
+                                    <img class="img-responsive img-rounded" src="../img/members/zhuxiaohong.jpg">
+                                </div>
+                                <div class="col-sm-9">
+                                    <h3>Miss. Xiaohong ZHU</h3>
+                                    <ul>
+                                        <li>2018-Present, PhD Candidate, City University of Hong Kong</li>
+                                        <li>2015-2018, Msc, Sichuan University</li>
+                                        <li>2011-2015, Bsc, Xi'an Shiyou University</li>
+                                    </ul>
+                                    <ul>
+                                        <li>Office: Office F, 22/F, Montery Plaza</li>
+                                        <li>Email: <a href="mailto:xhz116@126.com">xhz116@126.com</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+						
 					</section>
 					<hr />
                     <section>
