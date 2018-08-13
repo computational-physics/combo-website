@@ -85,9 +85,6 @@ body {
 .navbar-toggle {
   margin: 8px;
 }
-.navbar-toggle:hover {
-  background-color: #3c3c3c;
-}
 .dropdown-menu > li > a > small {
   max-width: 200px;
 }
