@@ -117,6 +117,10 @@ body {
   background-color: #727272;
   border-color: #727272;
 }
+.navbar-inverse .navbar-nav>li>a:hover {
+  color:#ffffff;
+  background-color:#3c3c3c
+}
 
 @media (min-width: 768px) {
   #course-row .col-sm-3, #course-row .col-sm-4 {
