@@ -19,7 +19,7 @@ define("ROOTPATH", "/main");
             </button>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
-            <ul class="nav navbar-nav">
+            <ul class="nav navbar-nav btn-primary">
                 <li class=""><a href="../">Home</a></li>
 	            <li><a href="<?php echo ROOTPATH ?>/research/">Research</a></li>
 	            <li><a href="<?php echo ROOTPATH ?>/members/">Members</a></li>
