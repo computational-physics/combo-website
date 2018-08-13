@@ -62,7 +62,6 @@
 			<?php require('../inc_sidebar.php') ?>
 			<div class="col-md-9">
 				<div class="row">
-					<a name="barph"></a>
 					<div class="col-sm-12" style="text-align: center;">
 						<img class="img-responsive seperator" src="../img/others/seperator1.png" />
 					</div>
