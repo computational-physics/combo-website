@@ -41,7 +41,7 @@
 							<br>
 							<br>
 							
-							<li>Yan Huang, Zhen Li, Zengxia Pei, Zhuoxin Liu, Hongfei Li, Minshen Zhu, Jun Fan*, Quanbin Dai, Mingdao Zhang, Liming Dai*, and Chunyi Zhi*, Solid-State Rechargeable Zn//NiCo and Zn-air Batteries with Ultra-Long Lifetime and High Capacity: the Role of a Sodium Polyacrylate Hydrogel Electrolyte, <b><i>Adv. Energy. Mater.</i></b>, Accepted (2018)</li>
+							<li>Yan Huang, Zhen Li, Zengxia Pei, Zhuoxin Liu, Hongfei Li, Minshen Zhu, Jun Fan*, Quanbin Dai, Mingdao Zhang, Liming Dai*, and Chunyi Zhi*, Solid-State Rechargeable Zn//NiCo and Zn-air Batteries with Ultra-Long Lifetime and High Capacity: the Role of a Sodium Polyacrylate Hydrogel Electrolyte, <b><i>Adv. Energy Mater.</i></b>, Accepted (2018)</li>
 							<br>
 							<br>
 							
