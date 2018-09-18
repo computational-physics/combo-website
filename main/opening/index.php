@@ -43,7 +43,7 @@
 	                        <li class="list-group-item">
 	                            <h4 class="list-group-item-heading">Financial Support for Graduate Students:</h4>
 	                            <div class="list-group-item-text">
-	                                <p>Hong Kong govement provide a stipend of <strong>> HKD 16,500</strong> per month (<strong>HKD 25,100</strong> per month for <a target="_blank" href="https://cerg1.ugc.edu.hk/hkpfs/index.html" target="_blank">HKPFS</a>), 12 months per year, to all successful candidates. Additional tuition scholarship and travel fund will be possible for students with great academic performance.</p>
+	                                <p>Hong Kong govement provide a stipend of <strong> HKD 16,500</strong> per month (<strong>HKD 25,100</strong> per month for <a target="_blank" href="https://cerg1.ugc.edu.hk/hkpfs/index.html" target="_blank">HKPFS</a>), 12 months per year, to all successful candidates. Additional tuition scholarship and travel fund will be possible for students with great academic performance.</p>
 	                            </div>
 	                        </li>
 	                    </ul>
