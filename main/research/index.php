@@ -67,8 +67,8 @@
 							biological and materials phenomena.
 						</b></p>
 						<ol>
-							<li><a href="#MembProtein"><big>Protein-Lipid Interactions</big></a></li>
 							<li><a href="#BioNano"><big>Bio-Nano Interactions</big></a></li>
+							<li><a href="#MembProtein"><big>Protein-Lipid Interactions</big></a></li>
 							<li><a href="#Materials"><big>Physics in Energy-Storage Materials and Interfaces</big></a></li>
 							
 							<!-- 
@@ -87,7 +87,49 @@
 
 				<hr style="border: 2px solid grey">
 				
+				
+				
+				<!-- ===== -->
+				<!-- BioNano -->
+				<!-- ===== -->
 
+				<div class="row">
+					<a name="BioNano"></a>
+					<div class="col-xs-12">
+						<legend> Bio-Nano Interactions </legend>
+					</div>
+					<div class="col-sm-12">
+						<p style="text-align: justify"><b>
+							As the rapid development of nanomaterials and their emerging biomedical and biological applications such as drug/gene delivery and nanosensing, 
+							the interaction between nanomaterials and biological entities plays an increasingly important role in nanoscience. In particular, bio-nano interactions could interfere functions of proteins, lipids, 
+							etc., and even damage the structural integrity of cells. Thus, the cytotoxicity of nanomaterials has caused serious concerns over the safety and sustainability of nanotechnology. 
+							On the other hand, the toxicity of nanomaterials can also be utilized in antibacterial and antifouling applications.
+							We perform MD simulations to study the interaction between nanoparticles/nanotubes/nanosheets and lipid membranes/proteins/DNA/organelles, providing insights into physics in bio-nano systems. 
+						</b></p>
+						<p style="text-align: justify">
+							We have studied the interaction between 2D nanomaterials (nanosheets) and lipid membranes recently. Hydrophobic nanosheets could extract lipids and then insert into lipid membranes, which is very important 
+							for the cytotoxicity of nanosheets. Interestingly, we found that the lipid extraction behavior depends on the phase state of lipids that can be changed by temperature, lipid components, etc. In addition, 
+							the insertion of nanosheets into lipid membranes could lead to the ordering of lipids, which may perturb the function of transmembrane proteins.
+						</p>
+						
+						<img class="img-responsive" src="../img/research/BioNano.jpg" />
+						
+						<h4><b> References </b></h4>
+						<ul style="text-align: justify">
+							<li>Yonghui Zhang, Chun Chan, Zhen Li, Jia Le Ma, Qiangqiang Meng, Xiaolin Cheng, and Jun Fan*, <u>Lipid Extraction by Boron Nitride Nanosheets from Liquid-ordered and Liquid-disordered Nanodomains</u>, <b><i>Nanoscale</i></b>, Accepted (2018)</li>
+                            <li>Zhen Li, Yonghui Zhang, Chun Chan, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, <u><a href="https://pubs.acs.org/doi/10.1021/acsnano.7b09095">Temperature-Dependent Lipid Extraction from Membranes by Boron Nitride Nanosheets</a></u>, <b><i>ACS Nano</i></b>, 12: 2764-2772 (2018) </li>
+                            <li>Yonghui Zhang, Zhen Li, Chun Chan, Jiale Ma, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, <u><a href="http://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp07136a#!divAbstract">Ordering of Lipid Membranes Altered by Boron Nitride Nanosheet</a></u>, <b><i>Phys. Chem. Chem. Phys.</i></b>, 20: 3903-3910 (2018), inside cover</li>
+						</ul>
+				
+					</div>
+				</div>
+				
+				
+				
+				<hr style="border: 2px solid grey">				
+
+				
+				
 				<!-- ===== -->
 				<!-- MembProtein -->
 				<!-- ===== -->
@@ -131,47 +173,7 @@
 
 			
 				<hr style="border: 2px solid grey">
-				
-				
-				
-				<!-- ===== -->
-				<!-- BioNano -->
-				<!-- ===== -->
 
-				<div class="row">
-					<a name="BioNano"></a>
-					<div class="col-xs-12">
-						<legend> Bio-Nano Interactions </legend>
-					</div>
-					<div class="col-sm-12">
-						<p style="text-align: justify"><b>
-							As the rapid development of nanomaterials and their emerging biomedical and biological applications such as drug/gene delivery and nanosensing, 
-							the interaction between nanomaterials and biological entities plays an increasingly important role in nanoscience. In particular, bio-nano interactions could interfere functions of proteins, lipids, 
-							etc., and even damage the structural integrity of cells. Thus, the cytotoxicity of nanomaterials has caused serious concerns over the safety and sustainability of nanotechnology. 
-							On the other hand, the toxicity of nanomaterials can also be utilized in antibacterial and antifouling applications.
-							We perform MD simulations to study the interaction between nanoparticles/nanotubes/nanosheets and lipid membranes/proteins/DNA/organelles, providing insights into physics in bio-nano systems. 
-						</b></p>
-						<p style="text-align: justify">
-							We have studied the interaction between 2D nanomaterials (nanosheets) and lipid membranes recently. Hydrophobic nanosheets could extract lipids and then insert into lipid membranes, which is very important 
-							for the cytotoxicity of nanosheets. Interestingly, we found that the lipid extraction behavior depends on the phase state of lipids that can be changed by temperature, lipid components, etc. In addition, 
-							the insertion of nanosheets into lipid membranes could lead to the ordering of lipids, which may perturb the function of transmembrane proteins.
-						</p>
-						
-						<img class="img-responsive" src="../img/research/BioNano.jpg" />
-						
-						<h4><b> References </b></h4>
-						<ul style="text-align: justify">
-							<li>Yonghui Zhang, Chun Chan, Zhen Li, Jia Le Ma, Qiangqiang Meng, Xiaolin Cheng, and Jun Fan*, <u>Lipid Extraction by Boron Nitride Nanosheets from Liquid-ordered and Liquid-disordered Nanodomains</u>, <b><i>Nanoscale</i></b>, Accepted (2018)</li>
-                            <li>Zhen Li, Yonghui Zhang, Chun Chan, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, <u><a href="https://pubs.acs.org/doi/10.1021/acsnano.7b09095">Temperature-Dependent Lipid Extraction from Membranes by Boron Nitride Nanosheets</a></u>, <b><i>ACS Nano</i></b>, 12: 2764-2772 (2018) </li>
-                            <li>Yonghui Zhang, Zhen Li, Chun Chan, Jiale Ma, Chunyi Zhi, Xiaolin Cheng, and Jun Fan*, <u><a href="http://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp07136a#!divAbstract">Ordering of Lipid Membranes Altered by Boron Nitride Nanosheet</a></u>, <b><i>Phys. Chem. Chem. Phys.</i></b>, 20: 3903-3910 (2018), inside cover</li>
-						</ul>
-				
-					</div>
-				</div>
-				
-				
-				
-				<hr style="border: 2px solid grey">
 				
 				
 				<!-- ===== -->
