@@ -78,7 +78,7 @@
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2018Nanoscale2.jpg">
 								<br>
 									
-								<li>Qiangqiang Meng, Jia Le Ma, Yonghui Zhang, Zhen Li, Alice Hu, Ji-Jung Kai, and <b><u><b><u>Jun Fan</u></b>*</u></b>. <u><a href="http://pubs.rsc.org/en/Content/ArticleLanding/2018/TA/C8TA04417A#!divAbstract">Theoretical Investigation of Zirconium Carbide Mxenes as Prospective High Capacity Anode Materials for Na-ion Batteries</a></u>. <b><i>J. Mater. Chem. A</i></b>, 6: 13652 (2018). This article is part of the themed collection: 2018 JMCA HOT Papers [IF=9.93]</li>
+								<li>Qiangqiang Meng, Jia Le Ma, Yonghui Zhang, Zhen Li, Alice Hu, Ji-Jung Kai, and <b><u><b><u>Jun Fan</u></b>*</u></b>. <u><a href="http://pubs.rsc.org/en/Content/ArticleLanding/2018/TA/C8TA04417A#!divAbstract">Theoretical Investigation of Zirconium Carbide Mxenes as Prospective High Capacity Anode Materials for Na-ion Batteries</a></u>. <b><i>J. Mater. Chem. A</i></b>, 6: 13652 (2018). This article is part of the themed collection: <a href="http://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=ta&themeid=f7d0c2cb-4131-4611-8a14-f0c78308057d">2018 JMCA HOT Papers</a>. [IF=9.93]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2018JMCA1.jpg">
 								<br>
@@ -120,7 +120,7 @@
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2017JMCA1.jpg">
 								<br>
 								
-								<li>Qiangqiang Meng, Alice Hu, Chunyi Zhi, and <b><u><b><u>Jun Fan</u></b>*</u></b>. <u><a href="http://pubs.rsc.org/en/content/articlehtml/2017/CP/C7CP06171D">Theoretical Prediction of MXene-like Structure Ti3C4 as a High Capacity Electrode Material for Na ion Batteries</a></u>. <b><i>Phys. Chem. Chem. Phys.</i></b>, 19: 29106-29113 (2017). This article is part of the themed collection: 2017 PCCP HOT Articles. [IF=3.91]</li>
+								<li>Qiangqiang Meng, Alice Hu, Chunyi Zhi, and <b><u><b><u>Jun Fan</u></b>*</u></b>. <u><a href="http://pubs.rsc.org/en/content/articlehtml/2017/CP/C7CP06171D">Theoretical Prediction of MXene-like Structure Ti3C4 as a High Capacity Electrode Material for Na ion Batteries</a></u>. <b><i>Phys. Chem. Chem. Phys.</i></b>, 19: 29106-29113 (2017). This article is part of the themed collection: <a href="http://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cp&themeid=6f8bc19b-215a-4535-b504-cc4450521837">2017 PCCP HOT Articles</a>. [IF=3.91]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2017PCCP1.jpg">
 								<br>
