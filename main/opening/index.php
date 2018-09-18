@@ -34,7 +34,7 @@
 	                            	<ul>
 	                            		<li>a minimum TOEFL score of 550 (paper-based) or 213 (computer-based) or 79 (internet-based); or</li>
 	                            		<li>a minimum overall band score of 6.5 in IELTS; or</li>
-										<li>a score of 490 in the Chinese mainland’s College English Test Band 6; or</li>
+										<!--<li>a score of 490 in the Chinese mainland’s College English Test Band 6; or</li>-->
 	                            		<li>other test scores that may be regarded as equivalent to TOEFL 550 (paper-based) or 213 (computer-based) or 79 (internet-based).</li>
 	                            	</ul>
 	                            	<small>(Please note that individual Departments in the College may adopt a higher standard.)</small>
