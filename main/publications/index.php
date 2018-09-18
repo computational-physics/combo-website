@@ -94,7 +94,7 @@
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2018Nanoscale1.jpg">
 								<br>
 								
-								<li>Y.F. Ye, Y.H. Zhang, Q.F. He, Y. Zhuang, S. Wang, S.Q. Shi, A. Hu, <b><u>Jun Fan</u></b>, and Y. Yang. <u><a href="https://www.sciencedirect.com/science/article/pii/S1359645418301873">Atomic-scale Distorted Lattice in Chemically Disordered Equimolar Complex Alloys</a></u>. <b><i>Acta Materialia</i></b>, 150: 182-194 (2018). [IF=6.04]</li>
+								<li>Y.F. Ye*, Y.H. Zhang, Q.F. He, Y. Zhuang, S. Wang, S.Q. Shi, A. Hu*, <b><u>Jun Fan</u></b>, and Y. Yang*. <u><a href="https://www.sciencedirect.com/science/article/pii/S1359645418301873">Atomic-scale Distorted Lattice in Chemically Disordered Equimolar Complex Alloys</a></u>. <b><i>Acta Materialia</i></b>, 150: 182-194 (2018). [IF=6.04]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2018ActaMat1.jpg">
 								<br>
@@ -121,7 +121,7 @@
 								<legend style="text-align: center">2017</legend>
 								<br>
 								
-								<li>Ning Ma, Cong Lin, Nian Wu, Qi Liu, Jia-Le Ma, Wei Meng, Xiao-Shuang Wang, Lu Zhang, Xiaohui Xu, Yifang Zhao, Lin Zhuang, <b><u>Jun Fan</u></b>, Junliang Sun, Ren-Xi Zhuo, and Xian-Zheng Zhang. <u><a href="http://pubs.rsc.org/en/Content/ArticleLanding/2017/TA/C7TA08002F#!divAbstract">Stomata-like Metal Peptide Coordination Polymer</a></u>. <b><i>J. Mater. Chem. A</i></b>, 5: 23440-23445 (2017). [IF=9.93]</li>
+								<li>Ning Ma, Cong Lin, Nian Wu, Qi Liu, Jia-Le Ma, Wei Meng, Xiao-Shuang Wang, Lu Zhang, Xiaohui Xu, Yifang Zhao, Lin Zhuang, <b><u>Jun Fan</u></b>, Junliang Sun*, Ren-Xi Zhuo, and Xian-Zheng Zhang*. <u><a href="http://pubs.rsc.org/en/Content/ArticleLanding/2017/TA/C7TA08002F#!divAbstract">Stomata-like Metal Peptide Coordination Polymer</a></u>. <b><i>J. Mater. Chem. A</i></b>, 5: 23440-23445 (2017). [IF=9.93]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2017JMCA1.jpg">
 								<br>
@@ -131,7 +131,7 @@
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2017PCCP1.jpg">
 								<br>
 									
-								<li>Yanhua Zhao, Yang Wu, Liang Wang, Manman Zhang, Xuan Chen, Minjie Liu, <b><u>Jun Fan</u></b>, Junqiu Liu, Feng Zhou, and Zuankai Wang. <u><a href="https://www.nature.com/articles/s41467-017-02387-2">Bio-inspired Reversible Underwater Adhesive</a></u>. <b><i>Nat. Commun.</i></b>, 8: 2218 (2017). Selected by The Latest Science as the paper of the month (January 2018) [IF=12.35]</li>
+								<li>Yanhua Zhao, Yang Wu, Liang Wang, Manman Zhang, Xuan Chen, Minjie Liu, <b><u>Jun Fan</u></b>, Junqiu Liu, Feng Zhou*, and Zuankai Wang*. <u><a href="https://www.nature.com/articles/s41467-017-02387-2">Bio-inspired Reversible Underwater Adhesive</a></u>. <b><i>Nat. Commun.</i></b>, 8: 2218 (2017). Selected by The Latest Science as the paper of the month (January 2018) [IF=12.35]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2017NC1.jpg">
 								<br>
@@ -141,7 +141,7 @@
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2017JPCB1.jpg">
 								<br>
 									
-								<li>Xuebo Quan, Chunwang Peng, Daohui Zhao, Libo Li, <b><u>Jun Fan</u></b>, and Jian Zhou. <u><a href="http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b02937">Molecular Understanding of the Penetration of Functionalized Gold Nanoparticles into Asymmetric Membranes</a></u>. <b><i>Langmuir</i></b>, 33: 361 (2017). Cover Story [IF=3.79]</li>
+								<li>Xuebo Quan, Chunwang Peng, Daohui Zhao, Libo Li, <b><u>Jun Fan</u></b>, and Jian Zhou*. <u><a href="http://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b02937">Molecular Understanding of the Penetration of Functionalized Gold Nanoparticles into Asymmetric Membranes</a></u>. <b><i>Langmuir</i></b>, 33: 361 (2017). Cover Story [IF=3.79]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2017Langmuir1.jpg">
 								<br>
@@ -153,12 +153,12 @@
 								<legend style="text-align: center">2016</legend>
 								<br>
 								
-								<li>Chun Chan, <b><u>Jun Fan</u></b>, Andrew Messer, Steve Marston, Hiroyuki Iwamoto, and Julien Ochala. <u><a href="http://www.sciencedirect.com/science/article/pii/S0925443916300904">Myopathy-inducing Mutation H40Y in ACTA1 Hampers Actin Filament Structure and Function</a></u>. <b><i>BBA - Molecular Basis of Disease</i></b>, 1862: 1453 (2016). [IF=5.11]</li>
+								<li>Chun Chan, <b><u>Jun Fan</u></b>, Andrew Messer, Steve Marston, Hiroyuki Iwamoto, and Julien Ochala*. <u><a href="http://www.sciencedirect.com/science/article/pii/S0925443916300904">Myopathy-inducing Mutation H40Y in ACTA1 Hampers Actin Filament Structure and Function</a></u>. <b><i>BBA - Molecular Basis of Disease</i></b>, 1862: 1453 (2016). [IF=5.11]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2016BBA1.jpg">
 								<br>
 									
-								<li>Yifan Ye, Xiaodi Liu, Song Wang, <b><u>Jun Fan</u></b>, Chain Tsuan Liu, and Yong Yang. <u><a href="http://aip.scitation.org/doi/10.1063/1.4954376">The Kinetic Origin of Delayed Yielding in Metallic Glasses</a></u>. <b><i>Appl. Phys. Lett.</i></b>, 108: 251901 (2016). [IF=3.50]</li>
+								<li>Yifan Ye, Xiaodi Liu, Song Wang, <b><u>Jun Fan</u></b>, Chain Tsuan Liu, and Yong Yang*. <u><a href="http://aip.scitation.org/doi/10.1063/1.4954376">The Kinetic Origin of Delayed Yielding in Metallic Glasses</a></u>. <b><i>Appl. Phys. Lett.</i></b>, 108: 251901 (2016). [IF=3.50]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2016APL2.jpg">
 								<br>
@@ -168,12 +168,12 @@
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2016APL1.jpg">
 								<br>
 									
-								<li>Feng Wang, Jiale Ma, Fangyan Xie, Linkai Li, Jian Chen, <b><u>Jun Fan</u></b>, and Ni Zhao. <u><a href="http://dx.doi.org/10.1002/adfm.201505127">Organic Cation-Dependent Degradation Mechanism of Organo Tin Halide Perovskites</a></u>. <b><i>Adv. Funct. Mater.</i></b>, 26: 3417 (2016). [IF=13.33]</li>
+								<li>Feng Wang, Jiale Ma, Fangyan Xie, Linkai Li, Jian Chen, <b><u>Jun Fan</u></b>, and Ni Zhao*. <u><a href="http://dx.doi.org/10.1002/adfm.201505127">Organic Cation-Dependent Degradation Mechanism of Organo Tin Halide Perovskites</a></u>. <b><i>Adv. Funct. Mater.</i></b>, 26: 3417 (2016). [IF=13.33]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2016AFM1.jpg">
 								<br>
 								
-								<li>Xian Chen, Limin Jin, Wei Kong, Tianying Sun, Wenfei Zhang, Xinhong Liu, <b><u>Jun Fan</u></b>, Siu Fung Yu, and Feng Wang. <u><a href="http://www.nature.com/ncomms/2016/160107/ncomms10304/full/ncomms10304.html">Confining Exciton Migration in Upconversion Nanoparticles towards Deep Ultraviolet Lasing</a></u>. <b><i>Nat. Commun.</i></b>, 7: 10304 (2016). [IF=12.35]</li>
+								<li>Xian Chen, Limin Jin, Wei Kong, Tianying Sun, Wenfei Zhang, Xinhong Liu, <b><u>Jun Fan</u></b>, Siu Fung Yu*, and Feng Wang*. <u><a href="http://www.nature.com/ncomms/2016/160107/ncomms10304/full/ncomms10304.html">Confining Exciton Migration in Upconversion Nanoparticles towards Deep Ultraviolet Lasing</a></u>. <b><i>Nat. Commun.</i></b>, 7: 10304 (2016). [IF=12.35]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2016NC1.jpg">
 								<br>
@@ -183,7 +183,7 @@
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2016CPB1.jpg">
 								<br>
 								
-								<li>Yifan Ye, Song Wang, <b><u>Jun Fan</u></b>, Chain-Tsuan Liu, and Yong Yang. <u><a href="http://www.sciencedirect.com/science/article/pii/S0966979515300649">Atomistic Mechanism of Elastic Softening in Metallic Glass under Cyclic Loading Revealed by Molecular Dynamics Simulations</a></u>. <b><i>Intermetallics</i></b>, 68: 5 (2016). [IF=3.42]</li>
+								<li>Yifan Ye, Song Wang, <b><u>Jun Fan</u></b>, Chain-Tsuan Liu, and Yong Yang*. <u><a href="http://www.sciencedirect.com/science/article/pii/S0966979515300649">Atomistic Mechanism of Elastic Softening in Metallic Glass under Cyclic Loading Revealed by Molecular Dynamics Simulations</a></u>. <b><i>Intermetallics</i></b>, 68: 5 (2016). [IF=3.42]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2016Inter1.jpg">
 								<br>
@@ -201,7 +201,7 @@
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2015PCCP1.jpg">
 								<br>
 								
-								<li>Xiaoli Zeng, Zhong Ren, Qi Wu, <b><u>Jun Fan</u></b>, Pan-Pan Peng, Kun Tang, Ruiqin Zhang, Kai-Hong Zhao, and Xiaojing Yang. <u><a href="http://www.nature.com/articles/nplants20146">Dynamic Crystallography Reveals Early Signalling Events in Ultraviolet Photoreceptor UVR8</a></u>. <b><i>Nat. Plants</i></b>, 1: 14006 (2015). [IF=11.47]</li>
+								<li>Xiaoli Zeng, Zhong Ren, Qi Wu, <b><u>Jun Fan</u></b>, Pan-Pan Peng, Kun Tang, Ruiqin Zhang, Kai-Hong Zhao*, and Xiaojing Yang*. <u><a href="http://www.nature.com/articles/nplants20146">Dynamic Crystallography Reveals Early Signalling Events in Ultraviolet Photoreceptor UVR8</a></u>. <b><i>Nat. Plants</i></b>, 1: 14006 (2015). [IF=11.47]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2015NP1.jpg">
 								<br>
@@ -214,7 +214,7 @@
 								<legend style="text-align: center">2014</legend>
 								<br>
 								
-								<li>Xiaoyun Pang, <b><u>Jun Fan</u></b>, Yan Zhang, Kai Zhang, Bingquan Gao, Jun Ma, Jian Li, Yuchen Deng, Qiangjun Zhou, Edward H. Egelman, Victor W. Hsu, and Fei Sun. <u><a href="http://www.sciencedirect.com/science/article/pii/S1534580714005504">A PH Domain in ACAP1 Possesses Key Features of the BAR Domain in Promoting Membrane Curvature</a></u>. <b><i>Developmental Cell</i></b>, 31: 73 (2014). Highlighted in <a href="http://www.sciencedirect.com/science/article/pii/S1534580714006224">A Novel Twist In Membrane dePHormation</a> Developmental Cell, 31: 3 (2014). [IF=9.62]</li>
+								<li>Xiaoyun Pang, <b><u>Jun Fan</u></b>, Yan Zhang, Kai Zhang, Bingquan Gao, Jun Ma, Jian Li, Yuchen Deng, Qiangjun Zhou, Edward H. Egelman, Victor W. Hsu*, and Fei Sun*. <u><a href="http://www.sciencedirect.com/science/article/pii/S1534580714005504">A PH Domain in ACAP1 Possesses Key Features of the BAR Domain in Promoting Membrane Curvature</a></u>. <b><i>Developmental Cell</i></b>, 31: 73 (2014). Highlighted in <a href="http://www.sciencedirect.com/science/article/pii/S1534580714006224">A Novel Twist In Membrane dePHormation</a> Developmental Cell, 31: 3 (2014). [IF=9.62]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2014DC1.jpg">
 								<br>
@@ -236,35 +236,35 @@
 								<legend style="text-align: center">Before Joining CityU</legend>								
 								<br>
 								
-								<li><b><u>Jun Fan</u></b>, Marissa G. Saunders, Esmael J. Haddadian, Karl F. Freed, Enrique M. De La Cruz, and Gregory A. Voth. <u><a href="http://www.sciencedirect.com/science/article/pii/S0022283613000363">Molecular Origins of Coflin-linked Changes in Actin Filament Mechanics</a></u>. <b><i>J. Mol. Biol.</i></b>, 425: 1225 (2013).  [IF=4.89]</li>
+								<li><b><u>Jun Fan</u></b>, Marissa G. Saunders, Esmael J. Haddadian, Karl F. Freed, Enrique M. De La Cruz*, and Gregory A. Voth*. <u><a href="http://www.sciencedirect.com/science/article/pii/S0022283613000363">Molecular Origins of Coflin-linked Changes in Actin Filament Mechanics</a></u>. <b><i>J. Mol. Biol.</i></b>, 425: 1225 (2013).  [IF=4.89]</li>
 								<br>
 								<br>
 								
-								<li><b><u>Jun Fan</u></b>, Marissa G. Saunders, and Gregory A. Voth. <u><a href="http://www.ncbi.nlm.nih.gov/pubmed/22995506">Coarse-graining Provides Insights on the Essential Nature of Heterogeneity in Actin Filaments</a></u>. <b><i>Biophys. J.</i></b>, 103: 1334 (2012). [IF=3.50]</li>
+								<li><b><u>Jun Fan</u></b>, Marissa G. Saunders, and Gregory A. Voth*. <u><a href="http://www.ncbi.nlm.nih.gov/pubmed/22995506">Coarse-graining Provides Insights on the Essential Nature of Heterogeneity in Actin Filaments</a></u>. <b><i>Biophys. J.</i></b>, 103: 1334 (2012). [IF=3.50]</li>
 								<br>
 								<br>
 								
-								<li><b><u>Jun Fan</u></b>, Tao Han, and Mikko Haataja. <u><a href="http://jcp.aip.org/resource/1/jcpsa6/v133/i23/p235101_s1">Hydrodynamic Effects on Spinodal Decomposition Kinetics in Lipid Bilayer Membranes</a></u>. <b><i>J. Chem. Phys.</i></b>, 133: 235101 (2010). [IF=2.84]</li>
+								<li><b><u>Jun Fan</u></b>, Tao Han, and Mikko Haataja*. <u><a href="https://aip.scitation.org/doi/10.1063/1.3518458">Hydrodynamic Effects on Spinodal Decomposition Kinetics in Lipid Bilayer Membranes</a></u>. <b><i>J. Chem. Phys.</i></b>, 133: 235101 (2010). [IF=2.84]</li>
 								<br>
 								<br>
 								
-								<li><b><u>Jun Fan</u></b>, Maria Sammalkorpi, and Mikko Haataja. <u><a href="http://www.ncbi.nlm.nih.gov/pubmed/19854186">Formation and Regulation of Lipid Microdomains in Cell Membranes: Theory, Modeling, and Speculation</a></u>. <b><i>FEBS Lett.</i></b>, 584: 1678 (2010). [IF=3.00]</li>
+								<li><b><u>Jun Fan</u></b>, Maria Sammalkorpi, and Mikko Haataja*. <u><a href="http://www.ncbi.nlm.nih.gov/pubmed/19854186">Formation and Regulation of Lipid Microdomains in Cell Membranes: Theory, Modeling, and Speculation</a></u>. <b><i>FEBS Lett.</i></b>, 584: 1678 (2010). [IF=3.00]</li>
 								<br>
 								<br>
 								
-								<li><b><u>Jun Fan</u></b>, Maria Sammalkorpi, and Mikko Haataja. <u><a href="http://prl.aps.org/abstract/PRL/v104/i11/e118101">Lipid Microdomains: Structural Correlations, Fluctuations, and Formation Mechanisms</a></u>. <b><i>Phys. Rev. Lett.</i></b>, 104: 118101 (2010). [IF=8.84]</li>
+								<li><b><u>Jun Fan</u></b>, Maria Sammalkorpi, and Mikko Haataja*. <u><a href="http://prl.aps.org/abstract/PRL/v104/i11/e118101">Lipid Microdomains: Structural Correlations, Fluctuations, and Formation Mechanisms</a></u>. <b><i>Phys. Rev. Lett.</i></b>, 104: 118101 (2010). [IF=8.84]</li>
 								<br>
 								<br>
 								
-								<li><b><u>Jun Fan</u></b>, Maria Sammalkorpi, and Mikko Haataja. <u><a href="http://pre.aps.org/abstract/PRE/v81/i1/e011908">Influence of Non-equilibrium Lipid Transport, Membrane Compartmentalization, and Membrane Proteins on the Lateral Organization of the Plasma Membrane</a></u>. <b><i>Phys. Rev. E</i></b>, 81: 011908 (2010). [IF=2.28]</li>
+								<li><b><u>Jun Fan</u></b>, Maria Sammalkorpi, and Mikko Haataja*. <u><a href="http://pre.aps.org/abstract/PRE/v81/i1/e011908">Influence of Non-equilibrium Lipid Transport, Membrane Compartmentalization, and Membrane Proteins on the Lateral Organization of the Plasma Membrane</a></u>. <b><i>Phys. Rev. E</i></b>, 81: 011908 (2010). [IF=2.28]</li>
 								<br>
 								<br>
 								
-								<li>Juan Meng, <b><u>Jun Fan</u></b>, G Galiana, RT Branca, PL Clasen, S Ma, J Zhou, C Leuschner, CSSR Kumar, J Hormers, T Otiti, AC Beye, MP Harmer, CJ Kiely, W Warren, M Haataja, and WO Soboyejo. <u><a href="http://www.sciencedirect.com/science/article/pii/S0928493108002555">LHRH-functionalized Superparamagnetic Iron Oxide Nanoparticles for Breast Cancer Targeting and Contrast Enhancement in MRI</a></u>. <b><i>Mater. Sci. Eng. C</i></b>, 29: 1467 (2009). [IF=5.08]</li>
+								<li>Juan Meng, <b><u>Jun Fan</u></b>, G Galiana, RT Branca, PL Clasen, S Ma, J Zhou, C Leuschner, CSSR Kumar, J Hormers, T Otiti, AC Beye, MP Harmer, CJ Kiely, W Warren, M Haataja, and WO Soboyejo*. <u><a href="http://www.sciencedirect.com/science/article/pii/S0928493108002555">LHRH-functionalized Superparamagnetic Iron Oxide Nanoparticles for Breast Cancer Targeting and Contrast Enhancement in MRI</a></u>. <b><i>Mater. Sci. Eng. C</i></b>, 29: 1467 (2009). [IF=5.08]</li>
 								<br>
 								<br>
 								
-								<li><b><u>Jun Fan</u></b>, Maria Sammalkorpi, and Mikko Haataja. <u><a href="http://prl.aps.org/abstract/PRL/v100/i17/e178102">Domain Formation in the Plasma Membrane</a></u>. <b><i>Phys. Rev. Lett.</i></b>, 100: 178102 (2008). [IF=8.84]</li>
+								<li><b><u>Jun Fan</u></b>, Maria Sammalkorpi, and Mikko Haataja*. <u><a href="http://prl.aps.org/abstract/PRL/v100/i17/e178102">Domain Formation in the Plasma Membrane</a></u>. <b><i>Phys. Rev. Lett.</i></b>, 100: 178102 (2008). [IF=8.84]</li>
 								<br>
 								<br>
 								
