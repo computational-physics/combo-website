@@ -1,8 +1,14 @@
 <!DOCTYPE HTML>
 <HTML>
 <head>
-<?php require('../inc_head.php'); ?>
+	<?php require('../inc_head.php'); ?>
 
+    <style type="text/css">
+		.pubimag {
+            max-height:200px;
+			max-width:100%;
+        }  
+    </style>
 </head>
 <body>
 	<div class="container">
