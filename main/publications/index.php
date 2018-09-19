@@ -32,14 +32,14 @@
 						    <em class="pull-right" style="clear: left;">*corresponding author</em>
                         </div>
 						
-						<div>
+						<!--<div>
 							<li><a href="#2018"><big>2018</big></a></li>
 							<li><a href="#2017"><big>2017</big></a></li>
 							<li><a href="#2016"><big>2016</big></a></li>
 							<li><a href="#2015"><big>2015</big></a></li>
 							<li><a href="#2014"><big>2014</big></a></li>
 							<li><a href="#BeforeJoiningCityU"><big>Before Joining CityU</big></a></li>
-						</div>
+						</div>-->
 						
 						<!--
 						</div>//combine two division to avoid a bug
@@ -49,8 +49,7 @@
 							<ol id="publication-list" reversed>
 							
 								<!--2018-->
-								<a name="2018"></a>
-								<legend style="text-align: center">2018</legend>
+								<h4>2018</h4>
 								<br>
 								
 								<li>Zhen Li, Yonghui Zhang, Jiale Ma, Qiangqiang Meng, and <b><u><b><u>Jun Fan</u></b>*</u></b>. Modelling Interactions between Liposomes and Hydrophobic Nanosheets. Reviewers’ comments received from Small (in revision) [Impact Factor IF=9.60]</li>
@@ -117,8 +116,7 @@
 								<!--2017-->
 								<br>
 								<br>
-								<a name="2017"></a>
-								<legend style="text-align: center">2017</legend>
+								<h4>2017</h4>
 								<br>
 								
 								<li>Ning Ma, Cong Lin, Nian Wu, Qi Liu, Jia-Le Ma, Wei Meng, Xiao-Shuang Wang, Lu Zhang, Xiaohui Xu, Yifang Zhao, Lin Zhuang, <b><u>Jun Fan</u></b>, Junliang Sun*, Ren-Xi Zhuo, and Xian-Zheng Zhang*. <u><a href="http://pubs.rsc.org/en/Content/ArticleLanding/2017/TA/C7TA08002F#!divAbstract">Stomata-like Metal Peptide Coordination Polymer</a></u>. <b><i>J. Mater. Chem. A</i></b>, 5: 23440-23445 (2017). [IF=9.93]</li>
@@ -149,8 +147,7 @@
 								<!--2016-->
 								<br>
 								<br>
-								<a name="2016"></a>
-								<legend style="text-align: center">2016</legend>
+								<h4>2016</h4>
 								<br>
 								
 								<li>Chun Chan, <b><u>Jun Fan</u></b>, Andrew Messer, Steve Marston, Hiroyuki Iwamoto, and Julien Ochala*. <u><a href="http://www.sciencedirect.com/science/article/pii/S0925443916300904">Myopathy-inducing Mutation H40Y in ACTA1 Hampers Actin Filament Structure and Function</a></u>. <b><i>BBA - Molecular Basis of Disease</i></b>, 1862: 1453 (2016). [IF=5.11]</li>
@@ -192,8 +189,7 @@
 								<!--2015-->
 								<br>
 								<br>
-								<a name="2015"></a>
-								<legend style="text-align: center">2015</legend>
+								<h4>2015</h4>
 								<br>
 								
 								<li>Qi Wu, Bolong Huang, T. A. Niehaus, Xiaojing Yang, <b><u><b><u>Jun Fan</u></b>*</u></b>, and Rui-Qin Zhang*. <u><a href="http://pubs.rsc.org/en/Content/ArticleLanding/2015/CP/C4CP06073C#!divAbstract">The Role of Tryptophans in the UV-B Absorption of a UVR8 Photoreceptor - A Computational Study</a></u>. <b><i>Phys. Chem. Chem. Phys.</i></b>, 17: 10786-10794 (2015).  [IF=3.91]</li>
@@ -210,8 +206,7 @@
 								<!--2014-->
 								<br>
 								<br>
-								<a name="2014"></a>
-								<legend style="text-align: center">2014</legend>
+								<h4>2014</h4>
 								<br>
 								
 								<li>Xiaoyun Pang, <b><u>Jun Fan</u></b>, Yan Zhang, Kai Zhang, Bingquan Gao, Jun Ma, Jian Li, Yuchen Deng, Qiangjun Zhou, Edward H. Egelman, Victor W. Hsu*, and Fei Sun*. <u><a href="http://www.sciencedirect.com/science/article/pii/S1534580714005504">A PH Domain in ACAP1 Possesses Key Features of the BAR Domain in Promoting Membrane Curvature</a></u>. <b><i>Developmental Cell</i></b>, 31: 73 (2014). Highlighted in <a href="http://www.sciencedirect.com/science/article/pii/S1534580714006224">A Novel Twist In Membrane dePHormation</a> Developmental Cell, 31: 3 (2014). [IF=9.62]</li>
@@ -232,8 +227,7 @@
 								<!--Before Joining CityU-->
 								<br>
 								<br>
-								<a name="BeforeJoiningCityU"></a>
-								<legend style="text-align: center">Before Joining CityU</legend>								
+								<h4>Before Joining CityU</h4>								
 								<br>
 								
 								<li><b><u>Jun Fan</u></b>, Marissa G. Saunders, Esmael J. Haddadian, Karl F. Freed, Enrique M. De La Cruz*, and Gregory A. Voth*. <u><a href="http://www.sciencedirect.com/science/article/pii/S0022283613000363">Molecular Origins of Coflin-linked Changes in Actin Filament Mechanics</a></u>. <b><i>J. Mol. Biol.</i></b>, 425: 1225 (2013).  [IF=4.89]</li>
