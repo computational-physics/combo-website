@@ -52,16 +52,16 @@
 								<h4>2018</h4>
 								<br>
 								
-								<li>Zhen Li, Yonghui Zhang, Jiale Ma, Qiangqiang Meng, and <b><u><b><u>Jun Fan</u></b>*</u></b>. Modelling Interactions between Liposomes and Hydrophobic Nanosheets. Reviewers’ comments received from Small (in revision) [Impact Factor IF=9.60]</li>
+								<li>Zhen Li, Yonghui Zhang, Jiale Ma, Qiangqiang Meng, and <b><u>Jun Fan*</u></b>. Modelling Interactions between Liposomes and Hydrophobic Nanosheets. Reviewers’ comments received from Small (in revision) [Impact Factor IF=9.60]</li>
 								<br>
 								
-								<li>Chun Chan, Xiaoyun Pang, Yan Zhang, Tongxin Niu, Shengjiang Yang, Daohui Zhao, Jian Li, Lanyuan Lu, Victor W. Hsu, Jian Zhou*, Fei Sun*, and <b><u><b><u>Jun Fan</u></b>*</u></b>. ACAP1 Assembles into an Unusual Protein Lattice for Membrane Deformation through Multiple Stages. Reviewers’ comments received from Plos Computational Biology (in revision) [IF=3.96]</li>
+								<li>Chun Chan, Xiaoyun Pang, Yan Zhang, Tongxin Niu, Shengjiang Yang, Daohui Zhao, Jian Li, Lanyuan Lu, Victor W. Hsu, Jian Zhou*, Fei Sun*, and <b><u>Jun Fan*</u></b>. ACAP1 Assembles into an Unusual Protein Lattice for Membrane Deformation through Multiple Stages. Reviewers’ comments received from Plos Computational Biology (in revision) [IF=3.96]</li>
 								<br>
 								
-								<li>Yonghui Zhang, Chun Chan, Zhen Li, Jiale Ma, Qiangqiang Meng, Chunyi Zhi, Hongyan Sun, and <b><u><b><u>Jun Fan</u></b>*</u></b>. Nanotoxicity of Boron Nitride Nanosheet to Escherichia Coli Membranes. Reviewers’ comments received from Langmuir (in revision) [IF=3.79]</li>
+								<li>Yonghui Zhang, Chun Chan, Zhen Li, Jiale Ma, Qiangqiang Meng, Chunyi Zhi, Hongyan Sun, and <b><u>Jun Fan*</u></b>. Nanotoxicity of Boron Nitride Nanosheet to Escherichia Coli Membranes. Reviewers’ comments received from Langmuir (in revision) [IF=3.79]</li>
 								<br>
 								
-								<li>Jiale Ma, Qiangqiang Meng, Chun Chan, Zhen Li, Yonghui Zhang, and <b><u><b><u>Jun Fan</u></b>*</u></b>. Alkyl Tail Aggregations Break Long Range Ordering of Ionic Liquids Confined in Sub-nanometer Pores. Reviewers’ comments received from J. Phys. Chem. C (in revision) [IF=4.48]</li>
+								<li>Jiale Ma, Qiangqiang Meng, Chun Chan, Zhen Li, Yonghui Zhang, and <b><u>Jun Fan*</u></b>. Alkyl Tail Aggregations Break Long Range Ordering of Ionic Liquids Confined in Sub-nanometer Pores. Reviewers’ comments received from J. Phys. Chem. C (in revision) [IF=4.48]</li>
 								<br>
 								
 								<li>Seung-Yeol Park, Jia-Shu Yang, Zhen Li, Maria Ericsson, Andrew J. Morris, <b><u>Jun Fan</u></b>, and Victor W. Hsu. Short Forms of Key Lipids Promote COPI Vesicle Fission. Reviewers’ comments received from Nat. Comm.  (in revision) [IF=12.35]</li>
@@ -73,22 +73,22 @@
 								<li>Zhen Xu, Peilin Fang, Bingzhe Xu, Yufeng Lu, Jinghui Xiong, Feng Gao, Xin Wang, <b><u>Jun Fan</u></b>, and Peng Shi. High-throughput Three-dimensional Chemotactic Assays Reveal Steepness-dependent Complexity in Neuronal Sensation to Molecular Gradients. Reviewers’ comments received from Nat. Comm. (2nd revision) [IF=12.35]</li>
 								<br>
 								
-								<li>Zhen Li, Yonghui Zhang, Chun Chan, Chunyi Zhi*, Xiaolin Cheng*, and <b><u><b><u>Jun Fan</u></b>*</u></b>. <u><a href="https://pubs.acs.org/doi/10.1021/acsnano.7b09095">Temperature-Dependent Lipid Extraction from Membranes by Boron Nitride Nanosheets</a></u>. <b><i>ACS Nano</i></b>, 12: 2764-2772 (2018).  [IF=13.71]</li>
+								<li>Zhen Li, Yonghui Zhang, Chun Chan, Chunyi Zhi*, Xiaolin Cheng*, and <b><u>Jun Fan*</u></b>. <u><a href="https://pubs.acs.org/doi/10.1021/acsnano.7b09095">Temperature-Dependent Lipid Extraction from Membranes by Boron Nitride Nanosheets</a></u>. <b><i>ACS Nano</i></b>, 12: 2764-2772 (2018).  [IF=13.71]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2018ACSNano1.jpg">
 								<br>
 									
-								<li>Yonghui Zhang, Chun Chan, Zhen Li, Jia Le Ma, Qiangqiang Meng, Xiaolin Cheng, and <b><u><b><u>Jun Fan</u></b>*</u></b>. <u><a href="http://pubs.rsc.org/en/content/articlehtml/2018/nr/c8nr02018c">Lipid Extraction by Boron Nitride Nanosheets from Liquid-ordered and Liquid-disordered Nanodomains</a></u>. <b><i>Nanoscale</i></b>, 10: 14073 (2018). [IF=7.23]</li>
+								<li>Yonghui Zhang, Chun Chan, Zhen Li, Jia Le Ma, Qiangqiang Meng, Xiaolin Cheng, and <b><u>Jun Fan*</u></b>. <u><a href="http://pubs.rsc.org/en/content/articlehtml/2018/nr/c8nr02018c">Lipid Extraction by Boron Nitride Nanosheets from Liquid-ordered and Liquid-disordered Nanodomains</a></u>. <b><i>Nanoscale</i></b>, 10: 14073 (2018). [IF=7.23]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2018Nanoscale2.jpg">
 								<br>
 									
-								<li>Qiangqiang Meng, Jia Le Ma, Yonghui Zhang, Zhen Li, Alice Hu, Ji-Jung Kai, and <b><u><b><u>Jun Fan</u></b>*</u></b>. <u><a href="http://pubs.rsc.org/en/Content/ArticleLanding/2018/TA/C8TA04417A#!divAbstract">Theoretical Investigation of Zirconium Carbide Mxenes as Prospective High Capacity Anode Materials for Na-ion Batteries</a></u>. <b><i>J. Mater. Chem. A</i></b>, 6: 13652 (2018). This article is part of the themed collection: <a href="http://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=ta&themeid=f7d0c2cb-4131-4611-8a14-f0c78308057d">2018 JMCA HOT Papers</a>. [IF=9.93]</li>
+								<li>Qiangqiang Meng, Jia Le Ma, Yonghui Zhang, Zhen Li, Alice Hu, Ji-Jung Kai, and <b><u>Jun Fan*</u></b>. <u><a href="http://pubs.rsc.org/en/Content/ArticleLanding/2018/TA/C8TA04417A#!divAbstract">Theoretical Investigation of Zirconium Carbide Mxenes as Prospective High Capacity Anode Materials for Na-ion Batteries</a></u>. <b><i>J. Mater. Chem. A</i></b>, 6: 13652 (2018). This article is part of the themed collection: <a href="http://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=ta&themeid=f7d0c2cb-4131-4611-8a14-f0c78308057d">2018 JMCA HOT Papers</a>. [IF=9.93]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2018JMCA1.jpg">
 								<br>
 									
-								<li>Qiangqiang Meng, Jiale Ma, Alice Hu, Chunyi Zhi, and <b><u><b><u>Jun Fan</u></b>*</u></b>. <u><a href="http://pubs.rsc.org/en/content/articlelanding/2018/nr/c7nr07649e">The S-functionalized Ti3C2 Mxene as a High Capacity Electrode Material for Na-ion Batteries: A DFT Study</a></u>. <b><i>Nanoscale</i></b>, 10: 3385-3392 (2018). [IF=7.23]</li>
+								<li>Qiangqiang Meng, Jiale Ma, Alice Hu, Chunyi Zhi, and <b><u>Jun Fan*</u></b>. <u><a href="http://pubs.rsc.org/en/content/articlelanding/2018/nr/c7nr07649e">The S-functionalized Ti3C2 Mxene as a High Capacity Electrode Material for Na-ion Batteries: A DFT Study</a></u>. <b><i>Nanoscale</i></b>, 10: 3385-3392 (2018). [IF=7.23]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2018Nanoscale1.jpg">
 								<br>
@@ -98,17 +98,21 @@
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2018ActaMat1.jpg">
 								<br>
 								
-								<li>Yan Huang, Zhen Li, Zengxia Pei, Zhuoxin Liu, Hongfei Li, Minshen Zhu, <b><u><b><u>Jun Fan</u></b>*</u></b>, Quanbin Dai, Mingdao Zhang, Liming Dai* and Chunyi Zhi*. Solid-State Rechargeable Zn//NiCo and Zn-air Batteries with Ultra-Long Lifetime and High Capacity: the Role of a Sodium Polyacrylate Hydrogel Electrolyte. <b><i>Adv. Energy Mater.</i></b>, Accepted (2018). [IF=21.88]</li>
+								<li>Yan Huang, Zhen Li, Zengxia Pei, Zhuoxin Liu, Hongfei Li, Minshen Zhu, <b><u>Jun Fan*</u></b>, Quanbin Dai, Mingdao Zhang, Liming Dai* and Chunyi Zhi*. <u><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.201802288"> Solid-State Rechargeable Zn//NiCo and Zn-air Batteries with Ultra-Long Lifetime and High Capacity: the Role of a Sodium Polyacrylate Hydrogel Electrolyte</a></u>. <b><i>Adv. Energy Mater.</i></b>, 1802288 (2018). [IF=21.88]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2018AEM1.jpg">
 								<br>
 								
-								<li>Jiale Ma, Qiangqiang Meng, and <b><u><b><u>Jun Fan</u></b>*</u></b>. <u><a href="http://pubs.rsc.org/en/content/articlelanding/2018/cp/c7cp08075a#!divAbstract">Charge Driven Lateral Structural Evolution of Ions in Electric Double Layer Capacitor Strongly Correlates with Differential Capacitance</a></u>. <b><i>Phys. Chem. Chem. Phys.</i></b>, 20: 9054-8063 (2018). [IF=3.91]</li>
+								<li>Jiale Ma, Qiangqiang Meng, and <b><u>Jun Fan*</u></b>. <u><a href="http://pubs.rsc.org/en/content/articlelanding/2018/cp/c7cp08075a#!divAbstract">Charge Driven Lateral Structural Evolution of Ions in Electric Double Layer Capacitor Strongly Correlates with Differential Capacitance</a></u>. <b><i>Phys. Chem. Chem. Phys.</i></b>, 20: 9054-8063 (2018). [IF=3.91]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2018PCCP2.jpg">
 								<br>
-									
-								<li>Yonghui Zhang, Zhen Li, Chun Chan, Jiale Ma, Chunyi Zhi, Xiaolin Cheng, and <b><u><b><u>Jun Fan</u></b>*</u></b>. <u><a href="http://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp07136a#!divAbstract">Ordering of Lipid Membranes Altered by Boron Nitride Nanosheet</a></u>. <b><i>Phys. Chem. Chem. Phys.</i></b>, 20: 3903-3910 (2018). Inside Cover Story [IF=3.91]</li>
+								
+								<li>Guojin Liang, Zhuoxin Liu, Funian Mo, Zijie Tang, Hongfei Li, Zifeng Wang, Venkateshwarlu Sarangi, <b><u>Jun Fan*</u></b>, and Chunyi Zhi*. Self-Healable Electroluminescent Devices. <b><i>Light: Sci. Appl.</i></b>, Accepted (2018). [IF=13.62]</li>
+								<br>
+
+								
+								<li>Yonghui Zhang, Zhen Li, Chun Chan, Jiale Ma, Chunyi Zhi, Xiaolin Cheng, and <b><u>Jun Fan*</u></b>. <u><a href="http://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp07136a#!divAbstract">Ordering of Lipid Membranes Altered by Boron Nitride Nanosheet</a></u>. <b><i>Phys. Chem. Chem. Phys.</i></b>, 20: 3903-3910 (2018). Inside Cover Story [IF=3.91]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2018PCCP1.jpg">
 								<br>
@@ -124,7 +128,7 @@
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2017JMCA1.jpg">
 								<br>
 								
-								<li>Qiangqiang Meng, Alice Hu, Chunyi Zhi, and <b><u><b><u>Jun Fan</u></b>*</u></b>. <u><a href="http://pubs.rsc.org/en/content/articlehtml/2017/CP/C7CP06171D">Theoretical Prediction of MXene-like Structure Ti3C4 as a High Capacity Electrode Material for Na ion Batteries</a></u>. <b><i>Phys. Chem. Chem. Phys.</i></b>, 19: 29106-29113 (2017). This article is part of the themed collection: <a href="http://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cp&themeid=6f8bc19b-215a-4535-b504-cc4450521837">2017 PCCP HOT Articles</a>. [IF=3.91]</li>
+								<li>Qiangqiang Meng, Alice Hu, Chunyi Zhi, and <b><u>Jun Fan*</u></b>. <u><a href="http://pubs.rsc.org/en/content/articlehtml/2017/CP/C7CP06171D">Theoretical Prediction of MXene-like Structure Ti3C4 as a High Capacity Electrode Material for Na ion Batteries</a></u>. <b><i>Phys. Chem. Chem. Phys.</i></b>, 19: 29106-29113 (2017). This article is part of the themed collection: <a href="http://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cp&themeid=6f8bc19b-215a-4535-b504-cc4450521837">2017 PCCP HOT Articles</a>. [IF=3.91]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2017PCCP1.jpg">
 								<br>
@@ -134,7 +138,7 @@
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2017NC1.jpg">
 								<br>
 								
-								<li>Chun Chan, Lanyuan Lu, Fei Sun, and <b><u><b><u>Jun Fan</u></b>*</u></b>. <u><a href="http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b09563">Molecular Details of the PH Domain of ACAP1BAR-PH Protein Binding to PIP-Containing Membrane</a></u>. <b><i>J. Phys. Chem. B</i></b>, 121: 3586-3596 (2017). [IF=3.15]</li>
+								<li>Chun Chan, Lanyuan Lu, Fei Sun, and <b><u>Jun Fan*</u></b>. <u><a href="http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b09563">Molecular Details of the PH Domain of ACAP1BAR-PH Protein Binding to PIP-Containing Membrane</a></u>. <b><i>J. Phys. Chem. B</i></b>, 121: 3586-3596 (2017). [IF=3.15]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2017JPCB1.jpg">
 								<br>
@@ -175,7 +179,7 @@
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2016NC1.jpg">
 								<br>
 								
-								<li>Chun Chan, Haohua Wen, Lanyuan Lu, and <b><u><b><u>Jun Fan</u></b>*</u></b>, <u><a href="http://cpb.iphy.ac.cn/EN/abstract/abstract66287.shtml">Multiscale Molecular Dynamics Simulations Membrane Remodelling by BAR Family Proteins</a></u>. <b><i>Chinese Physics B</i></b>, 25: 018707 (2016). Invited Review [IF=1.32]</li>
+								<li>Chun Chan, Haohua Wen, Lanyuan Lu, and <b><u>Jun Fan*</u></b>, <u><a href="http://cpb.iphy.ac.cn/EN/abstract/abstract66287.shtml">Multiscale Molecular Dynamics Simulations Membrane Remodelling by BAR Family Proteins</a></u>. <b><i>Chinese Physics B</i></b>, 25: 018707 (2016). Invited Review [IF=1.32]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2016CPB1.jpg">
 								<br>
@@ -192,7 +196,7 @@
 								<h4>2015</h4>
 								<br>
 								
-								<li>Qi Wu, Bolong Huang, T. A. Niehaus, Xiaojing Yang, <b><u><b><u>Jun Fan</u></b>*</u></b>, and Rui-Qin Zhang*. <u><a href="http://pubs.rsc.org/en/Content/ArticleLanding/2015/CP/C4CP06073C#!divAbstract">The Role of Tryptophans in the UV-B Absorption of a UVR8 Photoreceptor - A Computational Study</a></u>. <b><i>Phys. Chem. Chem. Phys.</i></b>, 17: 10786-10794 (2015).  [IF=3.91]</li>
+								<li>Qi Wu, Bolong Huang, T. A. Niehaus, Xiaojing Yang, <b><u>Jun Fan*</u></b>, and Rui-Qin Zhang*. <u><a href="http://pubs.rsc.org/en/Content/ArticleLanding/2015/CP/C4CP06073C#!divAbstract">The Role of Tryptophans in the UV-B Absorption of a UVR8 Photoreceptor - A Computational Study</a></u>. <b><i>Phys. Chem. Chem. Phys.</i></b>, 17: 10786-10794 (2015).  [IF=3.91]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2015PCCP1.jpg">
 								<br>
@@ -214,12 +218,12 @@
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2014DC1.jpg">
 								<br>
 								
-								<li>Heqin Huang, Rui Chen, Jiale Ma, Li Yan, Yingqi Zhao, Yu Wang, Wenjun Zhang*, <b><u><b><u>Jun Fan</u></b>*</u></b>, and Xianfeng Chen*. <u><a href="http://pubs.rsc.org/en/content/articlelanding/2014/cc/c4cc06659f#!divAbstract">Graphitic Carbon Nitride Solid Nanofilms for Selective and Recyclable Sensing of Cu2+ and Ag+ in Water and Serum</a></u>. <b><i>Chem. Comm.</i></b>, 50: 15415 (2014). [IF=6.29]</li>
+								<li>Heqin Huang, Rui Chen, Jiale Ma, Li Yan, Yingqi Zhao, Yu Wang, Wenjun Zhang*, <b><u>Jun Fan*</u></b>, and Xianfeng Chen*. <u><a href="http://pubs.rsc.org/en/content/articlelanding/2014/cc/c4cc06659f#!divAbstract">Graphitic Carbon Nitride Solid Nanofilms for Selective and Recyclable Sensing of Cu2+ and Ag+ in Water and Serum</a></u>. <b><i>Chem. Comm.</i></b>, 50: 15415 (2014). [IF=6.29]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2014CC1.jpg">
 								<br>
 								
-								<li>Yingzhi Xu, He Li, Ying-hua Jim, <b><u><b><u>Jun Fan</u></b>*</u></b>, and Fei Sun*. <u><a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0095965">Dimerization Interface of 3-hydroxyacly- CoA Tunes the Formation of Its Catalytic Intermediate</a></u>. <b><i>PloS ONE</i></b>, 9: 959965 (2014). [IF=2.77]</li>
+								<li>Yingzhi Xu, He Li, Ying-hua Jim, <b><u>Jun Fan*</u></b>, and Fei Sun*. <u><a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0095965">Dimerization Interface of 3-hydroxyacly- CoA Tunes the Formation of Its Catalytic Intermediate</a></u>. <b><i>PloS ONE</i></b>, 9: 959965 (2014). [IF=2.77]</li>
 								<br>
 								<img class="pubimag center-block img-responsive" src="../img/paperlist/2014PlosONE1.jpg">
 								<br>
